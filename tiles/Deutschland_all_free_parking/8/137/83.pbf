@@ -1,0 +1,80 @@
+øix
+Deutschland_all_free_parking(€ idtags"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"[
+Y{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side"}"[
+Y{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"]
+[{"amenity":"parking","fee":"no","park_ride":"yes","supervised":"no","wheelchair":"limited"}"e
+c{"amenity":"parking","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"street_side"}"g
+e{"access":"yes","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"55","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"415","fee":"no","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"p
+n{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"p
+n{"access":"permissive","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"u
+s{"access":"customers","amenity":"parking","capacity:disabled":"6","fee":"no","park_ride":"yes","surface":"asphalt"}"u
+s{"access":"yes","amenity":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"v
+t{"amenity":"parking","capacity:disabled":"yes","fee":"no","maxstay":"6 hours","park_ride":"yes","parking":"surface"}"{
+y{"access":"yes","amenity":"parking","capacity":"200","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"{
+y{"access":"yes","amenity":"parking","capacity":"340","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"|
+z{"access":"private","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"|
+z{"access":"yes","amenity":"parking","capacity":"40","fee":"no","park_ride":"yes","parking":"surface","surface":"concrete"}"|
+z{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"diagonal"}"
+}{"access":"yes","amenity":"parking","capacity":"59","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"82","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"concrete","wheelchair":"yes"}"
+}{"amenity":"parking","building":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"multi-storey","supervised":"no"}"€
+~{"access":"yes","amenity":"parking","capacity":"127","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","covered":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"€
+~{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"limited"}"
+{"access":"yes","amenity":"parking","capacity":"53","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular"}"ƒ
+€{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ƒ
+€{"access":"yes","amenity":"parking","fee":"no","goods":"no","hgv":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"‡
+„{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"concrete:plates","wheelchair":"yes"}"ˆ
+…{"access":"yes","amenity":"parking","fee":"no","level":"0","maxheight":"3.4","maxweight":"3.5","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","capacity":"4","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","capacity":"5","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"amenity":"parking","capacity":"184","capacity:disabled":"10","capacity:parent":"6","fee":"no","park_ride":"yes","parking":"surface"}"‹
+ˆ{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","name":"Bahnhofsparkplatz","park_ride":"yes","parking":"surface"}"Ž
+‹{"access":"yes","amenity":"parking","capacity:disabled":"4","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","capacity":"24","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"“
+{"access":"yes","amenity":"parking","capacity":"78","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"”
+‘{"access":"yes","amenity":"parking","capacity":"116","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"•
+’{"access":"yes","amenity":"parking","capacity":"50","fee":"no","park_ride":"yes","parking":"surface","supervised":"yes","surface":"paving_stones"}"™
+–{"access":"yes","amenity":"parking","covered":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"š
+—{"access":"yes","amenity":"parking","capacity":"34","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"›
+˜{"access":"yes","amenity":"parking","capacity":"6","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no"}"œ
+™{"access":"yes","amenity":"parking","area":"yes","capacity":"12","capacity:disabled":"1","covered":"no","fee":"no","park_ride":"yes","parking":"surface"}"œ
+™{"access":"yes","amenity":"parking","capacity":"10","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no"}"
+š{"access":"yes","amenity":"parking","capacity":"150","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+š{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"ž
+›{"access":"yes","amenity":"parking","capacity":"200","fee":"no","operator:type":"public","park_ride":"yes","parking":"surface","surface":"concrete:plates"}"ž
+›{"access":"yes","amenity":"parking","fee":"no","name":"P+R Berlin-Lichtenberg","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"Ÿ
+œ{"access":"yes","amenity":"parking","capacity":"27","capacity:disabled":"1","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¢
+Ÿ{"access":"yes","amenity":"parking","capacity:charging":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¥
+¢{"access":"yes","amenity":"parking","capacity":"90","fee":"no","name":"Park and Ride","operator":"Stadt FÃ¼rstenberg Havel","park_ride":"yes","parking":"surface"}"¨
+¥{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","covered":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¨
+¥{"access":"yes","amenity":"parking","capacity":"3","capacity:disabled":"3","covered":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"©
+¦{"access":"yes","amenity":"parking","capacity":"1","covered":"no","fee":"no","note":"for Motorcycles","park_ride":"yes","parking":"surface","surface":"paving_stones"}"«
+¨{"access":"yes","amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","surface":"paving_stones"}"¬
+©{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz S-Bahnhof Zepernick","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"­
+ª{"access":"yes","amenity":"parking","capacity":"75","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"®
+«{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"5","fee":"no","name":"Bahnhof Vehlefanz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¯
+¬{"access":"yes","amenity":"parking","fee":"no","name":"P&R Bahnhof Blumberg","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"°
+­{"access":"yes","amenity":"parking","fee":"no","lit":"yes","orientation":"perpendicular","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paving_stones"}"²
+¯{"access":"yes","amenity":"parking","capacity":"8","capacity:disabled":"3","fee":"no","operator:type":"public","park_ride":"yes","parking":"surface","surface":"paving_stones"}"µ
+²{"access":"yes","amenity":"parking","capacity:disabled":"4","capacity:parent":"0","capacity:women":"0","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¶
+³{"access":"yes","amenity":"parking","capacity":"18","covered":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"º
+·{"access":"yes","amenity":"parking","capacity:disabled":"no","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no","surface":"concrete"}"À
+½{"access":"yes","amenity":"parking","capacity":"56","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ã
+À{"access":"yes","amenity":"parking","covered":"no","fee":"no","fixme":"Form passt nicht Anzahl ParkplÃ¤tze passt nicht Lampen fehlen","park_ride":"yes","parking":"surface","surface":"asphalt"}"Ä
+Á{"access":"yes","amenity":"parking","capacity":"11","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","surface":"paving_stones"}"Å
+Â{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"ì
+é{"access":"yes","amenity":"parking","capacity":"11","fee":"no","orientation":"diagonal","park_ride":"yes","parking":"street_side","parking:street_side:of":"service","parking:street_side:of:name":"OberfeldstraÃŸe","surface":"asphalt"}" ˆý" ƒõš[" „÷i" „ ¯]" ˆ˜Ÿ," ŠÃþ" Ž£÷¬" Ž¬í
+" Žß³d" Ïªø" ’‚¶Ô" ’Žð" ’¥³" ”¥³" •ŸÛ" –ÔÃ®" —×²Œ" —ëüP" ˜–Æ^" ˜·³¯" ˜å¼" ˜óˆ®" ™¬ç˜" ™Ö»ž" š‹Ý" š¬ç˜" œ””†" ””†" žÌš`" ¡»˜{" £‹àL" ¤˜þû" «¥q" ¬Ç¢œ" ­ª‹´" ®‹Ð&" ®±¨Œ" ®íõ" ¯¿6" °Åªé" ²Ç×q" ³¥¢" ³¹—A" ·ª‚" ·ûåC" ¸ªú" ¸øà" ¹²¦" »â-" À…“" Åˆí¥" ÆÚÇ}" ÈîŸ" ÍÅñ." Îƒ÷¿" Ð¥Ë„" ÐîÕ¯" Òµ¬ä" Ó¬úy" Ôõà”" Õõà”" Öõà”" ×õà”" Ø®­" Øõà”" Ùô¤î" Ùõà”" Úô¤î" Úõà”" Ûõà”" Üõà”" Ýõà”" Þõà”" ßõà”" àæœz" àõà”" á¼¤" áÆØÚ" áî©" áõà”" â¿¯ã)" âõà”" ãõà”" ä¡ÒÔ" ä¸†" äõà”" å¬Ÿ," åõà”" æõà”" ç°çn" èõà”" éÙíS" éõà”" êÑñ" êõà”" ëÑñ" ëõà”" ìõÙ" ìõà”" ñÐ" òÒ" ò£Äê" òþ²"" ô¥ÊX" ÷Ý¬	" øÌšŠ" øæ‘x" ù›û" ûÚâV" ü¥ÊX" ýÊ)" ý¡ß¬ j"	Š– }7"	„ô
+ v"	Þì: "	àî:  "	îì: p
+"	üî: N
+"	‚ò: —"	ÄÄ8 f>"	ì†. °"	‚ò+ ^="	ÐÆ, ž"	°¾; a("	Ú¶: Q)"	è¨: š%"	„â: n"	‚¦4 ‚"	 È6 mB"	Îì5 s "	æÔ9 ® "	ÂÎ> i"	˜ä< O"	„7\ ³+"	Œ7f ]/"	È7– l/"	È7– TC"	þ! - „ "	²#². ‰&"	´#À. Z "	¢.Ò+ ­F"	¤!˜3 o"	¦# 1 y"	¦# 1 – "	ª#¢1 u"	–#ª3 g0"	ä#ò7 q."	ä#ò7 _"	ê'Ú2 \<"	ì'æ2 W9"	ö'æ2 ‹8"	ø'ä2 :"	ø'æ2 V"	þ'ä2  "	ˆ'À3 kA"	‚&À4 b3"	Š&Î4 X	"	ž#Ú8 cD"	Ê&–9 `D"	Ì&˜9 ±D"	Î&š9 ·"	Ô&ž9 µ-"	Ä&¨9 K"	ô&â9 J4"	º&ö= |,"	Œ(Ô2 ˜ "	²)†2 r"	È*Ä1 £?"	¶+ò6 dG"	´.ê5 e;"	¸.ê5 ©!"	À)¤9 w!"	²)²9 §!"	¸)²9 ²'"	ª(´; I"	ð(Ü= R"	ú(Ú= t*"	ú)à= ƒ "	Æ(à> h"	ž)¶> ¥5"	¬*ä= zE"	Æ+Ú= {H"	Ì+þ= x"	²,æ; ¸"	¶,ä; [2"	˜-À= U1"	È/˜= P@"	’1¼4 …$"	¸3Î< †$"	¸3Ì< ¢$"	¸3Î< ¡$"	¸3Î< ‡$"	º3Ì< Ÿ$"	¸3Î< ¬$"	º3Î< ˆ$"	¼3Ì< ¤$"	¼3Î< ª$"	¼3Î< œ$"	º3Î< ›$"	¼3Î< ¦$"	¼3Ì< ¨$"	¼3Î< M"	¼3Î< ™$"	¼3Î< Š#"	¾3Ì< #"	¾3Î< Œ#"	À3Ì< Ž#"	À3Î< ‘#"	À3Î< ’#"	À3Î< •#"	À3Ð< #"	À3Î< “#"	À3Î< ¹#"	À3Ð< ”"	È3Â< L"	Ä5¢< S"	Ê5¢< Y6"	þ8ø7 €"	Ê9Ê< « "	è’@ ´"	æœA ~""	Ô®@ ¯"	ð ŽA ¶"	’!€A

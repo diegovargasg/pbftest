@@ -1,0 +1,219 @@
+šÇx
+Deutschland_all_free_parking(€ idtags"4
+2{"amenity":"parking","fee":"no","park_ride":"yes"}"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"S
+Q{"amenity":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"surface"}"U
+S{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","supervised":"no"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"X
+V{"amenity":"parking","capacity":"50","fee":"no","park_ride":"yes","parking":"surface"}"Z
+X{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"Z
+X{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"[
+Y{"access":"private","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"[
+Y{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side"}"[
+Y{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"c
+a{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"85","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"91","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"amenity":"parking","fee":"no","name":"P&R MÃ¼hlener Bahnhof","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"100","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"129","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"161","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"yahoo"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"no"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"k
+i{"access":"yes","amenity":"parking","fee":"no","maxstay":"2 hours","park_ride":"yes","parking":"surface"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"m
+k{"access":"customers","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface"}"m
+k{"access":"customers","amenity":"parking","capacity":"14","fee":"no","park_ride":"yes","parking":"surface"}"m
+k{"access":"customers","amenity":"parking","capacity":"41","fee":"no","park_ride":"yes","parking":"surface"}"m
+k{"access":"customers","amenity":"parking","capacity":"60","fee":"no","park_ride":"yes","parking":"surface"}"n
+l{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"o
+m{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"5","fee":"no","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","fee":"no","name":"P + R Benzelrath","park_ride":"yes","parking":"surface"}"s
+q{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"yahoo;photograph"}"u
+s{"access":"yes","amenity":"parking","check_date:fee":"2024-09-05","fee":"no","park_ride":"yes","parking":"surface"}"y
+w{"access":"yes","amenity":"parking","capacity":"15","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"y
+w{"access":"yes","amenity":"parking","capacity":"26","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"z
+x{"access":"yes","amenity":"parking","covered":"yes","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"{
+y{"access":"yes","amenity":"parking","capacity":"100","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"{
+y{"access":"yes","amenity":"parking","capacity:disabled":"6","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"|
+z{"access":"yes","amenity":"parking","capacity":"200","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"|
+z{"access":"yes","amenity":"parking","fee":"no","name":"Festplatz","park_ride":"yes","parking":"surface","supervised":"no"}"|
+z{"amenity":"parking","fee":"no","name":"Park&Ride Gerresheim Krankenhaus U-Bahnhof","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","capacity":"63","fee":"no","name":"P&R,Nieukerk","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","covered":"yes","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"~
+|{"access":"yes","amenity":"parking","fee":"no","name":"P+R, DÃ¼sseldorf-Rath, Rath S","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"
+}{"access":"yes","amenity":"parking","fee":"no","name":"B+R, Ratingen, Ratingen Ost Bf","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"compacted"}"€
+~{"access":"customers","amenity":"parking","capacity":"95","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"€
+~{"access":"yes","amenity":"parking","capacity":"42","fee":"no","name":"P&R,HÃ¶sel","park_ride":"yes","parking":"multi-storey"}"€
+~{"amenity":"parking","capacity":"50","disabled":"yes","fee":"no","name":"P+R Wesseling","park_ride":"yes","parking":"surface"}"
+{"access":"yes","amenity":"parking","capacity":"21","fee":"no","name":"Haan Bahnhof P+R","park_ride":"yes","parking":"surface"}"
+{"access":"yes","amenity":"parking","capacity":"40","fee":"no","name":"P&R, Rheinhausen","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"yes","amenity":"parking","fee":"no","name":"Anrath Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ƒ
+€{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof Anrath","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ƒ
+€{"amenity":"parking","capacity":"26","fee":"no","fixme":"lit, surface","name":"Am Kaiser","park_ride":"yes","parking":"surface"}"…
+‚{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"†
+ƒ{"amenity":"parking","capacity":"28","fee":"no","name":"P+R Bornheim","park_ride":"yes","parking":"surface","wheelchair":"limited"}"‡
+„{"access":"yes","amenity":"parking","capacity":"18","fee":"no","name":"P&R, Duisburg Schlenk","park_ride":"yes","parking":"surface"}"‡
+„{"access":"yes","amenity":"parking","fee":"no","name":"P+R Kiebitzweg","park_ride":"yes","parking":"surface","wheelchair":"limited"}"‡
+„{"amenity":"parking","fee":"no","name":"Sindorf Bahnhof","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"‡
+„{"access":"yes","amenity":"parking","capacity":"40","fee":"no","lit":"yes","name":"Park and Ride West","opening_hours":"24/7","operator":"Stadt Bedburg","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"paving_stones"}"ˆ
+…{"access":"yes","amenity":"parking","capacity":"22","fee":"no","name":"P&R,Solingen Vogelpark","park_ride":"yes","parking":"surface"}"ˆ
+…{"access":"yes","amenity":"parking","capacity":"6","fee":"no","name":"P&R, Essen-Bergeborbeck","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","fee":"no","maxstay":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"mud"}"Š
+‡{"amenity":"parking","fee":"no","name":"Waldorf Stadbahn","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Œ
+‰{"access":"yes","amenity":"parking","capacity":"20","fee":"no","name":"P&R, Essen-Zollverein Nord","park_ride":"yes","parking":"surface"}"Œ
+‰{"access":"yes","amenity":"parking","capacity":"204","capacity:charging":"2","fee":"no","hgv":"no","park_ride":"yes","parking":"surface"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","name":"P+R Kettwig Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"limited"}"
+Š{"access":"customers","amenity":"parking","capacity":"71","customers":"public_transport","fee":"no","park_ride":"yes","parking":"surface"}"
+Š{"access":"yes","amenity":"parking","capacity":"100","fee":"no","name":"P&R,Mettmann Stadtwald,Ost","park_ride":"yes","parking":"surface"}"
+Š{"access":"yes","amenity":"parking","capacity":"146","fee":"no","name":"Park&Ride Hilden S-Bahnhof","park_ride":"yes","parking":"surface"}"
+Š{"access":"yes","amenity":"parking","capacity":"57","fee":"no","name":"P&R,Oberhausen-Holten, Nord","park_ride":"yes","parking":"surface"}"
+‹{"access":"customers","amenity":"parking","fee":"no","lit":"yes","opening_hours":"Mo-Su 06:00-22:00","park_ride":"yes","parking":"surface"}"
+‹{"access":"yes","amenity":"parking","capacity":"400","capacity:car_sharing":"2","capacity:charging":"4","capacity:disabled":"6","fee":"no","name":"P&R,Langenfeld (Rheinl)-Berghausen","park_ride":"yes","parking":"surface","toilets:wheelchair":"yes","wheelchair":"yes"}"
+Œ{"access":"yes","amenity":"parking","capacity":"100","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"
+Œ{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"
+{"access":"yes","amenity":"parking","capacity":"896","fee":"no","name":"Park&Ride Haus Meer U-Bahnhof","park_ride":"yes","parking":"surface"}"
+{"amenity":"parking","check_date":"2023-09-17","fee":"no","name":"Park&Ride Wittlaer U-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 8911","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}"‘
+{"access":"yes","amenity":"parking","fee":"no","name":"DreilindenstraÃŸe","park_ride":"yes","parking":"surface","ref":"P6","wheelchair":"yes"}"“
+{"access":"customers","amenity":"parking","capacity":"68","capacity:disabled":"1","fee":"no","name":"P&R","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","capacity":"28","fee":"no","park_ride":"yes","parking":"street_side","surface":"asphalt","wheelchair":"yes"}"“
+{"amenity":"parking","fee":"no","name":"Park&Ride SÃ¼dfriedhof","park_ride":"yes","parking":"surface","surface":"gravel","wheelchair":"limited"}"”
+‘{"access":"yes","amenity":"parking","capacity":"26","fee":"no","name":"Haan Bahnhof P+R","park_ride":"yes","parking":"surface","supervised":"no"}"•
+’{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"–
+“{"access":"yes","amenity":"parking","capacity":"394","capacity:disabled":"4","fee":"no","name":"P+R Benrath","park_ride":"yes","parking":"surface"}"–
+“{"access":"yes","amenity":"parking","capacity":"71","fee":"no","name":"P&R,Erkrath, SÃ¼d","park_ride":"yes","parking":"surface","wheelchair":"yes"}"–
+“{"amenity":"parking","capacity":"50","capacity:disabled":"2","fee":"no","name":"P&R, Nettetal-Breyell, Nord","park_ride":"yes","parking":"surface"}"—
+”{"access":"private","amenity":"parking","capacity":"169","fee":"no","name":"Park&Ride Ratingen-Ost S-Bahnhof","park_ride":"yes","parking":"surface"}"˜
+•{"access":"yes","amenity":"parking","check_date":"2021-06-12","fee":"no","name":"P2","park_ride":"yes","parking":"surface","surface":"paving_stones"}"™
+–{"access":"yes","amenity":"parking","covered":"yes","fee":"no","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"limited"}"™
+–{"access":"yes","amenity":"parking","fee":"no","name":"P+R Am RÃ¶ttgen","note":"Parkscheibe","park_ride":"yes","parking":"surface","wheelchair":"yes"}"š
+—{"access":"yes","amenity":"parking","capacity":"53","fee":"no","name":"P&R,Rheinberg (Rheinl)","park_ride":"yes","parking":"surface","surface":"paved"}"œ
+™{"access":"yes","amenity":"parking","capacity":"154","fee":"no","name":"Park&Ride DÃ¼sseldorf-Hellerhof S-Bahnhof","park_ride":"yes","parking":"surface"}"œ
+™{"access":"yes","amenity":"parking","capacity":"25","fee":"no","name":"P&R,Krefeld-Linn","park_ride":"yes","parking":"surface","surface":"paving_stones"}"œ
+™{"access":"yes","amenity":"parking","capacity":"3","fee":"no","maxstay":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"œ
+™{"access":"yes","amenity":"parking","capacity":"37","capacity:disabled":"2","fee":"no","name":"P&R, Duisburg-Rahm","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","capacity":"39","capacity:disabled":"2","fee":"no","name":"P&R Bornheim-Hersel","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","capacity":"66","capacity:disabled":"2","fee":"no","name":"Bahnhof Odenkirchen","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Park&Ride SÃ¼dpark U-Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"
+›{"access":"yes","amenity":"parking","capacity":"14","fee":"no","name":"Bottrop Feldhausen Bahnhof","park_ride":"yes","parking":"surface","supervised":"no"}"¡
+{"access":"yes","amenity":"parking","capacity":"85","fee":"no","name":"P&R, DÃ¼sseldorf-Garath, Ost","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¢
+Ÿ{"access":"customers","amenity":"parking","capacity":"52","capacity:disabled":"2","fee":"no","name":"P&R,Kevelaer, SÃ¼d","park_ride":"yes","parking":"surface"}"¢
+Ÿ{"access":"yes","amenity":"parking","fee":"no","name":"Park&Ride SÃ¼dfriedhof","park_ride":"yes","parking":"surface","surface":"gravel","wheelchair":"limited"}"£
+ {"access":"yes","amenity":"parking","capacity":"14","capacity:disabled":"1","fee":"no","name":"P&R, Duisburg-GroÃŸenbaum","park_ride":"yes","parking":"surface"}"£
+ {"access":"yes","amenity":"parking","capacity":"150","capacity:disabled":"3","fee":"no","name":"Park & Ride Kaarster See","park_ride":"yes","parking":"surface"}"£
+ {"access":"yes","amenity":"parking","fee":"no","name":"Rathaus Bornheim","park_ride":"yes","parking":"surface","ref":"2","surface":"asphalt","wheelchair":"yes"}"£
+ {"access":"yes","amenity":"parking","capacity":"52","capacity:disabled":"2","covered":"no","fee":"no","lit":"yes","name":"P&R E.- Frohnhausen","opening_hours":"24/7","operator":"Deutsche Bahn","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"§
+¤{"access":"yes","amenity":"parking","capacity":"13","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"§
+¤{"access":"yes","amenity":"parking","capacity":"54","capacity:disabled":"4","fee":"no","name":"P+R, DÃ¼sseldorf-Rath, Rath S","park_ride":"yes","parking":"surface"}"©
+¦{"access":"yes","amenity":"parking","capacity":"40","fee":"no","name":"P+R S Eller SÃ¼d","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"©
+¦{"access":"yes","addr:city":"DÃ¼sseldorf","addr:country":"DE","addr:housenumber":"82","addr:postcode":"40549","addr:street":"Simon-Gatzweiler-Platz","amenity":"parking","fee":"no","name":"Park&Ride Heerdter Krankenhaus U-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 89-11","surface":"grass","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}"ª
+§{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular"}"ª
+§{"access":"yes","amenity":"parking","capacity":"71","capacity:disabled":"3","fee":"no","name":"P&R, Gelsenkirchen-Buer Nord","park_ride":"yes","parking":"street_side"}"ª
+§{"access":"yes","amenity":"parking","building":"yes","capacity":"522","capacity:disabled":"yes","capacity:women":"yes","check_date:fee":"2023-03-20","fee":"no","lit":"yes","name":"P+R","opening_hours":"24/7","park_ride":"yes","parking":"multi-storey","smoothness":"excellent","wheelchair":"yes"}"«
+¨{"access":"yes","addr:postcode":"51377","addr:street":"Moosweg","amenity":"parking","capacity":"46","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"­
+ª{"access":"yes","amenity":"parking","capacity":"208","capacity:disabled":"5","fee":"no","lit":"yes","name":"Rommerskirchen Bahnhof","park_ride":"yes","parking":"surface"}"­
+ª{"access":"yes","addr:city":"Erkrath","addr:housenumber":"9","addr:postcode":"40699","addr:street":"HÃ¶henweg","amenity":"parking","capacity":"255","capacity:disabled":"2","fee":"no","name":"P+R, Erkrath-Hochdahl-Millrath","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"®
+«{"access":"yes","amenity":"parking","capacity":"19","fee":"no","name":"Buchholz S-Bahn Parkplatz","park_ride":"yes","parking":"surface","source":"Bing","wheelchair":"yes"}"¯
+¬{"access":"yes","amenity":"parking","building":"yes","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no","surface":"paving_stones","wheelchair":"limited"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"2","fee":"no","name":"Bahnhofsparkplatz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"°
+­{"access":"yes","amenity":"parking","fee":"no","name":"Park&Ride BurgmÃ¼llerstraÃŸe/Staufenplatz U-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 89-11","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html","wheelchair":"yes"}"²
+¯{"access":"yes","amenity":"parking","capacity":"122","capacity:disabled":"3","fee":"no","name":"P&R,Wickrath","park_ride":"yes","parking":"street_side","wheelchair":"limited"}"²
+¯{"access":"yes","amenity":"parking","capacity":"76","capacity:disabled":"5","fee":"no","name":"P&R,Meerbusch-Osterath","park_ride":"yes","parking":"surface","supervised":"no"}"²
+¯{"access":"yes","amenity":"parking","covered":"yes","fee":"no","layer":"2","name":"P+R","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"limited"}"²
+¯{"access":"customers","addr:city":"Essen","addr:housenumber":"58","addr:postcode":"45219","addr:street":"Werdener StraÃŸe","amenity":"parking","capacity":"21","fee":"no","lit":"yes","name":"P&R, Essen, Essen Kettig","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"³
+°{"access":"yes","amenity":"parking","capacity":"67","capacity:disabled":"4","fee":"no","name":"P&R, Aldekerk, Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"´
+±{"access":"permit","amenity":"parking","fee":"no","name":"Park&Ride Gerresheim Krankenhaus U-Bahnhof","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"´
+±{"access":"yes","amenity":"parking","capacity":"80","capacity:disabled":"2","fee":"no","name":"P&R,Voerde (Niederrhein)","park_ride":"yes","parking":"surface","surface":"paved"}"´
+±{"access":"yes","amenity":"parking","fee":"no","note":"(2018) Das ESRI Luftbild zeigt noch die Nutzung als Busbahnhof.","park_ride":"yes","parking":"surface","wheelchair":"yes"}"µ
+²{"access":"yes","amenity":"parking","capacity":"6","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no","surface":"paving_stones"}"¶
+³{"access":"yes","amenity":"parking","capacity":"121","capacity:disabled":"2","fee":"no","name":"B+R, Erkrath, Hochdahl S","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¶
+³{"access":"yes","amenity":"parking","capacity":"250","capacity:disabled":"2","fee":"no","name":"P&R, Korschenbroich, Ost","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¶
+³{"access":"yes","amenity":"parking","capacity":"99","fee":"no","name":"Park + Ride Waldfriedhof","operator":"Stadt Aachen","park_ride":"yes","parking":"surface","supervised":"no"}"¶
+³{"access":"yes","amenity":"parking","fee":"no","fixme":"wheelchair still no?","name":"P+R, Grevenbroich, Grevenbroich Bf","park_ride":"yes","parking":"surface","wheelchair":"yes"}"·
+´{"access":"customers","amenity":"parking","capacity":"50","capacity:disabled":"2","fee":"no","name":"P&R Wesseling-Urfeld","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"100","capacity:car_sharing":"1","capacity:charging":"4","fee":"no","name":"P&R, Geldern, West","park_ride":"yes","parking":"surface"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"56","capacity:charging":"2","capacity:disabled":"2","fee":"no","name":"P&R,Kleinenbroich, Ost","park_ride":"yes","parking":"surface"}"¹
+¶{"access":"customers","amenity":"parking","capacity":"392","capacity:disabled":"12","fee":"no","name":"Bottrop Hauptbahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"110","capacity:disabled":"3","fee":"no","name":"P&R, Kapellen-Wevelinghoven","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"25","fee":"no","lit":"no","name":"P&R,Essen-Dellwig","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"271","capacity:charging":"4","capacity:disabled":"5","fee":"no","name":"P&R","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"672","fee":"no","lit":"yes","name":"Park&Ride Weiden West","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"90","capacity:disabled":"3","fee":"no","name":"P&R,Oberhausen-Holten, SÃ¼d","park_ride":"yes","parking":"surface","surface":"asphalt"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"160","capacity:disabled":"2","fee":"no","name":"Park&Ride DÃ¼sseldorf-Garath S-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 89-11","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}"»
+¸{"access":"yes","amenity":"parking","building":"yes","capacity":"284","capacity:disabled":"12","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"multi-storey"}"»
+¸{"access":"yes","amenity":"parking","capacity":"109","capacity:charging":"3","capacity:disabled":"4","fee":"no","name":"P&R,Oberhausen-Sterkrade","park_ride":"yes","parking":"surface"}"¼
+¹{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"2","fee":"no","name":"B+R, Erkrath, Erkrath S-Bahnhof","park_ride":"yes","parking":"surface","source":"survey"}"¼
+¹{"amenity":"parking","capacity":"50","fee":"no","name":"P+R, KÃ¶ln, Bf Volkhovener Weg (DB) (S)","park_ride":"yes","parking":"surface","source":"photography;survey","surface":"asphalt"}"½
+º{"access":"yes","amenity":"parking","description":"Pendlerparkplatz","fee":"no","lit":"no","motorcar":"designated","name":"Park & Ride AS BÃ¼ttgen","park_ride":"yes","parking":"surface"}"¾
+»{"access":"yes","amenity":"parking","capacity":"180","capacity:charging":"1","capacity:disabled":"2","fee":"no","name":"P&R,Mettmann Stadtwald,West","park_ride":"yes","parking":"surface"}"¾
+»{"access":"yes","amenity":"parking","capacity":"212","capacity:disabled":"1","fee":"no","lit":"yes","name":"P&R, BÃ¼ttgen","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¾
+»{"access":"yes","amenity":"parking","capacity":"360","capacity:disabled":"9","fee":"no","name":"P&R,Oberhausen Hbf, SÃ¼d","operator":"Deutsche Bahn","park_ride":"yes","parking":"surface"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"10","fee":"no","operator":"Stadt DÃ¼ren","park_ride":"yes","parking":"street_side","supervised":"no","surface":"asphalt","wheelchair":"yes"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"117","capacity:disabled":"4","fee":"no","lit":"yes","name":"P&R,Geldern, Ost","park_ride":"yes","parking":"surface","surface":"cobblestone"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"45","capacity:disabled":"5","fee":"no","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"71","capacity:disabled":"2","fee":"no","hgv":"no","name":"P&R, IKEA Kaarst","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¿
+¼{"access":"yes","amenity":"parking","fee":"no","fixme":"wheelchair still limited?","name":"P+R, Grevenbroich, Grevenbroich Bf","park_ride":"yes","parking":"surface","wheelchair":"limited"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"12","fee":"no","name":"P+R,Holzheim (b Neuss)","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","source":"https://www.mapillary.com/app/?focus=map&pKey=907990349777723&signs=true&points=true&lat=51.165386702947&lng=6.6648809659553&z=17"}"Á
+¾{"access":"yes","amenity":"parking","capacity":"39","capacity:disabled":"3","fee":"no","motorcar":"designated","name":"P&R, Norf, Nord","park_ride":"yes","parking":"surface","source":"Bing"}"Â
+¿{"access":"yes","amenity":"parking","capacity":"158","capacity:charging":"2","capacity:disabled":"2","fee":"no","name":"P&R, Kempen (Niederrhein), Nord","park_ride":"yes","parking":"surface"}"Â
+¿{"access":"yes","amenity":"parking","capacity":"141","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"unknown","fee":"no","name":"P+R Heinrich-LÃ¼bke-Ufer","park_ride":"yes","parking":"surface","ref":"16","supervised":"no","surface":"paved","wikimedia_commons":"Category:Heinrich-LÃ¼bke-Ufer (KÃ¶ln)"}"Ã
+À{"access":"yes","amenity":"parking","capacity":"32","capacity:disabled":"2","fee":"no","name":"P+R Pumpstation","operator":"Stadt Haan","park_ride":"yes","parking":"surface","supervised":"no"}"Ä
+Á{"access":"yes","amenity":"parking","building":"yes","check_date:opening_hours":"2024-09-15","fee":"no","name":"Parkhaus","opening_hours:signed":"no","park_ride":"yes","parking":"multi-storey"}"Ä
+Á{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"1","fee":"no","name":"P&R, Kaarst Mitte / HolzbÃ¼ttgen","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Ç
+Ä{"access":"yes","amenity":"parking","capacity":"76","capacity:charging":"2","capacity:disabled":"5","fee":"no","name":"P&R, Gladbeck West","park_ride":"yes","parking":"surface","wheelchair":"yes"}"È
+Å{"access":"yes","amenity":"parking","capacity":"67","capacity:car_sharing":"1","capacity:charging":"1","fee":"no","name":"P&R, Rheydt Hbf","park_ride":"yes","parking":"surface","surface":"asphalt"}"Ê
+Ç{"access":"yes","amenity":"parking","capacity":"300","capacity:disabled":"4","fee":"no","lit":"yes","name":"Horrem Bahnhof","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Ê
+Ç{"access":"yes","amenity":"parking","capacity":"348","capacity:disabled":"10","fee":"no","lit":"limited","name":"P&R, Neuss Allerheiligen, 1","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ë
+È{"access":"yes","amenity":"parking","capacity":"150","capacity:disabled":"yes","fee":"no","name":"Park and Ride Langerwehe","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"Í
+Ê{"access":"yes","amenity":"parking","capacity":"119","capacity:charging":"2","capacity:disabled":"4","fee":"no","name":"P&R,Kleinenbroich, West","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Î
+Ë{"access":"yes","amenity":"parking","capacity":"170","capacity:charging":"2","fee":"no","lit":"yes","name":"P&R,Essen-Werden","park_ride":"yes","parking":"surface","smoothness":"bad","surface":"asphalt"}"Ï
+Ì{"access":"yes","amenity":"parking","capacity":"82","fee":"no","note":"Ã„nderungen nach Umbau im April 2016. Nicht mit alten Luftbildern korrigieren!","park_ride":"yes","parking":"surface","ref":"P-Nord"}"Ğ
+Í{"access":"yes","amenity":"parking","capacity":"130","capacity:disabled":"3","fee":"no","name":"P&R,Oberhausen Hbf Nord","operator":"Deutsche Bahn","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ñ
+Î{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"no","fee":"no","name":"P+R, Wesseling, Eichholz","park_ride":"yes","parking":"surface"}"Ò
+Ï{"access":"yes","amenity":"parking","capacity":"233","capacity:charging":"2","capacity:disabled":"2","fee":"no","lit":"yes","name":"P&R, Lindenplatz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ô
+Ñ{"access":"yes","amenity":"parking","capacity":"35","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"unpaved","wheelchair":"yes"}"Ô
+Ñ{"amenity":"parking","capacity":"160","capacity:disabled":"3","covered":"no","fee":"no","lit":"yes","name":"P&R,Dormagen, Ost","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"Õ
+Ò{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"Ö
+Ó{"access":"yes","amenity":"parking","description":"Kostenlos, 24 Stunden unbegrenzt, Anschluss an die ASEAG-Linie 2 in der Aachener-und-MÃ¼nchener-Allee an der Haltestelle GoethestraÃŸe in beiden Richtungen.","fee":"no","name":"P & R Hangeweiher","note":"Eine spÃ¤tere Beleuchtung des Platzes ist geplant.","park_ride":"yes","parking":"surface","source":"local knowledge;http://www.ulis-nachschlag.de/2020/20201119_pr-loens.php","supervised":"no","surface":"unpaved"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"54","capacity:disabled":"2","fee":"no","lit":"yes","name":"P&R,Nievenheim, West","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"70","capacity:disabled":"2","fee":"no","lit":"yes","name":"P&R, Nievenheim, Ost","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"Ø
+Õ{"access":"yes","amenity":"parking","capacity":"73","capacity:disabled":"1","fee":"no","maxstay":"no","name":"P&R, DÃ¼sseldorf-Eller Mitte","park_ride":"yes","parking":"surface","supervised":"no","surface":"sett"}"Û
+Ø{"access":"yes","amenity":"parking","capacity":"36","capacity:women":"6","covered":"no","fee":"no","lit":"yes","name":"P&R, Dormagen","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"Û
+Ø{"access":"yes","amenity":"parking","capacity":"64","capacity:disabled":"2","fee":"no","maxstay":"unlimited","name":"P&R, Friedrichsfeld (Niederrhein)","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Û
+Ø{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Ü
+Ù{"access":"yes","amenity":"parking","capacity":"179","fee":"no","name":"Park + Ride Westfriedhof","operator":"Stadt Aachen","park_ride":"yes","parking":"surface","source":"image","supervised":"no","surface":"asphalt"}"Ü
+Ù{"access":"yes","amenity":"parking","capacity":"200","capacity:disabled":"2","fee":"no","name":"P+R Oppum","operator":"Stadt Krefeld","operator:type":"public","park_ride":"yes","parking":"surface","surface":"asphalt"}"İ
+Ú{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","operator":"Tennisverein","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ä
+á{"access":"yes","amenity":"parking","capacity":"20","construction":"yes","fee":"no","note":"Ã„nderungen nach Umbau im April 2016. Nicht mit alten Luftbildern korrigieren!","park_ride":"yes","parking":"surface","ref":"P-Nord"}"å
+â{"access":"yes","amenity":"parking","capacity":"85","capacity:disabled":"4","capacity:women":"3","description":"76 ParkplÃ¤tze fÃ¼r jedermann und eine Elektroladestation fÃ¼r zwei StellplÃ¤tze. DarÃ¼ber hinaus vier Behinderten- und drei Frauen-ParkplÃ¤tze.","fee":"no","name":"P+R SchneidmÃ¼hle","park_ride":"yes","parking":"surface","surface":"asphalt"}"ì
+é{"access":"yes","addr:city":"Mettmann","addr:housenumber":"199","addr:postcode":"40822","addr:street":"Eidamshauser StraÃŸe","amenity":"parking","capacity":"203","capacity:car_sharing":"2","capacity:charging":"2","capacity:disabled":"2","fee":"no","name":"P+R Bahnhof Neanderthal P2","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"ï
+ì{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"yes","fee":"no","lit":"yes","opening_hours":"24/7","operator":"Stadt Essen","park_ride":"yes","parking":"surface","surface":"asphalt"}"ò
+ï{"access":"no","amenity":"parking","bicycle":"yes","capacity:disabled":"no","carriage":"yes","description":"Ã¶ffentlicher Parkplatz nur fÃ¼r PKW","fee":"no","foot":"yes","horse":"yes","motorcar":"yes","park_ride":"yes","parking":"surface"}"õ
+ò{"access":"customers","amenity":"parking","capacity":"93","capacity:disabled":"2","fee":"no","lit":"yes","name":"P&R, MÃ¼lheim (Ruhr)-Styrum","operator":"Deutsche Bahn","park_ride":"yes","parking":"surface","supervised":"no","surface":"sett"}"õ
+ò{"access":"yes","amenity":"parking","capacity":"155","capacity:disabled":"6","fee":"no","lit":"yes","name":"P&R,DÃ¼sseldorf-Gerresheim","orientation":"perpendicular","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paved"}"÷
+ô{"access":"yes","amenity":"parking","capacity":"104","capacity:disabled":"3","fee":"no","lit":"yes","name":"Park&Ride Essen-Altenessen Bf","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"ü
+ù{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"2","fee":"no","name":"P+R","opening_hours":"24/7","operator":"Stadt Bedburg","park_ride":"yes","parking":"surface","shelter":"yes","smoothness":"excellent","surface":"asphalt"}"€
+ı{"amenity":"parking","capacity":"45","fee":"no","name":"Park&Ride DÃ¼sseldorf-Angermund S-Bahnhof","park_ride":"yes","phone":"+49 211 89-11","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}" ®’)" ×º§" åÄ" ‚û†" ƒ¨‡†" „Ù¨" „áÎ*" „û†" „ş³ª" …™à" …°ë " †„‹¢" ‡öÜo" ˆ™Š" ‰¶Ë" ‰ü¦H" Š‚äÍ" ŠÂê" ŠÖ¡¯" ‹çÖ" Œ×ä" ÕÎD" ©À" ©Ä" „ëK" Öçù" Ùµ" ‘Ğê;" ‘úØÊ" ’Öçù" ’ìá" ”’¨§" ”Äš¯" ”éÀ{" •ßÒ÷" –†¥È" –´ ¤" –´á" —şá" ˜“ğÄ" ˜ªß|" ˜À•	" ˜Ì£" ˜ßÒ÷" ™»ÎC" šßÒ÷" ›¤" ›öâ" œ ’Û" œñú" œòÑ" ÈÙ" òÑ" ‰Ô" æĞí" îé<" Ÿ®Z" Ÿª¢n" Ÿ³•"  È™"  ßÒ÷" ¢®“" ¢¿øV" £Úñ" ¤æªî" ¥òÚ?" ¥ûåN" ¦–À¡" ¦Ã¡	" ¦ìÅ	" §›“f" §ìº" ¨Š¥ˆ" ¨ì" ©ƒœ"" ©ÈïC" ©úÍ3" ªÕ‡ø" ªâñ" ªëø
+" «¯" «ä«t" «ê’0" ¬‡à¡*" ¬‹ç" ¬§©" ¬âø„" ­ëø
+" ®™òÁ" °‹ÈL" °›ÿ" ±„ËÄ" ±€¦" ±Ê÷5" ²¬°J" ²°ú!" ²Êíy" ²ü¹ú" ´¥Å¬" ´Ø²" ·ëâä" ¸à¾Õ" º†íÁ" º‰¼" ºŞ–š" »‡™" »¡äP" ¼ğ£S" ¼øÈL" ½µù9" ¾ ‡ø" ¾«š9" ¾çŞ" ¾ñË-" ¿„”" ¿²õ" ¿×êv" À×êv" Àøğ=" Àşµ" Á…éó" Á•­" Â³ë" Â·éD" Â×ù" ÂåÄ›" Äüø" Åˆà¡*" ÅîÎ" ÆÂ¢:" ÆÅá
+" Ç‡â#" Çá‰" ÇöÀU" È¦Òª" Èç¨" É‹‰" ÉË×`" Ë³Í" Ë—‘" ËóÆY" ÌÄ–Â" Î•ß™" Ïì¬" Ğû¢H" Ñ‰õ" Ñ¦çµ" Ñ¾«ğ" ÑÜŒ*" Óµù9" ÓÖà" Óòó" ÔĞ " ÕŒšu" Õ™±" Õª¢‰" Õ·÷1" ÖÁÂ" Öâ" ×çµ" ×Î—
+" ×ãï™" Ø“ÿ" Ø—Ü" Øãï™" ÙÖìŠ" Ùá­Z" Úª¢‰" Û²ú¡" ÛÖìŠ" ÜŸæ" Üçø1" İ—×Ö" İ²¶±" Ş—×Ö" ŞêÎ-" ßŒª" ß—×Ö" ßÜ“" áÀá›" áó¸ß" â¾²²" âÕÜF" âş³ˆ" ãŒê" ã»»" ä´¨" ä“." äáÓW" äî¢" å ã4" åãê" åìÄ+" æ¦”§" éœˆ" é¥Ÿ" éĞÈ" êµºJ" êÇĞ" êÓÒ" êáïæ" ëÅ" í¿Î" í¿Ï" íô¡@" îŸª" îÌõj" îÔ¡" îØèy" îßÒº" îüÄA" ïÑşF" ïßš‚" ñë¸" ò›¨5" òá¤" òûèD" ó‡ËG" ó Ü…" ó ï‹" óÿ’¿" õ³Š¢" õ³äN" õıºò" öÖË" øŠ¶N" øãê" øñú" øôè" ù‹Ïš" ùÆˆ"" ùÊÀ" ú˜Š" úËÀ" úä¦" ü¨ç" üÈó," ıİ‡" ş…ÜĞ" ş• ?" ş¢¹" ş¯é­" şµ²" şò·" ÿ ï‹" ÿ®š£" ÿÏÉ" ÿÙ­ ²À"	¾.] Ï'"	ìÈ îm"	Ìâ è"	ÎÚ –¢"	ÒÜ Ü"	ŠÒ è"	ŠÒ ì]"	Ò Ùº"	ÖÚ ÿ="	Ô¬( ÷y"	Üì/ ï"	Ü 5 ¤#"	¼’5 ™Â"	¤Î= İŠ"	¾9 Æ"	¼’9 ø»"	¦š> ©"	ş®? "	ªÊ= Á"	†Æ9 µ"	Ğ9 Ì"	’Ø; °™"	şì; µ"	üî; ¡"	şø; „Æ"	‚Â< ë	"	š = ¹"	 = #"	Â¶: ¦"	Ìº: û "	º9 ı "	¼ 9 € "	¼ 9 Ç!"	ÖÒ9 Œ¸"	¶À: ª/"	"Î ½"	’"Ü Ã"	”"Ø Ä"	–"Ş şw"	ì#¨ ú"	ì#¨ ü"	ğ#ª ‹†"	ì#° ñ"	ò#² Ğb"	ş+Â œ"	„,Ä ÷¨"	¶$œ ¨€"	¼$² «~"	ü'‚ «•"	º#¸ Î;"	Ì%  ¢:"	Ê%¤ ¨I"	Ê&Ê ôa"	À.¤ Ëd"	Ş-Ò ¯Ã"	’- ‰Œ"	¸(ä ò²"	”*ê Ø‘"	¤*ê ä"	¾-® ¾ƒ"	Ì-À çS"	À/Ö ¿p"	”,Ä ­¬"	œ-„ ³¤"	à-¤ œŸ"	Ê,Ş ¾"	/” “"	ì.â Ôˆ"	ª0¸ À"	Ú4˜ ï—"	ò5 ¬N"	ú5Š ç"	ø5” á"	„6 â"	ª6Ò Åš"	Â7è ˆµ"	â7¸
+ Ñ "	Ş7Â
+ ¬?"	š4ì úÊ"	î7¦ ş’"	Ô;ş ök"	 = ´­"	È=’ ±"	¶>˜ º"	Ğ8Î ã+"	Ò8Ô Ñ"	°9Ğ ˜*"	ª8Ô ”"	Œ;Ä	 éÄ"	´;È È "	ş9 á"	¨9Î î"	¬9Î —Z"	œ<Ğ
+ ¢r"	ş<ò …D"	È=
+ ÛÌ"	ò>à	 ÆÁ"	Ä=È È"	”>” à9"	–1¼ ö„"	Ú3’ Ú`"	Ú3’ ê0"	Ú3˜ ¯"	¤2ú ÉT"	ø2ğ »"	ö2ê •}"	²4 Ğo"	´4º ß"	¼4º Äf"	Ä4Ş ®"	Î4ä ƒÎ"	Ğ4‚ ¤_"	Ì2Ö ì<"	ê0ú ’v"	¢2ˆ âs"	Ş2à ƒn"	²3À ×X"	¸3¼ n"	¼3¼ ©F"	Ö4š §e"	Ú4¤ ×t"	²6î ó1"	´6î ÿ"	è6¶ ‚‡"	ö7œ ğ."	ú7– Â."	ø7– ó."	ú7” šj"	Æ5ô ‰¾"	®7¢ Öu"	7Ì Ÿu"	7Ô Â…"	ì;Š †6"	Ø9  Ã"	´8À ª"	°8Î ‡^"	¬8Ø õ3"	¶8Â ÙJ"	À<È æ³"	¾>ş ÚÁ"	¶>„ „Ë"	¸8ø Ï"	Ö8â Í›"	:ş ğ\"	†:„ ¸L"	ş=è ø&"	€>è ô"	ˆ>è "	Š>è íÇ"	Æ<º €‹"	Š< Ê|"	„=¢ æY"	À>¨ Ÿª"	º>ª ˜8"	Â>¨ ı‚"	ê#®# ®"	„%¨! ¹h"	°%„# ¸"	Ú*% —"	¼+–& Ò"	º+š& Ö¥"	¸+ & ®“"	°-Æ# ò£"	Ú.Œ! ‚¦"	ª/„!  B"	+ü- ’Í"	–+ü- ¶±"	€!”: ë¡"	ú&ö: ³É"	ª'‚? Š
+"	Ø(È8 À§"	´2²! –"	ş3’! ¿°"	À3Ì" ¡¼"	Ô4‚$ ¥½"	Ş4’$ º¹"	”6Ş% å¿"	6â% {"	ò0* •"	ì7¢) Ş"	ğ7¤) ­«"	²5˜- ‘""	¸5 - ñ)"	€9˜! Õ["	9¢! Œl"	ö9Æ" í˜"	ø9Ô" ŞM"	ø:ô  å·"	î;š! éc"	¸:¼# Š"	†;¸$ ²P"	Ş;Ğ% C"	¤>ğ  ÕV"	à>¤! ùœ"	Ö9€, ”5"	Œ:†- ¥R"	œ<ø* ß"	€?–( ½4"	Š?’( …z"	¦?Ö* ˆ"	º>’, ÛA"	œ0ö3 Ô¯"	Ø1ö2 
+"	º1†3 ±"	Ü1€3 ”"	º0ö4 £"	Â4Ì1  $"	¬5ø3 ù–"	”6®1 "	ö6Ş: "	ş6ä: ´,"	ú6î: 2"	ø6ø: Ó‰"	ø6†; û"	„6ö> ê"	¾7„? ·E"	Ä7„? õ%"	ò;ˆ0 à@"	ø9ˆ5 ›"	ê9Æ5 °i"	¶:ü5 £"	´:ˆ6 š©"	ö= 4 äK"	Ğ=ö7 ¼Q"	–>ú4 ™"	à?’4 üO"	à>ì6 ‹("	¾9Ş8 Ò-"	¾9ä8 ‡7"	Ì=Ü9 ãU"	Ü=Ş9 §Å"	Ö<Ş; †´"	Ş<è; ›"	¨= : ¦¶"	>”; “"	Œ?˜; "	Â?Æ; ÜG"	¬<Ş= ·>"	€>œ> ¼q"	æ>º> Å"	ô>Ø> ‘W"	¤?ê> İx"	ò@š »H"	à@	 Ó"	È@Ê+ Ø"	¾@”2 Á"	„A†3 ¶g"	Æ@Ì=

@@ -1,0 +1,107 @@
+Òœx
+Deutschland_all_free_parking(€ idtags"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","fee":"no","name":"Rauch","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"38","fee":"no","park_ride":"yes","parking":"surface"}"j
+h{"access":"yes","amenity":"parking","capacity":"3","fee":"no","park_ride":"yes","parking":"street_side"}"j
+h{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"street_side"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"n
+l{"amenity":"parking","fee":"no","name":"NATO-Rampe","park_ride":"yes","parking":"surface","supervised":"no"}"r
+p{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Bahnhof","park_ride":"yes","parking":"surface"}"t
+r{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof Baden-Baden","park_ride":"yes","parking":"surface"}"v
+t{"access":"yes","amenity":"parking","fee":"no","name":"P+R Bahnhof Achkarren","park_ride":"yes","parking":"surface"}"y
+w{"access":"yes","amenity":"parking","fee":"no","name":"P+R Gundelfinger StraÃŸe","park_ride":"yes","parking":"surface"}"y
+w{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","ref":"P5","wheelchair":"limited"}"z
+x{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"z
+x{"access":"yes","amenity":"parking","capacity":"40","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"z
+x{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Zehn Jaucherten","park_ride":"yes","parking":"surface"}"z
+x{"amenity":"parking","capacity":"225","fee":"no","name":"P+R Herbolzheim Bahnhof","park_ride":"yes","parking":"surface"}"{
+y{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Bleibach Bahnhof","park_ride":"yes","parking":"surface"}"{
+y{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz IndustriestraÃŸe","park_ride":"yes","parking":"surface"}"|
+z{"access":"yes","amenity":"parking","fee":"no","lit":"no","name":"P+R TullastraÃŸe","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz BÃ¶tzinger StraÃŸe","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Bahnhof Wasenweiler","park_ride":"yes","parking":"surface"}"~
+|{"amenity":"parking","capacity":"12","fee":"no","name":"NATO-Rampe","park_ride":"yes","parking":"surface","supervised":"no"}"€
+~{"access":"yes","amenity":"parking","capacity":"250","fee":"no","name":"P+R Paduaallee","park_ride":"yes","parking":"surface"}"
+{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Parkplatz Eisstadion","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"street_side"}"ƒ
+€{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"„
+{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"…
+‚{"access":"yes","amenity":"parking","capacity":"4","fee":"no","name":"P+R Buchholz Bahnhof","park_ride":"yes","parking":"surface"}"‡
+„{"access":"yes","amenity":"parking","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","fee":"no","maxstay":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paved"}"‰
+†{"access":"yes","amenity":"parking","capacity":"19","fee":"no","name":"Parkplatz Eichberghalle","park_ride":"yes","parking":"surface"}"Š
+‡{"access":"yes","amenity":"parking","capacity":"18","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"Š
+‡{"access":"yes","amenity":"parking","capacity":"20","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‹
+ˆ{"access":"yes","amenity":"parking","fee":"no","name":"P+R Bahnhof Riegel-Malterdingen Westseite","park_ride":"yes","parking":"surface"}"Œ
+‰{"access":"yes","amenity":"parking","capacity":"30","fee":"no","name":"Schlossberghallenparkplatz","park_ride":"yes","parking":"surface"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Einfahrt SÃ¼d","park_ride":"yes","parking":"surface","surface":"gravel"}"
+‹{"access":"yes","amenity":"parking","capacity":"20","fee":"no","name":"P+R Geschwister-Scholl-Platz","park_ride":"yes","parking":"surface"}"
+‹{"access":"yes","amenity":"parking","fee":"no","name":"Kandel","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"
+‹{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz MerdingerstraÃŸe","park_ride":"yes","parking":"surface","source":"survey"}"
+‹{"access":"yes","amenity":"parking","capacity":"70","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Parkplatz Ludwig-Jahn-StraÃŸe","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"‘
+{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface","supervised":"no","surface":"compacted"}"’
+{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz ZÃ¤hringer Eck","name_alt":"RoÃŸweiher","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"”
+‘{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","name":"Parkplatz EisenbahnstraÃŸe","park_ride":"yes","parking":"surface"}"š
+—{"access":"yes","amenity":"parking","capacity":"17","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"›
+˜{"access":"yes","amenity":"parking","capacity":"250","fee":"no","name":"P+R Bahnhof Riegel-Malterdingen Ostseite","park_ride":"yes","parking":"surface"}"›
+˜{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Bahnhof RaumÃ¼nzach","park_ride":"yes","parking":"surface","surface":"paving_stones"}"œ
+™{"access":"yes","amenity":"parking","capacity":"202","capacity:disabled":"4","fee":"no","name":"Bahnhofsparkplatz","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Eichbergstadion","name_alt":"Parkplatz Sportplatz","park_ride":"yes","parking":"surface"}"¡
+{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"0","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"¦
+£{"access":"customers","amenity":"parking","capacity":"50","fee":"no","name":"Park+Ride","operator":"AVG","park_ride":"yes","parking":"surface","surface":"asphalt"}"¨
+¥{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"1","fee":"no","name":"P+R Teningen-Mundingen Bahnhof","park_ride":"yes","parking":"surface"}"¨
+¥{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Heinrich-Ulmann-Platz","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"«
+¨{"access":"yes","amenity":"parking","capacity":"60","capacity:disabled":"0","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"«
+¨{"access":"yes","amenity":"parking","capacity":"75","capacity:disabled":"4","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"¬
+©{"access":"no","amenity":"parking","capacity":"95","capacity:parent":"10","fee":"no","motorcar":"yes","name":"Parkplatz Albgaubad","park_ride":"yes","parking":"surface"}"®
+«{"access":"yes","amenity":"parking","capacity":"24","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"®
+«{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"®
+«{"access":"yes","amenity":"parking","capacity":"85","capacity:disabled":"0","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","wheelchair":"limited"}"²
+¯{"access":"private","amenity":"parking","capacity":"20","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"²
+¯{"access":"yes","amenity":"parking","capacity":"20","fee":"no","hgv":"delivery","name":"P+R Lehen","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paved"}"´
+±{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"2","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"¶
+³{"access":"yes","amenity":"parking","capacity":"13","capacity:disabled":"1","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"¶
+³{"access":"yes","amenity":"parking","capacity":"22","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"7","fee":"no","park_ride":"yes","parking":"surface","ref:IFOPT":"de:08237:9601:80","ref:IFOPT:description":"P+R","surface":"asphalt"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"0","fee":"no","lit":"yes","name":"P+R Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","ref:IFOPT":"de:08237:1201:82","ref:IFOPT:description":"P+R SÃ¼d","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"»
+¸{"access":"yes","amenity":"parking","capacity":"99","capacity:disabled":"5","fee":"no","lit":"yes","name":"P+R Haueneberstein","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¼
+¹{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"½
+º{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"0","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","name":"GAT-Parkplatz","opening_hours":"24/7","operator":"GAT","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"pebblestone"}"Â
+¿{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"yes","capacity:parent":"yes","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"È
+Å{"access":"yes","amenity":"parking","capacity":"3","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Anwohnerparkplatz","park_ride":"yes","parking":"surface"}"É
+Æ{"access":"yes","amenity":"parking","capacity":"12","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Ê
+Ç{"access":"private","amenity":"parking","capacity":"320","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","operator":"dormakaba","park_ride":"yes","parking":"surface"}"Ì
+É{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Tennisplatzparkplatz","park_ride":"yes","parking":"surface"}"Í
+Ê{"access":"private","amenity":"parking","capacity":"22","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Anwohnerparkplatz","park_ride":"yes","parking":"surface"}"Í
+Ê{"access":"private","amenity":"parking","capacity":"40","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Anwohnerparkplatz","park_ride":"yes","parking":"surface"}"Ï
+Ì{"access":"yes","amenity":"parking","capacity":"47","capacity:disabled":"0","fee":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking:right":"on_kerb","surface":"asphalt"}"Ğ
+Í{"access":"yes","amenity":"parking","capacity":"55","capacity:disabled":"0","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"Ò
+Ï{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"no","fee":"no","name":"Parkplatz Bahnhof Littenweiler","park_ride":"yes","parking":"surface","surface":"compacted","wheelchair":"yes"}"Ó
+Ğ{"access":"private","amenity":"parking","capacity":"100","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","operator":"Pepperl+Fuchs GmbH","park_ride":"yes","parking":"surface"}"Ó
+Ğ{"access":"yes","amenity":"parking","capacity":"35","capacity:disabled":"0","fee":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"Ô
+Ñ{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"1","fee":"no","name":"Parkplatz BatzenhÃ¤usle Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"Ô
+Ñ{"access":"yes","amenity":"parking","capacity":"18","capacity:disabled":"1","fee":"no","maxstay":"1 hour","name":"Bahnhofsparkplatz","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","lit":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"asphalt"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"300","capacity:disabled":"5","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Kehl Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"×
+Ô{"access":"customers","amenity":"parking","capacity":"10","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","name":"GAT-Parkplatz","opening_hours":"24/7","operator":"GAT/App2Drive/Flugschule FFH","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"Ù
+Ö{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"0","description:de":"6 StellplÃ¤tze fÃ¼r Rathaus reserviert, nicht in capacity berÃ¼cksichtigt","fee":"no","motorhome":"no","motorhome:conditional":"yes @ (22:00-06:00)","name":"P1 Bahnhof/BÃ¼rgerhaus","park_ride":"yes","parking":"surface","ref":"P1","surface":"paved"}"Û
+Ø{"access":"yes","amenity":"parking","capacity":"18","capacity:disabled":"2","fee":"no","lit":"yes","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}"İ
+Ú{"access":"yes","amenity":"parking","capacity":"12","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Friedhofsparkplatz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ş
+Û{"access":"yes","amenity":"parking","capacity":"17","capacity:disabled":"1","fee":"no","lit":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"æ
+ã{"access":"private","amenity":"parking","capacity":"80","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Autohaus Friedmann GmbH / Audi - Parkplatz","park_ride":"yes","parking":"surface"}"æ
+ã{"access":"yes","amenity":"parking","capacity":"65","capacity:disabled":"0","fee":"no","name":"Parkplatz Bahnhof Littenweiler","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"ç
+ä{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"0","fee":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking:left":"on_kerb","surface":"paving_stones","wheelchair":"yes"}"í
+ê{"access":"permissive","amenity":"parking","capacity":"100","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","operator":"Schaeffler Automotive Buehl GmbH & Co. KG","park_ride":"yes","parking":"surface"}"ò
+ï{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"0","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","ref:IFOPT":"de:08237:1201:80","ref:IFOPT:description":"P+R Nord","surface":"paving_stones"}"ó
+ğ{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"0","fee":"no","lit":"no","name":"Parkplatz Bahnhof","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"asphalt"}"ø
+õ{"access":"yes","amenity":"parking","capacity":"35","capacity:disabled":"0","description:de":"Parkplatz nur fÃ¼r DB-Reisende","fee":"no","opening_hours":"24/7","operator":"Deutsche Bahn","park_ride":"yes","parking":"surface","surface":"asphalt"}" ‚›Ü" ‚µ«@" ‡ŸŞ“" ‡®Ãp" ŠŠê" Šëé‹" ‹ŞÄÚ" Œ·î4" ŒÍ±ö" Í±ö" Í±ö" ºµc" ÀÎÌ" ‹Å" Í6" ‘Å€i" •ùµ" –¥¯ğ" ›ˆÜÈ" ›œÒ4" ›ÍÅ¿" œœÒ4" œºÍD" œêÕÖ" ³²†" Öğ4" ìÏ0" Ÿœş"  ²™¤"  Øã" ¡ç " ¢£ " £µv" ¥‰³5" ª˜Î3" ªŞÖc" ¬Ÿ²5" ®·î4" ®¸›¯" ³à®2" ´Ê‘Ö" µÕ‹" ¶íÃ" ¹±ú" º„©5" »Ï±1" »å­$" ½ç˜y" ¾¼„•" ¿ÊÍ¸" ¿á®" ¿é¡Ô" À™ŞÍ" Á¸" Â¹¾y" Âé¬" Ã¹¸E" Åğ`" Å³Ø" Ç¨ä¯" Ê¯Ì" Ëšõ5" Ì³¾Ô" Î¡º" Î³¾Ô" Ò½ú" ÓÇç%" Óö‹¯" ØŒ°‹" ÙÊØ7" ÙÜç4" Úı#" Ú§ª" İ„¸" à›Ü" áç”]" â„¸" â®©" ã¯Ï5" ãì‹€" åÃÅô" è…ão" êìâå" ëËè`" ëçª" íŒs" î®" ïØ×" ñáåƒ" òáåƒ" ôŒÆä" õ’€‘" õÜç4" ö¦½" ö¿§à" øí¨¨" øù®Œ" ùÏp" ùí¨¨" ûØÿ" üÃ¼m" ıÌ±ö" ıø“" ıù®Œ" şÌ±ö \"	¼85 ŒZ"	†?y ƒ9"	Š?u Æ"	Î@= Ã"	Ğ@; Š "	Â€6 š"	¤ ; ¦6"	ú´= ’%"	ªÊ= ("	ä„< Â"	ê’< Ä"	¼.¨	 Ë	"	¾.¦	 ½G"	Ú/Ğ
+ ¼X"	Ú/Ì
+ ~W"	¢#ì ¡P"	¸,æ ˜"	Ê/à u"	Š*ö µF"	ô*œ n"	‚7® v"	‚7¬ l"	„7¬ m"	„7ª Ì"	†7® É""	7¨ ¶!"	7ª qD"	Î5Ü ¯_"	ª6ğ ‰;"	Ò1 k]"	Ô1´ y="	ö1¬ wR"	ş1¨ ÀK"	ê1È ª`"	ø1Ğ ˆN"	î1  …M"	î1¨ L"	Ş1Ê §1"	ô1Ô ®"	ü1Ö }:"	„2ü dU"	€2Ì ²I"	ˆ2ä –"	ì4Œ	 ·O"	ğ9² o"	´;Ò
+ ³"	ö;œ x "	 < †H"	À2° r["	ê2 ©$"	ğ2– sE"	¬1Ü hY"	ø2È ±."	Â<Ô ¨0"	Š<š  B"	”>² „@"	¢>ª "	†=º fa"	‚=ê ¥<"	€=î p?"	„=ì ¬C"	„=ô ‡ "	ª?² ›8"	Î$( "	€/â' Å*"	Î.î* Ç"	À!€0 e/"	Ü!ş4 i#"	Ö!‚5 ‚)"	æ#€7 Á "	Ò'ˆ3 |5"	”$È6 €b"	%–7 ¾V"	%˜7 ™"	À ü8 t
+"	Ì ‚9 ­
+"	¨"ˆ< °"	¬"< «>"	ì"š> —&"	Ş"Ì? ‘"	¢#À> ¢J"	à&È: ´,"	Ü&Ğ: g-"	Ö&à: œA"	à&È: ¤7"	à&Ì: “"	è%ø< Ê"	$Ú> j"	Î%†> {S"	²&¢< È"	¤,ö6 •"	(Ò9 ‹T"	´) 9 "	¾)ü; ¹2"	Ú)ş; º "	Æ)„< '"	è,ì: »+"	Ö-˜> c"	¤4î+ ¿"	„=* ”3"	Ú6ò0 z^"	¨'Ê@ £Q"	®'Ê@ ¸"	€*º@ Ÿ4"	@ 

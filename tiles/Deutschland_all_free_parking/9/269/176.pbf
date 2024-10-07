@@ -1,0 +1,59 @@
+èUx
+Deutschland_all_free_parking(€ idtags"g
+e{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface"}"i
+g{"access":"customers","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"j
+h{"access":"customers","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"k
+i{"access":"yes","amenity":"parking","capacity":"38","fee":"no","park_ride":"yes","parking":"street_side"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"r
+p{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","survey:date":"2020-09-16"}"v
+t{"access":"yes","amenity":"parking","fee":"no","name":"P & R Bahnhof SÃ¼ÃŸen","park_ride":"yes","parking":"surface"}"w
+u{"access":"yes","amenity":"parking","fee":"no","layer":"0","park_ride":"yes","parking":"surface","surface":"asphalt"}"z
+x{"access":"customers","amenity":"parking","fee":"no","note":"Nur fÃ¼r Bahnkunden","park_ride":"yes","parking":"surface"}"{
+y{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","capacity":"106","fee":"no","name":"P+R Ruhbank","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface","surface":"cobblestone"}"€
+~{"access":"yes","amenity":"parking","capacity":"160","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"customers","amenity":"parking","capacity":"2","fee":"no","operator":"BW Mobil","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"yes","amenity":"parking","capacity":"7","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"street_side"}"„
+{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"street_side"}"„
+{"access":"yes","amenity":"parking","capacity":"24","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"street_side"}"…
+‚{"amenity":"parking","capacity":"35","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"†
+ƒ{"access":"customers","access:conditional":"yes @ (Sa,Su,PH)","amenity":"parking","capacity":"28","capacity:disabled":"1","fee":"no","maxstay":"24 hours","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"
+Œ{"amenity":"parking","capacity":"14","fee":"no","hgv":"no","motorcar":"yes","park_ride":"yes","parking":"surface","surface":"paving_stones"}"‘
+{"access":"yes","amenity":"parking","capacity":"32","fee":"no","name":"P+R Heumaden","park_ride":"yes","parking":"surface","wheelchair":"yes"}"’
+{"amenity":"parking","capacity":"5","capacity:disabled":"0","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"“
+{"access":"customers","amenity":"parking","capacity":"40","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"—
+”{"access":"customers","amenity":"parking","description":"Park and Ride Parkplatz fÃ¼r VVS-Kunden.","fee":"no","park_ride":"yes","parking":"surface"}"˜
+•{"access":"yes","amenity":"parking","capacity":"35","fee":"no","lit":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"§
+¤{"access":"yes","amenity":"parking","fee":"no","operator":"Gemeinde Burgstetten","operator:type":"public","park_ride":"yes","parking":"surface","surface":"asphalt"}"«
+¨{"access":"customers","amenity":"parking","description":"Park&Ride-Parkplatz","fee":"no","park_ride":"yes","parking":"surface","source":"estimate; extrapolate; survey"}"­
+ª{"access":"yes","amenity":"parking","capacity":"31","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface","source":"BingSat","surface":"paving_stones"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"4","fee":"no","opening_hours":"24/7","orientation":"parallel","park_ride":"yes","parking":"street_side","surface":"asphalt"}"³
+°{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"0","fee":"no","name":"Parkplatz Bahnhof 3","opening_hours":"24/7","park_ride":"yes","parking":"surface"}"³
+°{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Bahnhof 1","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"´
+±{"access":"yes","amenity":"parking","capacity":"5","fee":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"asphalt"}"´
+±{"access":"yes","amenity":"parking","capacity":"9","fee":"no","lit":"yes","opening_hours":"24/7","orientation":"parallel","park_ride":"yes","parking":"lane","surface":"asphalt"}"µ
+²{"access":"yes","amenity":"parking","capacity":"12","fee":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"asphalt"}"µ
+²{"access":"yes","amenity":"parking","capacity":"13","fee":"no","lit":"yes","opening_hours":"24/7","orientation":"parallel","park_ride":"yes","parking":"lane","surface":"asphalt"}"µ
+²{"access":"yes","amenity":"parking","capacity":"27","fee":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"asphalt"}"¼
+¹{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Â
+¿{"access":"yes","amenity":"parking","capacity:disabled":"4","fee":"no","motorcar":"designated","name":"P+R Max-Eyth-See","park_ride":"yes","parking":"surface","traffic_sign":"DE:314,1048-10"}"Ã
+À{"access":"yes","amenity":"parking","capacity":"8","capacity:disabled":"0","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","source":"BingSat","surface":"paving_stones"}"Ã
+À{"access":"yes","amenity":"parking","capacity":"8","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","description":"kein P+R Schild, aber ein normale Park-Schild ohne Begrenzungen","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"È
+Å{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"0","fee":"no","opening_hours":"24/7","orientation":"parallel","park_ride":"yes","parking":"street_side","surface":"asphalt"}"Ğ
+Í{"access":"customers","amenity":"parking","capacity":"18","capacity:disabled":"0","description:de":"Benutzung nur fÃ¼r Bahnreisende","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface"}"Ó
+Ğ{"access":"yes","amenity":"parking","capacity":"45","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","orientation":"parallel","park_ride":"yes","parking":"street_side","surface":"asphalt"}"İ
+Ú{"access":"yes","amenity":"parking","capacity:disabled":"3","fee":"no","name":"Parkplatz Bahnhof 2","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"ß
+Ü{"access":"yes","amenity":"parking","capacity":"13","capacity:disabled":"1","fee":"no","layer":"1","orientation":"perpendicular","park_ride":"yes","parking":"street_side","toilets:wheelchair":"no","wheelchair":"limited"}"æ
+ã{"access":"customers","amenity":"parking","capacity":"57","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","description":"fÃ¼r Bahnkunden","fee":"no","maxstay":"24 hours","park_ride":"yes","parking":"surface"}"ñ
+î{"access":"customers","amenity":"parking","capacity":"311","capacity:disabled":"4","capacity:women":"3","fee":"no","lit":"yes","name":"P+R Sommerrain","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ò
+ï{"access":"customers","access:conditional":"yes @ (Sa,Su,PH)","amenity":"parking","capacity":"45","capacity:disabled":"0","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","wheelchair":"yes"}"ó
+ğ{"access":"yes","amenity":"parking","capacity":"7","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","orientation":"parallel","park_ride":"yes","parking":"multi-storey","parking:right":"on_kerb","surface":"paving_stones"}"õ
+ò{"access":"yes","amenity":"parking","capacity":"28","capacity:disabled":"2","capacity:parent":"0","capacity:women":"0","fee":"no","name":"P+R Ã–tlingen Bhf","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"grass_paver"}"ü
+ù{"access":"yes","amenity":"parking","capacity":"28","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","description":"Pkw-P&R-Parkplatz","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"grass_paver"}"ı
+ú{"access":"customers","access:conditional":"yes @ (Sa,Su,PH)","amenity":"parking","capacity":"60","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"€
+ı{"access":"customers","amenity":"parking","capacity":"140","capacity:disabled":"2","description:de":"P+R Privatparkplatz Nur fÃ¼r DB-Reisende","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}" €˜Ïæ" €¶±æ" ¶±æ" …®Š:" ‡³àÜ" ‰€ÆØ" ‰•¾R" ‰¤óŸ" ŠÓˆ" Šû›a" ‘°Ü˜!" œÁ¦a" µá¯" Ÿ¦¤" ¡ œ" £“´Î" ¤››:" ¥èö„" ¦„Â " §„Â " §›•K" ¨„Â " ¨º" «˜ÁÕ" µóÇ¯" ·šÉê" ¹Ä¨Ø" º”Í¶" ½Ä¨Ø" ½Ôõ¯" ¾Ôõ¯" ¿Âˆ" ¿âÏ" ÀÂˆ" ÁÁ¦a" ÁÔõ¯" Ã®¬" ÃÂˆ" ÆÌ”7" ÑÈ÷­" Òæ›" Óš¢-" Ü¹†" İÎŠy" İ÷£^" á“¦£" é–¤Õ" éäÕô" ê¾ıÊ" í«‚q" ñî›a" óñæ˜" øàœR" ù˜ëÎ" ú®»¿" úş¸Ç" ÿµ±æ a"	Ò[ I"	œ6 J "	 6 L"	®6 n."	Hü ]"	P¨ 8""	ŞÜ V#"	Îğ \"	Ìö o$"	Öæ X!"	Ğì 9*"	èĞ M%"	êĞ <2"	öŒ Q,"	ÀÈ h"	Èš S("	Æ  ?'"	èÖ K"	ö		 W0"	ü	ò d"	¾¨ G	"	¼Ô E"	àº A"	Ğ¦ `"	Àº 7"	¾¦ @"	´À i6"	Ğ¶ U
+"	¬ T+"	–¬ :"	‚˜ [1"	ªº l"	ÄÂ g"	ˆÎ =5"	¦ˆ k"	ô¼ D"	êÔ8 Z"	ˆª0 Y-"	’¨0 B "	–´0 m4"	„¾$ _3"	”Ì$ O"	Ê˜* ;"	®2 >"	¦˜2 e"	 ¬2 f"	¦$ô
+ j"	š#È ^&"	À)º F/"	Æ(Æ N"	Ğ(Î R)"	–+¦ b"	Ø2¤ C"	¢3  H"	Ô:ş c"	Ì-Ú  P"	’8ø 

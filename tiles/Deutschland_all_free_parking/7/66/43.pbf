@@ -1,0 +1,251 @@
+’Žx
+Deutschland_all_free_parking(€ idtags"F
+D{"amenity":"parking","fee":"no","park_ride":"yes","supervised":"no"}"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"S
+Q{"amenity":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"surface"}"U
+S{"amenity":"parking","capacity":"2","fee":"no","park_ride":"yes","supervised":"no"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"X
+V{"amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface"}"Z
+X{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"[
+Y{"amenity":"parking","capacity":"70","fee":"no","name":"P+R Parkplatz","park_ride":"yes"}"[
+Y{"amenity":"parking","fee":"no","name":"Festplatz","park_ride":"yes","parking":"surface"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"b
+`{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","ref":"P1"}"b
+`{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","ref":"P2"}"f
+d{"access":"yes","amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"11","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"12","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"21","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"23","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"26","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"38","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","covered":"yes","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"100","fee":"no","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","name":"P&R Perl","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"j
+h{"access":"customers","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface"}"j
+h{"access":"yes","amenity":"parking","capacity":"3","fee":"no","park_ride":"yes","parking":"street_side"}"j
+h{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"street_side"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"ground"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"l
+j{"access":"yes","amenity":"parking","fee":"no","name":"P+R Kirberg","park_ride":"yes","parking":"surface"}"l
+j{"amenity":"parking","capacity:disabled":"2","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"n
+l{"access":"permissive","amenity":"parking","capacity":"15","fee":"no","park_ride":"yes","parking":"surface"}"n
+l{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"n
+l{"amenity":"parking","fee":"no","fee:conditional":"yes @ 08:00-18:00","park_ride":"yes","parking":"surface"}"n
+l{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"o
+m{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof Merten","park_ride":"yes","parking":"surface"}"p
+n{"amenity":"parking","capacity":"89","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","fee":"no","name":"RÃ¶sselsbrÃ¼nnle","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"r
+p{"access":"yes","amenity":"parking","fee":"no","name":"Park & Ride Mayen","park_ride":"yes","parking":"surface"}"s
+q{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz","park_ride":"yes","parking":"surface"}"s
+q{"access":"yes","amenity":"parking","fee":"no","name":"P & R Staudernheim","park_ride":"yes","parking":"surface"}"s
+q{"amenity":"parking","fee":"no","opening_hours":"Mo-Sa 4:30-21:30; Su off","park_ride":"yes","parking":"surface"}"t
+r{"amenity":"parking","capacity":"8","fee":"no","name":"Friedhof Girkenroth","park_ride":"yes","parking":"surface"}"u
+s{"access":"yes","amenity":"parking","check_date:fee":"2023-12-23","fee":"no","park_ride":"yes","parking":"surface"}"v
+t{"amenity":"parking","fee":"no","name":"P&R Am Hammerberg","park_ride":"yes","parking":"surface","wheelchair":"yes"}"w
+u{"access":"customers","amenity":"parking","fee":"no","name":"Atlas Supermarkt","park_ride":"yes","parking":"surface"}"w
+u{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz BiebermÃ¼hle","park_ride":"yes","parking":"surface"}"w
+u{"amenity":"parking","fee":"no","lit":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"x
+v{"access":"no","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","fee":"no","name":"P & R","park_ride":"yes","parking":"surface","surface":"grass"}"y
+w{"access":"yes","amenity":"parking","capacity":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"y
+w{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"y
+w{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"y
+w{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"z
+x{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"z
+x{"access":"yes","amenity":"parking","capacity":"15","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"z
+x{"access":"yes","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"z
+x{"access":"yes","amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"{
+y{"access":"customers","amenity":"parking","check_date:fee":"2023-05-03","fee":"no","park_ride":"yes","parking":"surface"}"{
+y{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"{
+y{"access":"yes","amenity":"parking","capacity":"100","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"{
+y{"access":"yes","amenity":"parking","capacity":"16","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"{
+y{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"{
+y{"amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"|
+z{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"~
+|{"access":"yes","amenity":"parking","capacity":"3","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","capacity":"70","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"~
+|{"access":"yes","amenity":"parking","fee":"no","maxstay":"12 hours","park_ride":"yes","parking":"surface","supervised":"no"}"
+}{"access":"customers","amenity":"parking","capacity":"25","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"
+}{"access":"yes","amenity":"parking","capacity":"21","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","capacity":"85","capacity:disabled":"10","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Sportplatz Dierdorf","park_ride":"yes","parking":"surface"}"€
+~{"amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"compacted"}"
+{"access":"yes","amenity":"parking","fee":"no","name":"P&R Etzenhofen Saarbahnanschluss","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"street_side"}"„
+{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"„
+{"access":"private","amenity":"parking","fee":"no","name":"Firma Cloos / Bahn Park & Ride","park_ride":"yes","parking":"surface"}"„
+{"access":"yes","amenity":"parking","capacity":"200","fee":"no","name":"P9 P+R Parkplatz bademaxx","opening_hours":"24/7","park_ride":"yes","parking":"surface","ref":"P9","website":"https://www.speyer.de/sv_speyer/de/Standort/Verkehr/Parken%20in%20Speyer/"}"„
+{"amenity":"parking","capacity:disabled":"3","capacity:parent":"0","capacity:women":"0","fee":"no","lit":"yes","markings":"yes","name":"P & R Parkplatz Heinrichshaus","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paved"}"…
+‚{"access":"permissive","amenity":"parking","capacity":"35","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no"}"…
+‚{"access":"yes","amenity":"parking","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"…
+‚{"access":"yes","amenity":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"surface","source":"Bing","supervised":"no"}"†
+ƒ{"access":"yes","amenity":"parking","capacity":"30","fee":"no","hgv":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"†
+ƒ{"access":"yes","amenity":"parking","fee":"no","maxheight":"2.1","name":"Bahnhof BÃ¶hl SÃ¼d","park_ride":"yes","parking":"surface"}"†
+ƒ{"amenity":"parking","capacity":"28","fee":"no","name":"P+R Bornheim","park_ride":"yes","parking":"surface","wheelchair":"limited"}"‡
+„{"amenity":"parking","capacity":"5","capacity:disabled":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","capacity":"4","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","capacity":"5","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","fee":"no","hiking":"yes","name":"Waldau","park_ride":"yes","parking":"surface","supervised":"no"}"‰
+†{"access":"yes","amenity":"parking","capacity":"65","capacity:disabled":"1","fee":"no","lit":"yes","operator":"Stadt Herborn","operator:type":"government","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"‰
+†{"addr:city":"Guckheim","addr:country":"DE","addr:postcode":"56459","addr:street":"KirchstraÃŸe","amenity":"parking","building":"house","capacity":"15","capacity:disabled":"yes","fee":"no","name":"Kirche","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Š
+‡{"access":"yes","amenity":"parking","capacity":"18","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"Š
+‡{"access":"yes","amenity":"parking","capacity":"20","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"Š
+‡{"access":"yes","amenity":"parking","fee":"no","name":"Park-and-ride Kohlhof","park_ride":"yes","parking":"surface","surface":"gravel"}"Š
+‡{"amenity":"parking","fee":"no","name":"Waldorf Stadbahn","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Š
+‡{"amenity":"parking","capacity":"58","fee":"no","lit":"no","name":"Mitfahrerparkplatz A63 AS Biebelnheim","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no","surface":"fine_gravel"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"
+Š{"access":"yes","amenity":"parking","check_date:fee":"2023-12-28","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface"}"‘
+Ž{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","wheelchair":"limited"}"’
+{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"yes"}"’
+{"access":"yes","addr:city":"Bobenheim-Roxheim","addr:postcode":"67240","addr:street":"Bahnhofsplatz","amenity":"parking","capacity":"6","fee":"no","operator":"Gemeinde Bobenheim-Roxheim","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"’
+{"access":"yes","amenity":"parking","fee":"no","fixme":"name prÃ¼fen","lit":"no","name":"Mitfahrerparkplatz MeilbrÃ¼ck","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"“
+{"access":"yes","amenity":"parking","capacity":"21","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"“
+{"access":"yes","amenity":"parking","capacity":"28","fee":"no","park_ride":"yes","parking":"street_side","surface":"asphalt","wheelchair":"yes"}"”
+‘{"access":"yes","amenity":"parking","capacity":"15","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"”
+‘{"access":"yes","amenity":"parking","capacity":"161","capacity:bus":"2","capacity:disabled":"4","fee":"no","park_ride":"yes","parking":"surface"}"•
+’{"access":"yes","amenity":"parking","capacity":"50","fee":"no","name":"KÃ¼hler Krug P+R","park_ride":"yes","parking":"surface","wheelchair":"yes"}"•
+’{"access":"yes","amenity":"parking","fee":"no","name":"Car Sharing / Mitfahrerparkplatz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"•
+’{"access":"customers","addr:city":"Landau in der Pfalz","addr:housenumber":"1-3","addr:postcode":"76829","addr:street":"GilletstraÃŸe","amenity":"parking","fee":"no","operator":"Gillet Hagebaumarkt","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"•
+’{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"—
+”{"access":"yes","amenity":"parking","capacity":"10","fee":"no","name":"Mitfahrerparkplatz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"—
+”{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"P+M Parkplatz Heusweiler A8","park_ride":"yes","parking":"surface"}"˜
+•{"access":"yes","amenity":"parking","check_date:fee":"2023-02-11","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"™
+–{"access":"yes","amenity":"parking","fee":"no","maxstay":"12 hours","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"™
+–{"access":"yes","amenity":"parking","fee":"no","name":"Muschda Bahnhof","park_ride":"yes","parking":"surface","smoothness":"good","surface":"asphalt"}"™
+–{"access":"yes","amenity":"parking","fee":"no","hgv":"no","lit":"yes","maxheight":"none","name":"Mitfahrerparkplatz Sirzenich","opening_hours":"24/7","park_ride":"yes","parking":"surface","ref":"P&R B51","smoothness":"good","source":"Bing","supervised":"no","surface":"asphalt"}"š
+—{"access":"yes","amenity":"parking","description":"Park + Ride","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel","wheelchair":"yes"}"›
+˜{"access":"yes","amenity":"parking","fee":"no","operator":"Deutsche Bahn AG","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"›
+˜{"access":"yes","amenity":"parking","capacity":"20","fee":"no","lit":"no","maxheight":"none","maxstay":"0","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"œ
+™{"access":"yes","amenity":"parking","capacity":"1","capacity:disabled":"1","fee":"no","orientation":"parallel","park_ride":"yes","parking":"street_side"}"
+š{"access":"yes","amenity":"parking","capacity":"12","capacity:disabled":"0","fee":"no","orientation":"parallel","park_ride":"yes","parking":"street_side"}"
+š{"access":"yes","amenity":"parking","capacity":"39","capacity:disabled":"2","fee":"no","name":"P&R Bornheim-Hersel","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"5","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"surface"}"ž
+›{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"2","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no"}"Ÿ
+œ{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz Konken","operator":"LBM","park_ride":"yes","parking":"surface","surface":"gravel"}"Ÿ
+œ{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","name":"Mitfahrerparkplatz Bekond","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"gravel"}" 
+{"access":"yes","amenity":"parking","capacity":"28","fee":"no","name":"Pendlerparkplatz Ehringshausen an A45 Auffahrt","park_ride":"yes","parking":"surface"}" 
+{"access":"yes","amenity":"parking","capacity":"20","fee":"no","maxstay":"unlimited","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","operator:type":"government","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved"}" 
+{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","name":"Mitfahrerparkplatz Kommen","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"¡
+ž{"amenity":"parking","fee":"no","name":"Park & Ride","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"¢
+Ÿ{"amenity":"parking","capacity":"12","capacity:disabled":"yes","capacity:parent":"yes","capacity:women":"yes","fee":"no","park_ride":"yes","parking":"surface"}"£
+ {"access":"yes","amenity":"parking","fee":"no","name":"Rathaus Bornheim","park_ride":"yes","parking":"surface","ref":"2","surface":"asphalt","wheelchair":"yes"}"¤
+¡{"access":"yes","amenity":"parking","capacity":"15","fee":"no","maxheight":"2","name":"Mitfahrer Parken","park_ride":"yes","parking":"surface","supervised":"no"}"¤
+¡{"access":"yes","amenity":"parking","capacity":"16","fee":"no","maxheight":"2","name":"Mitfahrer Parken","park_ride":"yes","parking":"surface","supervised":"no"}"¤
+¡{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","smoothness":"excellent","surface":"asphalt","wheelchair":"yes"}"¤
+¡{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","supervised":"no","toilets:wheelchair":"no","wheelchair":"yes"}"¤
+¡{"access":"yes","amenity":"parking","fee":"no","lit":"no","name":"Mitfahrerparkplatz Mertesdorf","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","website":"http://www.mitfahren.rlp.de/"}"¥
+¢{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","lit":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"pebblestone"}"¥
+¢{"access":"yes","amenity":"parking","capacity":"66","fee":"no","lit":"no","name":"Mitfahrerparkplatz Bingen-Kempten","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"¥
+¢{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","maxstay":"0","name":"Mitfahrerparkplatz","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved"}"¦
+£{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no","surface":"paving_stones"}"¦
+£{"amenity":"parking","capacity":"40","fee":"no","name":"Mitfahrerparkplatz Helenenberg","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"§
+¤{"access":"yes","amenity":"parking","capacity":"24","capacity:disabled":"2","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","surface":"paving_stones"}"§
+¤{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","maxstay":"0","name":"B 51 / L 23, Olzheim","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved"}"¨
+¥{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Park&Ride - P3","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"©
+¦{"amenity":"parking","capacity":"6","capacity:disabled":"yes","capacity:parent":"unknown","capacity:women":"unknown","fee":"no","park_ride":"yes","parking":"surface"}"ª
+§{"access":"yes","amenity":"parking","capacity:disabled":"3","capacity:parent":"3","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ª
+§{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface"}"ª
+§{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","name":"Mitfahrerparkplatz","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved","wheelchair":"yes"}"¬
+©{"access":"no","amenity":"parking","capacity":"95","capacity:parent":"10","fee":"no","motorcar":"yes","name":"Parkplatz Albgaubad","park_ride":"yes","parking":"surface"}"­
+ª{"access":"yes","amenity":"parking","capacity":"64","capacity:disabled":"3","fee":"no","name":"P&R Schulzentrum","park_ride":"yes","parking":"surface","wheelchair":"yes"}"­
+ª{"amenity":"parking","bus":"no","capacity:disabled":"3","fee":"no","hgv":"no","name":"P+M Heiligenroth","note":"Mitfahrerparkplatz","park_ride":"yes","parking":"surface"}"­
+ª{"amenity":"parking","capacity":"6","capacity:disabled":"unknown","capacity:parent":"unknown","capacity:women":"unknown","fee":"no","park_ride":"yes","parking":"surface"}"­
+ª{"access":"yes","amenity":"parking","capacity":"45","capacity:disabled":"2","capacity:women":"8","fee":"no","maxstay":"unlimited","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","operator:wikidata":"Q1802132","park_ride":"yes","parking":"street_side","supervised":"no"}"®
+«{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"3","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"®
+«{"access":"yes","amenity":"parking","capacity":"50","fee":"no","motorcar":"yes","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","vehicle":"no"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","source:geometry":"Bing 2012; extrapolation"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"45","fee":"no","lit":"no","name":"Mitfahrerparkplatz A63 AS Kirchheimbolanden","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"¯
+¬{"addr:city":"HÃ¤rtlingen","addr:country":"DE","addr:housenumber":"7","addr:postcode":"56459","addr:street":"SchulstraÃŸe","amenity":"parking","building":"house","capacity":"21","capacity:disabled":"yes","capacity:parent":"yes","capacity:women":"yes","fee":"no","park_ride":"yes","parking":"surface"}"°
+­{"access":"yes","amenity":"parking","fee":"no","hgv":"no","maxheight":"2.4","name":"Mitfahrerparkplatz GrÃ¼nstadt","park_ride":"yes","parking":"surface","surface":"asphalt"}"°
+­{"access":"yes","amenity":"parking","fee":"no","hgv":"yes","lit":"no","maxheight":"none","name":"Mitfahrerparkplatz Morbach/B327","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved"}"±
+®{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","maxstay":"0","name":"Mitfahrerparkplatzt AS Badem","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"³
+°{"access":"yes","amenity":"parking","capacity":"300","fee":"no","maxstay":"no","name":"Rigal'sche Wiese Park&Ride","park_ride":"yes","parking":"surface","wheelchair":"limited"}"³
+°{"amenity":"parking","capacity":"20","capacity:disabled":"no","fee":"no","name":"Mitfahrerparkplatz Pfaffenheck","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","orientation":"perpendicular","park_ride":"yes","parking":"street_side","smoothness":"intermediate","supervised":"no","surface":"gravel"}"µ
+²{"addr:city":"Gau-Odernheim","addr:postcode":"55239","amenity":"parking","fee":"no","name":"Sportheim","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"¶
+³{"access":"yes","amenity":"parking","capacity":"99","fee":"no","name":"Park + Ride Waldfriedhof","operator":"Stadt Aachen","park_ride":"yes","parking":"surface","supervised":"no"}"·
+´{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz Bledesbach","operator":"LBM","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"¸
+µ{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"Bahnhof Rheinbach","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"º
+·{"access":"yes","amenity":"parking","capacity":"3","capacity:disabled":"3","covered":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"º
+·{"amenity":"parking","capacity":"10","capacity:disabled":"yes","capacity:parent":"yes","capacity:women":"yes","fee":"no","name":"Friedhof Meudt","park_ride":"yes","parking":"surface"}"»
+¸{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","maxstay":"0","name":"Mitfahrerparkplatz Masholder","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","ref":"B 257 / K 22, Masholder","supervised":"no","surface":"paved"}"¼
+¹{"access":"yes","amenity":"parking","capacity":"40","fee":"no","name":"Mitfahrerparkplatz Landscheid","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"compacted"}"½
+º{"access":"yes","amenity":"parking","capacity":"86","capacity:disabled":"2","fee":"no","lit":"no","maxheight":"2.2","name":"Mitfahrerparkplatz Winnweiler","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"½
+º{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","maxstay":"24 hours","name":"Mitfahrparkplatz","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved","wheelchair":"yes"}"¾
+»{"access":"yes","amenity":"parking","capacity":"60","fee":"no","name":"Mitfahrerparkplatz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"¾
+»{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz Landau-Zentrum","park_ride":"yes","parking":"surface","source:name":"sign","supervised":"no","surface":"asphalt"}"¿
+¼{"amenity":"parking","capacity":"35","capacity:disabled":"no","fee":"no","lit":"yes","maxstay":"no","motorcar":"designated","park_ride":"yes","parking":"surface","surface":"paving_stones"}"À
+½{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"5","fee":"no","name":"Jahnhalle","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"yes"}"Â
+¿{"amenity":"parking","capacity":"8","capacity:disabled":"unknown","capacity:parent":"unknown","capacity:women":"unknown","fee":"no","name":"Alte Schule","park_ride":"yes","parking":"surface"}"Â
+¿{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxheight":"none","maxstay":"0","name":"Mitfahrerparkplatz Masholder","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","ref":"B 51 / K 42, Bitburg-Masholder","supervised":"no","surface":"paved"}"Ã
+À{"access":"yes","amenity":"parking","capacity":"53","capacity:disabled":"1","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"sett"}"Ä
+Á{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz A6","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface"}"Ä
+Á{"amenity":"parking","capacity":"200","contact:website":"https://www.sveinfo.de/parken/","fee":"no","operator":"Stadtverkehr Euskirchen (SVE)","park_ride":"yes","parking":"surface","ref":"P16"}"Ç
+Ä{"access":"yes","amenity":"parking","capacity":"46","capacity:disabled":"0","covered":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"É
+Æ{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","maxheight":"none","name":"Konrad-Adenauer-Platz","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"É
+Æ{"access":"yes","amenity":"parking","capacity":"400","contact:website":"https://www.sveinfo.de/parken/","fee":"no","hgv":"no","motorcar":"yes","motorcycle":"yes","name":"Charleviller Platz","operator":"Stadtverkehr Euskirchen (SVE)","park_ride":"yes","parking":"surface","ref":"P15","surface":"unpaved","wheelchair":"limited"}"É
+Æ{"access":"yes","amenity":"parking","check_date":"2024-04-15","fee":"no","lit":"no","maxheight":"none","maxstay":"none","name":"Mitfahrerparkplatz Mehren","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved"}"Ê
+Ç{"access":"private","amenity":"parking","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"no","fee":"no","name":"AmalienbadstraÃŸe 41 / Bau 52","park_ride":"yes","parking":"surface"}"Ê
+Ç{"access":"yes","amenity":"parking","fee":"no","lit":"no","name":"Mitfahrerparkplatz Vorderweidenthal","park_ride":"yes","parking":"surface","source:name":"sign","supervised":"no","surface":"ground"}"Í
+Ê{"access":"yes","amenity":"parking","capacity":"46","fee":"no","lit":"no","maxstay":"no","name":"Mitfahrerparkplatz Bornheim","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","operator:wikidata":"Q1802132","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"Î
+Ë{"access":"no","amenity":"parking","fee":"no","lit":"yes","markings":"no","motorcar":"designated","note":"nur fÃ¼r PKW","park_ride":"yes","parking":"surface","surface":"compacted","wheelchair":"limited"}"Ï
+Ì{"access":"yes","amenity":"parking","fee":"no","fixme":"Ist das der Mitfahrerparkplatz?","maxheight":"none","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"Ó
+Ð{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no"}"Ö
+Ó{"access":"yes","amenity":"parking","description":"Kostenlos, 24 Stunden unbegrenzt, Anschluss an die ASEAG-Linie 2 in der Aachener-und-MÃ¼nchener-Allee an der Haltestelle GoethestraÃŸe in beiden Richtungen.","fee":"no","name":"P & R Hangeweiher","note":"Eine spÃ¤tere Beleuchtung des Platzes ist geplant.","park_ride":"yes","parking":"surface","source":"local knowledge;http://www.ulis-nachschlag.de/2020/20201119_pr-loens.php","supervised":"no","surface":"unpaved"}"Ú
+×{"access":"permit","amenity":"parking","capacity":"24","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"compacted","wheelchair":"yes"}"Û
+Ø{"access":"yes","amenity":"parking","capacity":"160","fee":"no","lit":"yes","name":"Parkdeck Saarbahn","opening_hours":"24/7","operator":"Saarbahn Netz","park_ride":"yes","parking":"multi-storey","surface":"asphalt"}"Û
+Ø{"access":"yes","amenity":"parking","capacity":"18","capacity:disabled":"2","fee":"no","lit":"yes","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Û
+Ø{"amenity":"parking","capacity":"25","capacity:disabled":"no","fee":"no","lit":"yes","maxstay":"no","motorcar":"designated","orientation":"perpendicular","park_ride":"yes","parking":"layby","surface":"paving_stones"}"Ü
+Ù{"access":"yes","amenity":"parking","capacity":"179","fee":"no","name":"Park + Ride Westfriedhof","operator":"Stadt Aachen","park_ride":"yes","parking":"surface","source":"image","supervised":"no","surface":"asphalt"}"Ü
+Ù{"access":"yes","amenity":"parking","capacity":"29","capacity:disabled":"2","fee":"no","lit":"yes","orientation":"perpendicular","park_ride":"yes","parking":"street_side","smoothness":"good","surface":"paving_stones"}"Ü
+Ù{"amenity":"parking","capacity":"10","capacity:disabled":"1","fee":"no","lit":"yes","maxstay":"no","motorcar":"designated","operator":"Gemeinde Nauheim","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Þ
+Û{"access":"yes","amenity":"parking","capacity":"17","capacity:disabled":"1","fee":"no","lit":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"ß
+Ü{"access":"yes","amenity":"parking","capacity":"129","capacity:disabled":"3","capacity:parent":"3","fee":"no","name":"Bahnhof Meckenheim","operator":"DB Netz","park_ride":"yes","parking":"surface","wheelchair":"limited"}"à
+Ý{"access":"yes","amenity":"parking","capacity:disabled":"4","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt","wheelchair":"yes"}"à
+Ý{"amenity":"parking","capacity:disabled":"yes","capacity:parent":"yes","capacity:women":"yes","fee":"no","name":"Parkplatz am Sportplatz","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"yes"}"á
+Þ{"access":"yes","amenity":"parking","capacity":"40","fee":"no","lit":"no","maxheight":"none","name":"Mitfahrerparkplatz Hasborn","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","source":"local_knowledge","supervised":"no","surface":"paved","wheelchair":"limited"}"ä
+á{"access":"customers","amenity":"parking","capacity":"3","fee":"no","lit":"yes","operator":"Deutsche Bahn AG","park_ride":"yes","parking":"surface","parking:orientation":"parallel","supervised":"no","surface":"paving_stones"}"ä
+á{"access":"yes","amenity":"parking","capacity":"38","fee":"no","lit":"no","name":"Mitfahrerparkplatz A63 AS Freimersheim","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"fine_gravel"}"å
+â{"access":"yes","amenity":"parking","capacity":"14","capacity:disabled":"1","fee":"no","note":"Capacity eigentlich 16, aber 2 StellplÃ¤tze sind fÃ¼r Mitarbeiter der Rurtalbahn reserviert","park_ride":"yes","parking":"surface"}"æ
+ã{"access":"customers","amenity":"parking","capacity":"55","capacity:disabled":"4","capacity:parent":"1","contact:website":"https://www.sveinfo.de/parken/","fee":"no","maxstay:conditional":"2 hours @ (Mo-Th 06:00-17:00; Fr 06:00-13:00)","operator":"Stadtverkehr Euskirchen (SVE)","park_ride":"yes","parking":"surface","ref":"P17","surface":"paving_stones"}"ç
+ä{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"è
+å{"access":"yes","amenity":"parking","capacity":"90","fee":"no","maxstay":"no","name":"Mitfahrerparkplatz RheinbÃ¶llen-Ellern","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"gravel"}"ì
+é{"amenity":"parking","fee":"no","lit":"no","maxheight":"none","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"paved"}"î
+ë{"access":"yes","amenity":"parking","fee":"no","lit":"no","name":"Mitfahrerparkplatz Neustadt-SÃ¼d I","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no"}"ï
+ì{"access":"yes","amenity":"parking","capacity":"27","fee":"no","note":"27 Autos laut General-Anzeiger. Da noch keine Linien eingezeichnet sind, wohl variabel.","park_ride":"yes","parking":"surface","surface":"gravel","wheelchair":"yes"}"ï
+ì{"access":"yes","amenity":"parking","fee":"no","lit":"no","name":"Mitfahrerparkplatz Neustadt-SÃ¼d II","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no"}"ð
+í{"access":"yes","amenity":"parking","capacity":"5","covered":"no","fee":"no","lit":"yes","maxstay":"5 minutes","name":"Kiss & Ride","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"ñ
+î{"access":"yes","amenity":"parking","capacity":"60","capacity:disabled":"4","fee":"no","name":"Park and Ride GrÃ¼nstadt Bahnhof","orientation":"perpendicular","park_ride":"yes","parking":"surface","source":"Bing 2012","surface":"asphalt"}"ò
+ï{"access":"no","amenity":"parking","bicycle":"yes","capacity:disabled":"no","carriage":"yes","description":"Ã¶ffentlicher Parkplatz nur fÃ¼r PKW","fee":"no","foot":"yes","horse":"yes","motorcar":"yes","park_ride":"yes","parking":"surface"}"ò
+ï{"access":"yes","amenity":"parking","capacity":"10","fee":"no","maxstay":"no","name":"Mitfahrerparkplatz Mainz-Finthen","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt"}"õ
+ò{"access":"yes","amenity":"parking","capacity":"30","covered":"no","fee":"no","name":"MÃ¼hltalerhof","operator:type":"public","park_ride":"yes","parking":"surface","source:name":"sign","supervised":"no","surface":"asphalt","wheelchair":"yes"}"ø
+õ{"access":"yes","amenity":"parking","capacity":"17","capacity:taxi":"1","covered":"yes","fee":"no","lit":"yes","opening_hours":"24/7","operator":"Stadt Karlsruhe","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"ø
+õ{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz Hahnensteige","opening_hours":"24/7; 2020 Jan 20-Apr 24 off","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no"}"ú
+÷{"access":"private","access:conditional":"yes @ (May 15-Sep 10 Mo 13:00-18:30, May 15-Sep 10 Tu,We 13:00-18:30; May 15-Sep 10 Th-Su,PH 13:00-18:30) AND (SH 00:00-24:00)","amenity":"parking","capacity:disabled":"4","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"asphalt","wheelchair":"yes"}"û
+ø{"access":"yes","amenity":"parking","capacity":"60","fee":"no","lit":"no","name":"Mitfahrerparkplatz Wehrer HÃ¶he","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no"}"ü
+ù{"access":"yes","amenity":"parking","capacity":"10","ele":"500","fee":"no","operator":"Greimerather Forst","park_ride":"yes","parking":"surface","phone":"+496587257","supervised":"no","website":"https://www.greimeratherforst.de/","wheelchair":"yes"}"ü
+ù{"access":"yes","amenity":"parking","fee":"no","lit":"no","name":"Mitfahrerparkplatz Feuerscheid","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"ÿ
+ü{"access":"yes","amenity":"parking","capacity":"150","fee":"no","maxstay":"no","name":"Mitfahrerparkplatz","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"gravel","wheelchair":"yes"}"€
+ý{"access":"yes","amenity":"parking","capacity":"41","fee":"no","maxstay":"unlimited","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","operator:wikidata":"Q1802132","park_ride":"yes","parking":"street_side","supervised":"no"}"€
+ý{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz","opening_hours":"24/7","operator":"Landesbetrieb MobilitÃ¤t Rheinland-Pfalz","operator:type":"public","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"
+þ{"access":"yes","amenity":"parking","capacity":"140","contact:website":"https://www.sveinfo.de/parken/","description":"nur fÃ¼r PKW zugelassen, Parken ist fÃ¼r maximal drei Stunden und ausschlieÃŸlich mit Parkscheibe erlaubt.","fee":"no","hgv":"no","maxstay":"3 hours","operator":"Stadtverkehr Euskirchen (SVE)","park_ride":"yes","parking":"surface","ref":"P14","surface":"asphalt"}"‚
+ÿ{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Marktplatz","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}" €„Šø" €…Ã`" €¨›" €®¬ç" €²ÛZ" €Ëâ" €ÔË•" ËÜä" ‚Žš¨" ‚—í" ‚¸¦Õ" ‚¸ÆÚ" ‚ÀÔ¼" ƒŽ¯>" ƒ´ðY" „Ž¯>" „Ëèc" „Ø¨µ" …©‰¬" †¿ÙÃ" †Äš9" ‡­Îg" ˆ™Š" ˆ¼¶" ˆÎ–¯" ‰À+" ‰ú–ï" ŠÏï" ‹’ñ›" ‹Ï‚" Œ‚Æ" Œ‘ó;" Œšæ‘" Œ â1" ŒÍ±ö" š‡k" Á‰Ð" Í±ö" ë½" ŽƒÏU" Ž¬È*" ŽÍ±ö" •õ4" ìÑi" “ç" šæ‘" ‘Èl" ‘Ðê;" ‘å‰!" ‘ê–’" ’¤¦K" ’¯ù
+" ’ßÎ‰" “ßÎ‰" “ð•" ”ú–ï" •Â¨c" –©Ë9" –Éšä" —’Êì" —Âã" —Åþ" —Ûïn" ˜À•	" ˜ùøõ" ™»ÎC" ™ÄÖ" šŠÉ" šÈ×¡" ›ˆÜÈ" ›ùÔ©" ›ùÙ2" œ—¶" žèŠA" ŸÑ–" ŸÓÑ°" Ÿïòˆ"  Œíý"  ¸ÏŠ"  Øî" ¡áÜ†" ¡ñ»£" ¡òèô" ¢£ " ¢½Ì" ¢ÁÈæ" £€" £“® " £âD" ¤ï" ¤Ç¦ " ¥Ž©M" ¥Ö‘±" §¹ " §öú‰" ©¾ù)" ©ö÷" ªØî" ªâñ" «…¾" «º¬^" ¬ˆÒ`" ­™ôG" ­Ê©[" ®¡®o" ®«ÿK" ®ÖœL" ¯ï" ¯ÐýË" °›ÿ" °§É8" ±¶ã" ±í¶F" ²®¼8" ²¹+" ²îåx" ²ïÂ±" ³£¶î" ³îåx" ´Ê‘Ö" ´Ð•" µ’ì%" µºÔu" ¶í‚" ¶ð£" ¶ø®'" ·á“" ·ëâä" ¸ÈÃø" ¹ÿíE" º‰¼" ºÞ–š" ºõ—¹" »„´" »¦ÐÍ" »Õ©„" ¼‹º^" ¼±¤Í" ¼Ãâ{" ¼ÊÆÞ" ½ˆç" ½ªñ" ½ÓŒQ" ¾€M" ¾ÓŒQ" ¾äýÏ" ¾ú×[" ¿±Ë€" ¿ÏÔ*" ¿Û›" ÀéÝÊ" ÀïÒ" Àøð=" Á‡ÿ‡" Á£Á" ÁÓŒQ" Áï“" ÂÀÀ" ÂÓŒQ" ÂÙñ" ÂÞŒ°" Âï“" Ã‡ÿ‡" Ã£ò" ÃÞŒ°" Ãï“" Ä˜" Ä´’" Äï“" Åð`" Å”Ã–" Åßœ_" Åï“" Æ¢ØÔ" Æ½Ù`" Æï“" ÇƒÞ" Ç‡ä•" Ç½Ù`" ÇÀÀ" ÇÑÂ'" ÇÞäG" ÇüÔÖ" È¢ØÔ" È½Ù`" ÈÇ‰4" ÉˆÎx" Ê­§" Ë«¼u" Ë­§" ËùÌ¦" Ì™•ï" Ì­§" ÍÙÌj" Íö»4" Í÷¿ÿ" ÏË¡¦" Ð¶­³" Ðãçx" Òš™Ù" Ò²Ð’" Ó• " ÓÕá”" ÓÙ“7" Ô›ˆ" Ôâ¤" ×Å" ÙÈ¦ƒ" ÙÝŒÆ" ÛàÛä" Ûû§k" Ü±š¼" Ý‹×[" ÝÑ¨•" ÞÀã?" ßÿÚ" à¤®" à½Õ." àø¡m" â—›ª" âŸÿó" ã¸œ5" ã¹•ç" ä£í" äµ¾µ" äÃæÍ" äá²â" åÞ" å·©]" æÌ¾" æï­" ççÙ" çê­z" çý¡º" éœˆ" éµ¨P" êìâå" ë—¹" ëËù&" ëòõ" ìžÄ9" ì¡ª" ìÁ™" ìæ" íºÜ×" í¿Î" íüúÇ" î£µÏ" ï¸ê" ïõ¥É" ð‘À@" ðžÅx" ðÜ«á" ðîñD" ñ­‡" ñò—å" òä„Õ" òðùu" ôšŸî" õ–ê" öˆ„È" ö‹Æ" öÆœR" öÎàÕ" öß¦÷" öê•‹" ÷î’>" ø†©_" ø˜ÆÄ" ø²­" ø¶ñ" øí¨¨" ù±Œ" ùÆá°" ùí¨¨" ùñÈG" ú˜Š" úÆá°" úà€" úî€L" ûŽ‹" ûî€L" ü‚ö;" ý¾Ë‘" ýÌ±ö" ýÝ‡" ýë" þƒÎº" þÌ±ö" þÌëŽ" þþ—" ÿˆÓU" ÿÃåF" ÿèÁ@ åÎ"	Ò	™ ¯É"	”
+s Ý­"	þ
+' Ò "	–™ ïâ"	Ö= ±"	‚E Ÿ"	à= ó^"	â= †e"	–‘ „Z"	€q ‹"	²c ˆ"	ºS Úo"	ÒK ò"	¢ ™ •‘"	ê!y º|"	œ"? Ö¢"	˜#} ¼'"	Œ(™ ®R"	„; ß"	Š; ¶"	¼Ö ÆØ"	¦Ê ˜="	žŠ °?"	žŒ Œ9"	žŒ ‘8"	žŒ œ:"	žˆ •<"	žŠ Ÿ>"	žŠ ­D"	œŽ «p"	œŽ ñ"	š’ ¸#"	„° "	Êæ ”"	Êæ ý"	Êæ ÿ"	Êè "	Ìè …"	Ìè ò("	‚Ä
+ Äî"	ž¼ èÙ"	²¶ ’Á"	®Ä Û¾"	ÞÊ é¾"	ÞÎ Ï"	Þ ³q"	öª Áà"	ðà ƒ"	Êˆ ÌÏ"	àv €°"	ðØ Ó¿"	îÚ ‡¯"	Šî £1"	ö¬ ©Ò"	Êö ´"	Òö ô_"	¬² Ê—"	òä  Ç"	ÄÜ ìê"	àö Ö²"	î ƒ»"	¼þ ¶©"	´Ú Ôm"	òè ã•"	ì¬ ®Â"	Ú¢ ›³"	¤Ö Þ…"	Ü® ¢Õ"	®Ð Ð{"	Š¤" µÜ"	à”( °"	ªÊ, öÓ"	Îà  ÷ç"	Îâ  í"	æà  ê"	Ðª" Ìg"	Ä†  ¬œ"	ôì% ì"	È¨& ”¡"	Èª& ´""	à®& †é"	ŒØ) –"	ð´. …K"	Òê/ œ"	îª- õ	"	ÈŠ/ üV"	–Ö0 Ž"	Òþ1 ‰"	Æ´1 ‡Œ"	È²1 Çw"	à’1 ûž"	ÊÞ1 ó"	 š2 –O"	ªœ2 ­T"	¸à3 â"	œè4 ùÆ"	ºœ5 ×Ë"	üê5 ¥"	š ^ Ž"	š ^ ¤"	œ ^ ‹"	  ^ €G"	¢ \ þ"	¤ \ Ï$"	ê"B û&"	þ"ú «\"	°#ž Ýª"	ô"† î%"	â!è ÅÞ"	ˆ$è ¥n"	ˆ$ê “B"	ž$¦ å‚"	ž$ª ˜"	¦$¸ „Ô"	Ä%ˆ s"	ê$¾ v"	ê$Â ÿ"	ê"’ Û"	#ò
+ É "	î#Œ
+ ÑJ"	°$î	 ¿"	â%þ	 ¼E"	à$ô
+ èè"	Ì$â ÂÀ"	è-î ý"	Î/º ïz"	¢,Ð ‰M"	 .Ö ûu"	è)Ä ñ"	¢,ž ¦Q"	¦#Ø à,"	Ž%Š ç"	î!° ù]"	†"þ öˆ"	ü!Ð Ü«"	ø*ä Ë–"	ô-¼ €“"	†-ˆ íµ"	ˆ+Ž È~"	ž.º ŠÛ"	ª.¼ Ç	"	Þ1Ü ‘"	ø1â Ã$"	†2Î §™"	À3Ð Š "	Â3Ì ¯º"	Ä3Ð Ò¦"	–4Š ªŠ"	 4Æ ša"	ì4¶ ž"	¨5¸ ¬0"	ª5ì ú±"	ä3Ð áŸ"	Ð2˜
+ ·["	Ð4” Â5"	Ê4¢ ä"	ö6Â Ž2"	î7â ‰"	à< ’+"	à< Ô`"	‚=ì Ð†"	ä>À î "	¶8¦ þ!"	Î9’ ð	"	Ú;† ÙÊ"	Â3¬ „X"	–7â Ùë"	Ž2þ øí"	´3Š ”’"	à4î Æh"	€<Š ²W"	Ú;Þ Ê"	’9® ýï"	ª:ê 6"	æ<Ü Þ
+"	€>ô ê"	„>€ æ"	ê8¨ ã"	ê8¨ Í"	þ:† Èã"	Ö:Ø ¡‡"	Ž; ˆ3"	Þ<ˆ ›"	–=Ø þk"	ê?Ô ö"	ì?Ø ©"	Š<’ ðƒ"	”>ò »¨"	ð!ˆ! ½„"	¾'Â+ ð®"	þ'’+ øÚ"	Ì(¸# ¨."	†/‚" ÀA"	Š/„" »"	’/€" üC"	Ü,Ä& …	"	Ð(Æ* ¿}"	ä+´- áæ"	Â+ˆ/ Î"	ð/¸, ½È"	¬/Þ- Î/"	¨/€. ÓU"	¶ ö1 Í£"	Î €2 ·N"	¸"ô3 ß"	† ð7 ød"	Ô$ 2 ‘H"	´'Þ4 óä"	¨(Š5 Ø4"	Œ-Ž4 —¥"	Ì6ü% à×"	â7 $ ¤´"	Š3ö) ÷"	Î1¬- É-"	Î1®- ò½"	ü1Â- Õ›"	ô3à, Á"	Æ7‚+ æÅ"	Š8Ü! õf"	¢9Ê! ë@"	Ú8¬" õ¬"	Ä:î! ‰"	Ü:¬& Š˜"	à:–' ‹Ö"	ö:Î' Ñ"	à9š) úá"	ò9Ò) é§"	š:„* ‹"	‚>æ( Ål"	„>ä( ‡¹"	†>ê( †¶"	¾<ê, —È"	Ð<Ð. ¸Ž"	Ð? - ô+"	Ì?î- ñ "	Ð4†6 üÄ"	€3˜9  )"	Ž6Ü9 Øß"	ú9è1 ëÝ"	€:è1 ×t"	Þ8ú5 ¾"	ø9š5 ±L"	ö8¼6 ù·"	È9È6 “¤"	Â9ì7 ¾Y"	€=Œ0 â"	È?Ú1 ˆš"	Ô<Þ7 ‚"	²>¾5 ²+"	ê8ü9 “+"	ê8ú9 ÷7"	ª<Ž8 ‚ "	Â?ê8 §€"	Ø>Ô; "	Ö>Ö; ”"	ê>Æ; Õj"	Œ?Ø: Ú"	ú=â< ³*"	þ<¸> ™Ñ"	ž<ä? ¡ "	¤=†> šr"	²>= À;"	ª>Ú= Œ "	ª>Ü= ¹y"	Ô>¶= I"	Ü>¼= ú"	†?Â= çÌ"	Ä?Ä? Ã"	Æ?Ä? Ä"	Î@ª ä"	„Að ìF"	ò@¬ Ë"	¶@ò ƒ"	®@ú ôÍ"	 @¤ ª¸"	 @¤ ¦Ð"	¦@¬ ¼"	 A¶ S"	¬@¶2 £i"	®@¶2 ºx"	ì@ê9 ¹å"	²@®< žÃ"	Ð@¶= ¨Ã"	Ð@¶= ¢Ã"	Ð@¶= ‚"	¨@â? ÿ"	¨@â? ™P"	À;˜A µ"	Â;–A ’"	Â;–A •"	Â;”A "	Â;˜A Œc"	Æ;”A Üb"	Æ;”A

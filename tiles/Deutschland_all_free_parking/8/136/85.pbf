@@ -1,0 +1,56 @@
+ãZx
+Deutschland_all_free_parking(€ idtags"4
+2{"amenity":"parking","fee":"no","park_ride":"yes"}"F
+D{"amenity":"parking","fee":"no","park_ride":"yes","wheelchair":"no"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"64","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"j
+h{"amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"s
+q{"amenity":"parking","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface","surface":"paving_stones"}"x
+v{"access":"yes","amenity":"parking","capacity":"1","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"y
+w{"access":"yes","amenity":"parking","capacity":"25","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"}
+{{"access":"yes","amenity":"parking","fee":"no","name":"P+R S-Bahn","park_ride":"yes","parking":"surface","supervised":"no"}"}
+{{"amenity":"parking","capacity":"101","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"
+}{"access":"customers","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"
+}{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"22","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"customers","amenity":"parking","fee":"no","maxstay":"2 hours","operator":"ksj","park_ride":"yes","parking":"surface"}"†
+ƒ{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"concrete:plates"}"ˆ
+…{"access":"yes","addr:city":"Leipzig","addr:postcode":"04319","addr:street":"Hans-Weigel-StraÃŸe","amenity":"parking","capacity":"50","fee":"no","name":"P+R Engelsdorf","note":"kein direkter Link auf die P+R-Seite der Stadt Leipzig, im Stadtplan aber explizit als P+R ausgewiesen","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"limited"}"‹
+ˆ{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"“
+{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"6","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"”
+‘{"access":"yes","amenity":"parking","capacity":"102","capacity:disabled":"50","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"•
+’{"access":"yes","amenity":"parking","fee":"no","name":"Pendlerparkplatz","park_ride":"yes","parking":"surface","supervised":"no","surface":"dirt"}"˜
+•{"access":"yes","amenity":"parking","fee":"no","fixme":"Da ist kein Parkplatz an diesem Platz! Am 21.11.2020 sah ich Beschilderung mit folgendem Text: \"Bahnanlage - Unfallgefahr! Befahren und Betreten fÃ¼r Unbefugte verboten! Bei Schnee und Eis wird nicht gerÃ¤umt und nicht gestreut.\". Dieser wilde \"Parkplatz\" s","name":"Bahnhof GÃ¶schwitz","park_ride":"yes","parking":"surface","surface":"asphalt"}"š
+—{"access":"yes","addr:city":"Leipzig","addr:housenumber":"4","addr:postcode":"04158","addr:street":"Georg-Herwegh-StraÃŸe","amenity":"parking","capacity":"1200","fee":"no","name":"P+R Leipziger Messe","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c60986","wheelchair":"yes"}"œ
+™{"access":"yes","addr:city":"Leipzig","addr:housenumber":"130","addr:postcode":"04157","addr:street":"Landsberger StraÃŸe","amenity":"parking","fee":"no","name":"P+R Landsberger StraÃŸe","note":"inoffizieller P+R v.a. zu Spielen von RB Leipzig \"erstreckt\" sich der Parkplatz um das Haus herum","operator":"Leipziger Verkehrsbetriebe (LVB) GmbH","park_ride":"yes","parking":"surface","surface":"cobblestone"}"ž
+›{"addr:city":"Sangerhausen","addr:postcode":"06526","addr:street":"Lengefelder StraÃŸe","amenity":"parking","fee":"no","park_ride":"yes","supervised":"no"}" 
+{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"yes","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no"}"¢
+Ÿ{"access":"yes","amenity":"parking","capacity":"12","capacity:disabled":"2","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"£
+ {"amenity":"parking","capacity":"300","fee":"no","name":"P+R Plovdiver StraÃŸe","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"concrete","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c61123"}"¦
+£{"access":"yes","addr:city":"Leipzig","addr:postcode":"04205","addr:street":"Jenaer StraÃŸe","amenity":"parking","capacity":"154","fee":"no","name":"P+R SchÃ¶nauer Ring","operator":"Stadt Leipzig","operator:type":"public","park_ride":"yes","parking":"surface","supervised":"no","surface":"ground","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c59916"}"«
+¨{"access":"yes","addr:city":"Leipzig","addr:housenumber":"3","addr:postcode":"04299","addr:street":"Friedhofsweg","amenity":"parking","capacity":"500","fee":"no","name":"P+R VÃ¶lkerschlachtdenkmal","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"asphalt","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c60996","wheelchair":"yes"}"­
+ª{"access":"yes","amenity":"parking","capacity":"31","fee":"no","name":"P+R Unterer Bahnhof 3","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"­
+ª{"access":"yes","amenity":"parking","capacity":"61","fee":"no","name":"P+R Unterer Bahnhof 2","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"°
+­{"access":"yes","addr:city":"Apolda","addr:postcode":"99510","addr:street":"Hugo-Ruppe-Platz","amenity":"parking","capacity":"139","capacity:disabled":"5","description":"Ã–PNV-VerknÃ¼pfungsstelle mit Bushaltestellen, einer \u000aPark+Ride- und einer Bike+Ride-Anlage sowie City-WC-Anlage","fee":"no","name":"Hugo-Ruppe-Platz","note":"https://www.apolda.de/stadt-apolda/stadtinformationen/geschichte - in 2015 Namensgebung fÃ¼r den P&R-Parkplatz","operator":"Stadtverwaltung Apolda","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"±
+®{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"2","fee":"no","name":"P+R Unterer Bahnhof 1","park_ride":"yes","parking":"surface","supervised":"no"}"±
+®{"access":"yes","addr:city":"Leipzig","addr:housenumber":"3","addr:postcode":"04299","addr:street":"Friedhofsweg","amenity":"parking","capacity":"100","fee":"no","name":"P+R VÃ¶lkerschlachtdenkmal","operator":"Stadt Leipzig","operator:type":"public","park_ride":"yes","parking":"surface","surface":"asphalt","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c60996"}"Æ
+Ã{"access":"yes","amenity":"parking","capacity":"400","fee":"no","lit":"no","name":"P+R Lausen","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","smoothness":"bad","surface":"compacted","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c61123"}"Ç
+Ä{"access":"yes","amenity":"parking","capacity":"43","capacity:disabled":"2","fee":"no","lit":"yes","maxstay":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"È
+Å{"access":"permissive","amenity":"parking","capacity:parent":"no","capacity:women":"no","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"Þ
+Û{"access":"yes","amenity":"parking","capacity:disabled":"unknown","capacity:parent":"no","capacity:women":"no","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"â
+ß{"access":"yes","addr:city":"Leipzig","addr:housenumber":"174","addr:postcode":"04157","addr:street":"Max-Liebermann-StraÃŸe","amenity":"parking","capacity":"75","fee":"no","name":"P+R Gohlis-Nord","note":"inoffizieller P+R","operator":"Leipziger Verkehrsbetriebe (LVB) GmbH","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"ü
+ù{"access":"yes","addr:city":"Leipzig","addr:postcode":"04205","addr:street":"Jenaer StraÃŸe","amenity":"parking","capacity":"196","fee":"no","name":"P+R SchÃ¶nauer Ring","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"asphalt","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c59916"}"‚
+ÿ{"access":"yes","addr:city":"Leipzig","addr:housenumber":"2","addr:postcode":"04207","addr:street":"Krakauer StraÃŸe","amenity":"parking","capacity":"250","fee":"no","name":"P+R Krakauer StraÃŸe","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c61123"}" ƒÉž†" „¨ø " „ïÆ—" …ƒåŸ" ‡Ž†~" ‘Ñøk" ”üÌë" –»Û[" œì«6" žÓÌŽ" ŸîÜá" ¡±Ÿ{" ¡àËG" ¢±Ÿ{" ¥±Ÿ{" ©µ‹Ö" ©ÔØ" ¯àÖµ" µ­‚W" ¶À©×" ¹Úú" ¼ìÈf" ½ÔëÁ" ÂÝäÚ" Ã®“Y" ÄÝäÚ" Ç÷ŠÖ" É’ž" Ê³Ç˜" Êõû]" ËÝÜS" Ìêõ" ÍÂÎÈ" Î¶×/" ÏÚ•“" Ð„" Ö¨ËÜ" Ö¸Éœ" ÖðÏ‰" Ú“°R" Ú«äw" ÚðÏ‰" Ý¨ËÜ" ÝÆæ" çè¦" ì—ý" í¤Š3" ñ›Ç¦" ò›Ç¦" òžð=" ö¦ìÁ" úÂ¯ G/"	Ê0# f!"	ü–
+ X."	ø	¶ R	"	Ü‚ H"	Êò 3"	òœ* M)"	Àà* L"	²È4 J"	¸Æ4 a"	Ø²5 B""	¼˜& O"	”Š1 >"	Êü5 @"	Ìþ5 A"	Ìþ5 ;"	Üæ5 c"	ÀÂ6 F"	ÀÄ6 b"	ÀÄ6 Q"	à#”
+ Z"	Ð Â E"	¼'Î V"	¦,ä I"	¬%ð 8,"	ø-Ø C1"	†/¼ T%"	Œ/Â `$"	°.„ W2"	Â.¼ [*"	ê1ê S'"	î1ú 7("	ð1ö ] "	ª2¨ ^"	Þ3¨ ?0"	°3à d+"	Ü4 N&"	Þ4ž 6"	ö7Ž Y"	š0ì \"	š0ì P"	œ0ê U"	œ0ò D "	’8º e"	œ<Æ ="	œ<Ê K"	¦&Š5 9
+"	¢ º< 4"	¢8°$ <"	Ö?Ä" _"	Ô?Î" :#"	þ6ä7 5-"	ü:¶9

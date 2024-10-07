@@ -1,0 +1,88 @@
+qx
+Deutschland_all_free_parking(€ idtags"C
+A{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes"}"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"Z
+X{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"\
+Z{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"`
+^{"amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"d
+b{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"l
+j{"access":"yes","amenity":"parking","fee":"no","name":"Park & Ride","park_ride":"yes","parking":"surface"}"l
+j{"amenity":"parking","capacity":"5","fee":"no","name":"Park & Ride","park_ride":"yes","parking":"surface"}"m
+k{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"compacted"}"m
+k{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"p
+n{"access":"permissive","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"p
+n{"access":"yes","amenity":"parking","fee":"no","name":"P+R Schildesche","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"q
+o{"amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"q
+o{"amenity":"parking","capacity":"7","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"u
+s{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Busbahnhof","park_ride":"yes","parking":"surface"}"w
+u{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"HiRes aerial imagery"}"w
+u{"amenity":"parking","capacity":"20","covered":"yes","fee":"no","operator":"DB Station&Service AG","park_ride":"yes"}"y
+w{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"y
+w{"access":"yes","amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"z
+x{"amenity":"parking","capacity":"5","fee":"no","lit":"no","park_ride":"yes","parking":"street_side","surface":"asphalt"}"|
+z{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","ref":"P3"}"|
+z{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"HiRes aerial imagery 2009"}"}
+{{"access":"yes","amenity":"parking","building":"parking","fee":"no","layer":"1","park_ride":"yes","parking":"multi-storey"}"}
+{{"access":"yes","amenity":"parking","fee":"no","name":"P+R Senne","park_ride":"yes","parking":"surface","surface":"gravel"}"~
+|{"access":"yes","amenity":"parking","capacity":"122","fee":"no","name":"P+R StÃ¶cken","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"
+}{"access":"yes","amenity":"parking","fee":"no","name":"P+R Bahnhof Quelle Kupferheide","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"customers","amenity":"parking","capacity":"80","fee":"no","name":"P+R Empelde","park_ride":"yes","parking":"surface"}"…
+‚{"access":"customers","amenity":"parking","capacity":"40","fee":"no","name":"P+R Nordhafen","park_ride":"yes","parking":"surface"}"…
+‚{"access":"private","amenity":"parking","capacity":"25","fee":"no","name":"P+R Langenhagen","park_ride":"yes","parking":"surface"}"‡
+„{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"0","check_date":"02.01.2021","construction":"rail","fee":"no","name":"P+R Brackwede Bahnhof","note":"ursprÃ¼nglich P+R, zurzeit BaustellenflÃ¤chen fÃ¼r den Umbau am Bahnhof. Baustelle entfernt, Parkplatz wieder als Parkplatz nutzbar.","operator":"DB Netz AG","park_ride":"yes","parking":"surface","surface":"paved"}"Š
+‡{"access":"customers","amenity":"parking","capacity":"115","fee":"no","name":"P+R PascalstraÃŸe","park_ride":"yes","parking":"surface"}"‹
+ˆ{"access":"customers","amenity":"parking","capacity":"108","fee":"no","name":"P+R AltwarmbÃ¼chen","park_ride":"yes","parking":"surface"}"
+Š{"access":"yes","amenity":"parking","fee":"no","name":"P+R Senne Bahnhof","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Ž
+‹{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof VÃ¶lksen-Eldagsen","park_ride":"yes","parking":"surface","wheelchair":"yes"}"
+Œ{"access":"yes","amenity":"parking","capacity":"1","capacity:disabled":"1","fee":"no","name":"P+R","opening_hours":"24/7","park_ride":"yes","parking":"street_side","parking:orientation":"parallel","parking_space":"disabled","supervised":"no","surface":"paving_stones"}"‘
+Ž{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular"}"”
+‘{"access":"yes","amenity":"parking","capacity":"8","fee":"no","name":"Bierwegparkplatz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"—
+”{"access":"yes","amenity":"parking","fee":"no","name":"P+R Milse","park_ride":"yes","parking":"surface","surface":"asphalt","vehicle":"destination"}"˜
+•{"access":"yes","amenity":"parking","capacity:disabled":"2","capacity:women":"3","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"™
+–{"access":"yes","amenity":"parking","capacity":"23","fee":"no","name":"P+R Stadtbahn","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+š{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","ref":"P3","wheelchair":"yes"}"ž
+›{"access":"customers","amenity":"parking","capacity":"117","fee":"no","name":"P+R EhrhartstraÃŸe","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ž
+›{"access":"customers","amenity":"parking","capacity:disabled":"2","fee":"no","name":"P+R Sarstedt","park_ride":"yes","parking":"surface","surface":"paved"}"Ÿ
+œ{"access":"yes","amenity":"parking","fee":"no","name":"Pendlerparkplatz","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"£
+ {"access":"yes","amenity":"parking","capacity":"10","fee":"no","name":"Nordfriedhof","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"£
+ {"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"street_side","toilets:wheelchair":"no","wheelchair":"yes"}"¤
+¡{"access":"yes","amenity":"parking","fee":"no","hgv":"yes","name":"P+R Senne","operator":"moBiel GmbH","park_ride":"yes","parking":"surface","surface":"asphalt"}"¥
+¢{"access":"yes","amenity":"parking","capacity":"30","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"¦
+£{"access":"yes","amenity":"parking","fee":"no","operator":"Stadt Werther","operator:type":"public","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ª
+§{"access":"customers","amenity":"parking","capacity":"60","fee":"no","name":"P+R Nordhafen","park_ride":"yes","parking":"surface","source":"HiRes aerial imagery 2009"}"´
+±{"access":"customers","amenity":"parking","capacity":"114","capacity:disabled":"yes","fee":"no","name":"P+R Wettbergen","park_ride":"yes","parking":"surface","wheelchair":"yes"}"´
+±{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","source":"Bing 2012","toilets:wheelchair":"no","wheelchair":"yes"}"µ
+²{"access":"customers","amenity":"parking","fee":"no","name":"P+R Wissenschaftspark Marienwerder","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt"}"·
+´{"access":"customers","amenity":"parking","fee":"no","name":"Schlossparkplatz 1","operator":"Schloss Benkhausen","park_ride":"yes","parking":"surface","ref":"13","supervised":"no"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"19","fee":"no","name":"P+R Brackwede Bahnhof","operator":"DB Netz AG","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¼
+¹{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Park & Ride - Bahnhof Steinhagen Bielefelder StraÃŸe","park_ride":"yes","parking":"surface","surface":"paving_stones"}"½
+º{"access":"customers","amenity":"parking","capacity":"20","capacity:disabled":"1","fee":"no","lit":"yes","name":"P+R Roderbruch","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¿
+¼{"access":"customers","amenity":"parking","capacity":"45","capacity:charging":"2","capacity:disabled":"2","fee":"no","lit":"yes","name":"P+R Misburg","park_ride":"yes","parking":"surface"}"Ï
+Ì{"access":"customers","amenity":"parking","capacity":"180","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","name":"P+R Paracelsusweg","park_ride":"yes","parking":"surface"}"Ñ
+Î{"access":"yes","amenity":"parking","capacity":"14","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","surface":"asphalt","wheelchair":"yes"}"Ñ
+Î{"access":"yes","amenity":"parking","capacity":"40","fee":"no","name":"Mitfahrerparkplatz Exter","operator":"StraÃŸen.NRW","operator:type":"public","park_ride":"yes","parking":"surface","surface":"asphalt"}"Ô
+Ñ{"access":"customers","amenity":"parking","capacity":"20","fee":"no","name":"P+R OstfeldstraÃŸe","park_ride":"yes","parking":"surface","source":"HiRes aerial imagery 2009","surface":"paved","wheelchair":"yes"}"Ô
+Ñ{"access":"yes","amenity":"parking","capacity":"14","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Õ
+Ò{"access":"yes","amenity":"parking","capacity":"66","fee":"no","name":"P+R Sieker","operator":"moBiel GmbH","operator:type":"public","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Ö
+Ó{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","maxstay":"no","name":"Park & Ride - Bahnhof Steinhagen","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"Ú
+×{"access":"yes","amenity":"parking","capacity":"209","capacity:disabled":"6","fee":"no","name":"P+R Milse","operator":"moBiel GmbH","operator:type":"public","park_ride":"yes","parking":"surface","surface":"asphalt"}"â
+ß{"access":"customers","amenity":"parking","capacity":"40","capacity:charging":"yes","capacity:disabled":"2","fee":"no","name":"P+R Garbsen","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"â
+ß{"access":"yes","amenity":"parking","capacity":"16","fee":"no","name":"P+R","opening_hours":"24/7","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","supervised":"no","surface":"paving_stones"}"ä
+á{"access":"customers","amenity":"parking","capacity":"70","fee":"no","name":"P+R Kurze-Kamp-StraÃŸe","park_ride":"yes","parking":"surface","ref:IFOPT":"de:03241:2201:2","source":"HiRes aerial imagery 2009","wheelchair":"yes"}"ç
+ä{"access":"customers","amenity":"parking","capacity":"170","capacity:charging":"4","fee":"no","lit":"yes","name":"P&R Hemmingen","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"paved"}"é
+æ{"access":"yes","amenity":"parking","capacity":"7","capacity:disabled":"2","fee":"no","name":"P+R Babenhausen SÃ¼d","operator":"moBiel GmbH","operator:type":"public","park_ride":"yes","parking":"surface","surface":"paving_stones"}" ‚ààè" ƒ¼´9" ƒÌÞC" „¼„ê" …µîC" …ÙÝ" ‰å¨/" ‰ü÷" ˆÉ" –ö‰" Ž—‰" ŽÏ‡" Äð" æÛ2" “ÎÁÄ" •È " –º÷" –×úç" šÂ»Æ" œ’¿Ÿ" Üý"  €Ú9" ¡£í©" ¢‚Û%" ¤‹Ìã" ¤»þc" ¥•É2" ¥¹Ü”" ¦ÇŒé" ¦Öû" §£À" ¨‹Ôõ" «–¿" «éˆ" ¬ú¦" ­‰“t" ®ÝœC" ¯Œ¶Ï" ¯š™" ´¦©" µŒžé" ¶¡‹ö" ·¿¢^" ¹÷¶ž" ºÜçR" »ˆ¢" »§Ò¿" ¼¡‹ö" ¿€Ù" Àç¿" Ãì£Ê" Åƒæ" Å¬Ù" ÅµÉ™" ÆŒó" Ì¨²n" Îº™" ÏÃÝF" Ð§Ÿ±" Ôºçî" Õ¸à" ×Ò“" ×ß»" ×üÒç" Ø„¢" Ü¥š´" Þƒ¼" Þº™" á³T" âœÚ\" âØö2" ãÛµÆ" äÛµÆ" åœÔ" èýÈ" ëÊàÐ" ìÊàÐ" íé¥" î‘½" îÉ¾c" ïœÚ\" ïÕš—" ð¢Ø" òŽìq" òáÛƒ" ó´„9" ôÿïs" ö…‘‘" öé¥" ÷ñàh" ø¨¹" ùºû{" ûë«ò  7"	‹Î \G"	[Ò" "	i°# t>"		†# Œ<"	¢®
+ N
+"	ü´ k"	Ð˜ d"	Hâ U	"	ªð yM"	Øæ S"	ôÐ R,"	âÎ ¨H"	îÒ “"	¦	¨ ž"	°	¬ c"	Â
+ ˆC"	Ö ª3"	Ü€ ‹"	Ü° j"	Ø² ‡"	ô‚ m "	Ø¤$ ‘$"	ä$ †="	ä”$ ©."	ò€$ ™'"	Þ´& š'"	â¶& rF"	¾À# p"	‚Ž# ~5"	²´% T"	¸¾% s)"	Š	Þ$ ’J"	Ž	à$ ["	°
+º% w"	´
+¾% }*"	º
+À% —"	öø! u"	Ú‚5 ¦	"	¢‚> P/"	ª„> ›"	¬†> O"	ÆÆ$ 	"	Üœ" f"	ä˜" b"	Ä¬" |
+"	ò¢( ¢"	ìº- "	ÐÔ- g"	ÔÔ- W6"	†’5 •"	øÚ; –"	úØ; l"	úì; ‰ "	‚è7 hE"	ª+Ü ¥"	ž.” "	¢)î €"	ê.œ ˜2"	²1Ú œI"	Ô4î ;"	È6ú v"	È6ú ^%"	†6” ”"	ü7† …+"	Â1€ {!"	ò7¬
+ ¡-"	 7ü ‚"	Æ:Œ Ž"	Î: aB"	’;´ §#"	ø;¶ ""	þ8Â „8"	†9¾ i0"	¦8ì e"	Š:Ü ŠK"	ì=Ø £"	”=† oA"	è>º x?"	ð>ò ]9"	ˆ9– `L"	ì:¶ Q"	ú>â Z("	Š6š z:"	ú?Î Y4"	ü?Ð V"	Ô>¶ ƒ"	² Ð) _"	¬7ª= q"	Ö8¾2 ¤&"	’@¬ Ÿ@"	¸@ä nD"	„@’	 X1"	Ø@²

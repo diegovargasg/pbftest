@@ -1,0 +1,130 @@
+ãÄx
+Deutschland_all_free_parking(€ idtags"C
+A{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes"}"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"V
+T{"amenity":"parking","capacity":"7","fee":"no","park_ride":"yes","wheelchair":"yes"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"[
+Y{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side"}"[
+Y{"amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"street_side"}"[
+Y{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"[
+Y{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"c
+a{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"d
+b{"access":"yes","amenity":"parking","fee":"no","name":"P&R","park_ride":"yes","parking":"surface"}"d
+b{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"90","fee":"no","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"k
+i{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"street_side"}"k
+i{"access":"yes","amenity":"parking","capacity":"15","fee":"no","park_ride":"yes","parking":"street_side"}"k
+i{"access":"yes","amenity":"parking","capacity":"38","fee":"no","park_ride":"yes","parking":"street_side"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"unpaved"}"m
+k{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"s
+q{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"street_side"}"s
+q{"amenity":"parking","fee":"no","name":"Parken & Reisen","park_ride":"yes","parking":"surface","supervised":"no"}"u
+s{"access":"yes","amenity":"parking","fee":"no","name":"Bad Vilbel Bahnhof 3","park_ride":"yes","parking":"surface"}"x
+v{"amenity":"parking","fee":"no","lit":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"{
+y{"access":"yes","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"|
+z{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"~
+|{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","capacity:women":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"
+}{"access":"yes","amenity":"parking","capacity":"44","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no","wheelchair":"yes"}"
+{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Haltestelle HÃ¤userhof","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"„
+{"amenity":"parking","fee":"no","name":"Park&Ride-Parkplatz Weibelfeld","park_ride":"yes","parking":"surface","wheelchair":"yes"}"…
+‚{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"…
+‚{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"local knowledge","supervised":"no"}"†
+ƒ{"addr:city":"Karlstein am Main","addr:postcode":"63791","addr:street":"Auwanne","amenity":"parking","capacity":"50","fee":"no","name":"Parkplatz am Bahnhof Dettingen am Main","note":"Anzahl geschÃ¤tzt","park_ride":"yes","parking":"surface","supervised":"no"}"‡
+„{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"‡
+„{"access":"yes","amenity":"parking","fee":"no","orientation":"parallel","park_ride":"yes","parking":"street_side","supervised":"no"}"ˆ
+…{"addr:city":"Karlstein am Main","addr:housenumber":"11","addr:postcode":"63791","addr:street":"BahnhofstraÃŸe","amenity":"parking","capacity":"2","fee":"no","note":"LÃ¤nglicher Parkplatz, genau gezÃ¤hlt","park_ride":"yes","parking":"surface","supervised":"no"}"Š
+‡{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"bing satellite image","supervised":"no"}"‹
+ˆ{"access":"yes","amenity":"parking","capacity":"61","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"no","check_date:fee":"2023-01-24","fee":"no","orientation":"diagonal","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","name":"P+R Dreieich-Buchschlag","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ž
+‹{"access":"yes","amenity":"parking","fee":"no","name":"P&R HeigenbrÃ¼cken","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+Œ{"access":"yes","amenity":"parking","capacity":"65","capacity:disabled":"2","fee":"no","fee:conditional":"yes @ (Mo-Fr 06:00-18:00)","lit":"yes","opening_hours":"24/7","operator":"Gemeinde Hasselroth","park_ride":"yes","parking":"surface","parking:condition":"ticket","parking:condition:default":"free","parking:condition:time_interval":"Mo-Fr 06:00-18:00;","supervised":"no","surface":"asphalt"}"‘
+Ž{"access":"yes","amenity":"parking","capacity":"376","fee":"no","name":"P+R Kalbach","park_ride":"yes","parking":"surface","wheelchair":"yes"}"‘
+Ž{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"’
+{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"yes"}"’
+{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"sand","wheelchair":"limited"}"•
+’{"amenity":"parking","fee":"no","name":"Bahnhofsparkplatz Angersbach","park_ride":"yes","parking":"surface","supervised":"no","surface":"unpaved"}"–
+“{"access":"yes","amenity":"parking","fee":"no","name":"P+R Bahnhof SÃ¼d","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"–
+“{"access":"yes","amenity":"parking","fee":"no","name":"Park and ride - Bahnhof Arheilgen","park_ride":"yes","parking":"surface","wheelchair":"yes"}"—
+”{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source:outline":"Bing after survey","surface":"paving_stones"}"—
+”{"access":"yes","addr:city":"Karlstein am Main","addr:housenumber":"11","addr:postcode":"63791","addr:street":"BahnhofstraÃŸe","amenity":"parking","capacity":"2","fee":"no","note":"LÃ¤nglicher Parkplatz, genau gezÃ¤hlt","park_ride":"yes","parking":"surface","supervised":"no"}"˜
+•{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","traffic_sign":"DE:314,DE:1010-58;DE1010-57","wheelchair":"yes"}"š
+—{"access":"yes","amenity":"parking","capacity":"59","fee":"no","name":"P&R","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"›
+˜{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"limited"}"›
+˜{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Weiskirchen Bahnhof","park_ride":"yes","parking":"surface","surface":"paving_stones"}"›
+˜{"access":"yes","amenity":"parking","fee":"no","name":"Hermann-Stotz-StraÃŸe","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"
+š{"access":"yes","amenity":"parking","fee":"no","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"pebblestone"}"ž
+›{"access":"customers","amenity":"parking","fee":"no","lit":"yes","name":"P+R Maintal West","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"¢
+Ÿ{"access":"customers","amenity":"parking","fee":"no","operator":"Netto Marken-Discount","park_ride":"yes","parking":"surface","public":"no","wheelchair":"yes"}"¤
+¡{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","supervised":"no","toilets:wheelchair":"no","wheelchair":"yes"}"¥
+¢{"access":"yes","amenity":"parking","fee":"no","name":"P & R Bahnhof Seligenstadt","park_ride":"yes","parking":"surface","surface":"paving_stones","toilets":"no"}"¥
+¢{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Niedernberger StraÃŸe","park_ride":"yes","parking":"surface","ref":"1","surface":"paving_stones"}"§
+¤{"access":"yes","amenity":"parking","capacity":"21","capacity:disabled":"2","capacity:women":"3","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"¨
+¥{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"bing satellite image combined with local knowledge","supervised":"no"}"¬
+©{"access":"yes","amenity":"parking","capacity":"58","capacity:disabled":"2","fee":"no","name":"P+R Bahnhof Nord","park_ride":"yes","parking":"surface","supervised":"no"}"³
+°{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}"µ
+²{"access":"yes","addr:city":"Alzenau","addr:postcode":"63755","addr:street":"PoststraÃŸe","amenity":"parking","capacity":"2","fee":"no","park_ride":"yes","parking":"street_side"}"µ
+²{"access":"yes","addr:city":"Alzenau","addr:postcode":"63755","addr:street":"PoststraÃŸe","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"street_side"}"¶
+³{"access":"yes","amenity":"parking","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"¸
+µ{"access":"customers","amenity":"parking","capacity:disabled":"no","fee":"no","maxstay":"2 hours","name":"Zweirad Stadler","park_ride":"yes","parking":"surface","surface":"asphalt"}"º
+·{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","covered":"yes","description":"ParkplÃ¤tze unter FuÃŸgÃ¤ngerbrÃ¼cke","fee":"no","park_ride":"yes","parking":"street_side","smoothness":"intermediate","supervised":"no","surface":"fine_gravel"}"½
+º{"access":"customers","amenity":"parking","fee":"no","note":"diverse operator (Turnverein, AOK)","park_ride":"yes","parking":"surface","source:geometry":"Bing","surface":"paving_stones"}"½
+º{"access":"yes","amenity":"parking","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"¿
+¼{"amenity":"parking","capacity":"35","capacity:disabled":"no","fee":"no","lit":"yes","maxstay":"no","motorcar":"designated","park_ride":"yes","parking":"surface","surface":"paving_stones"}"À
+½{"access":"yes","amenity":"parking","capacity":"11","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","parking:condition":"customers","parking:condition:default":"free","parking:condition:time_interval":"06:00-18:00","supervised":"no","surface":"paving_stones"}"Â
+¿{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxstay":"unlimited","name":"P+R","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"Â
+¿{"access":"yes","amenity":"parking","fee":"no","max_time":"12 h","maxstay":"12 hours","park_ride":"yes","parking":"surface","parking:condition":"disc","parking:condition:vehicles":"motorcar"}"Ã
+À{"access":"yes","amenity":"parking","capacity":"16","fee":"no","lit":"no","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"sett"}"Ã
+À{"access":"yes","amenity":"parking","capacity":"53","capacity:disabled":"1","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"sett"}"Ã
+À{"amenity":"parking","capacity":"5","capacity:disabled":"5","description":"Behindertenparkplatz","fee":"no","operator":"DB/RMV","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Å
+Â{"access":"yes","amenity":"parking","capacity":"4","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"Æ
+Ã{"access":"yes","amenity":"parking","building":"parking","building:levels":"2","fee":"no","name":"P R Eschborn SÃ¼d","opening_hours":"24/7","park_ride":"yes","parking":"multi-storey","roof:shape":"flat","wheelchair":"limited","wheelchair:description":"untere Ebene ist ebenerdig mit BehindertenparkplÃ¤tzen, kein WC o.Ã„."}"Ç
+Ä{"access":"yes","addr:city":"Alzenau","addr:postcode":"63755","addr:street":"PoststraÃŸe","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no"}"É
+Æ{"access":"yes","amenity":"parking","capacity":"200","fee":"no","name":"P+R Nieder-WÃ¶llstadt Bf","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"É
+Æ{"access":"yes","amenity":"parking","capacity":"40","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"Ê
+Ç{"access":"yes","addr:city":"SchÃ¶llkrippen","addr:postcode":"63825","addr:street":"Am Bahnhof","amenity":"parking","capacity":"36","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"Ë
+È{"access":"customers","amenity":"parking","building":"parking","fee":"no","layer":"2","name":"Parkplatz P2","park_ride":"yes","parking":"multi-storey","ref":"P2","supervised":"yes","wheelchair":"yes"}"Í
+Ê{"access":"yes","amenity":"parking","capacity":"20","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"Í
+Ê{"access":"yes","amenity":"parking","capacity":"24","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"Î
+Ë{"access":"yes","amenity":"parking","capacity":"8","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"concrete:plates"}"Î
+Ë{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Festplatz Helle","park_ride":"yes","parking":"surface","wheelchair":"limited"}"Ð
+Í{"access":"yes","amenity":"parking","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"Ó
+Ð{"access":"yes","amenity":"parking","fee":"no","name":"Am Volksfestplatz","opening_hours":"24/7","operator":"Stadtwerke Aschaffenburg","park_ride":"yes","parking":"surface","ref":"P2","surface":"fine_gravel"}"Õ
+Ò{"access":"yes","amenity":"parking","capacity":"263","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Ö
+Ó{"addr:city":"Karlstein am Main","addr:postcode":"63791","addr:street":"Auwanne","amenity":"parking","capacity":"60","fee":"no","note":"Anzahl geschÃ¤tzt","park_ride":"yes","parking":"surface","supervised":"no"}"Ú
+×{"access":"yes","amenity":"parking","capacity":"54","capacity:disabled":"3","fee":"no","operator":"DB/RMV","park_ride":"yes","parking":"surface","source:capacity":"bing","surface":"paving_stones","wheelchair":"yes"}"Û
+Ø{"amenity":"parking","capacity":"25","capacity:disabled":"no","fee":"no","lit":"yes","maxstay":"no","motorcar":"designated","orientation":"perpendicular","park_ride":"yes","parking":"layby","surface":"paving_stones"}"Ü
+Ù{"amenity":"parking","capacity":"10","capacity:disabled":"1","fee":"no","lit":"yes","maxstay":"no","motorcar":"designated","operator":"Gemeinde Nauheim","park_ride":"yes","parking":"surface","surface":"paving_stones"}"â
+ß{"access":"customers","amenity":"parking","capacity":"15","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Park&Ride Heddernheim","noexit":"yes","park_ride":"yes","parking":"surface"}"ä
+á{"access":"yes","amenity":"parking","capacity":"1","capacity:disabled":"1","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"è
+å{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"î
+ë{"access":"yes","amenity":"parking","capacity":"9","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Park&Ride Heddernheim","noexit":"yes","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ï
+ì{"access":"yes","amenity":"parking","capacity":"2","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","parking:condition":"customers","parking:condition:default":"free","parking:condition:time_interval":"Mo-Fr 06:00-18:00","parking:condition:vehicles":"motorcar","supervised":"no","surface":"concrete:plates"}"ï
+ì{"access":"yes","amenity":"parking","capacity":"7","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","parking:condition":"customers","parking:condition:default":"free","parking:condition:time_interval":"Mo-Fr 06:00-18:00","parking:condition:vehicles":"motorcar","supervised":"no","surface":"concrete:plates"}"ï
+ì{"access":"yes","amenity":"parking","capacity":"9","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","parking:condition":"customers","parking:condition:default":"free","parking:condition:time_interval":"Mo-Fr 06:00-18:00","parking:condition:vehicles":"motorcar","supervised":"no","surface":"concrete:plates"}"ñ
+î{"access":"yes","amenity":"parking","capacity":"70","capacity:disabled":"2","fee":"no","lit":"no","name":"Parkplatz BÃ¼rgerhaus","note:lit":"eine Laterne vorhanden. defekt?","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ñ
+î{"access":"yes","amenity":"parking","fee":"no","lit":"no","maxstay":"unlimited","name":"P & R Bahnhof Altenstadt","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"ô
+ñ{"access":"yes","amenity":"parking","capacity":"54","fee":"no","fee:conditional":"yes @ (Mo-Fr 06:00-18:00)","lit":"no","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"ø
+õ{"access":"yes","amenity":"parking","capacity":"86","capacity:disabled":"2","fee":"no","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"û
+ø{"access":"yes","amenity":"parking","capacity":"10","fee":"no","fee:conditional":"yes @ (Mo-Fr 06:00-18:00)","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"û
+ø{"access":"yes","amenity":"parking","capacity":"13","fee":"no","fee:conditional":"yes @ (Mo-Fr 06:00-18:00)","lit":"yes","maxstay":"unlimited","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"ÿ
+ü{"access":"yes","addr:city":"Karlstein am Main","addr:postcode":"63791","addr:street":"BahnhofstraÃŸe","amenity":"parking","capacity":"30","fee":"no","note":"Anzahl geschÃ¤tzt","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}" €ÔË•" ÕÐo" õ÷É" ƒ£¡" „Æã÷" …®³O" …´÷˜" …à¯x" …äÚŒ" ‡à¯x" »-" ¿æg" ÐŸÁ" ÐŸÁ" ’ŸÀ¼" ”‘ýã" ”¯ô½" •‘å" –ö‡" —‘­x" —Ë³«" ˜‹Ò" ˜‘ýã" ˜Í" ›Ž‰¦" ›‘¶" ›‘ýã" œÆã÷" œÈ¤" ¡Á^" ¼Ú" žã¢~" Ÿ”œ" Ÿ®Ío" ŸÔ•–"  ±Œ" ¡ŸÀ¼" ¡Æã÷" ¢Šßw" ¢ºÑ" ¢À›µ" ¤Æã÷" ¦²–¯" ¦Æã÷" ¦ØÌw" §²–¯" §ÐûÓ" §ì¢i" ¨Ýw" ¨°¬" ¨²–¯" ¨Æã÷" ©²–¯" ª¯¬" ª²–¯" «¶1" «²–¯" ¬²–¯" ¬Ò¾…" ¬ý÷
+" ­²–¯" ­Ò¾…" ®²–¯" ®ããn" ®è®ù" ¯“ž™" ¯²–¯" °²–¯" ±«éÒ" ±²–¯" ²œ‹" ²¥Ï" ²²–¯" ²Õ¬œ" ³²–¯" ³Õ ƒ" ³Õ¬œ" ´Ã„" ´²–¯" µ¨ÈY" µ×¬¤" ¶Õ¬œ" ¶ð£" ·Õ¬œ" ¸…­" ¸¼Í" ¸âûÓ" ¹¨ÿ" ¹âûÓ" ºâûÓ" »”¡Û" »ª“" »¶­?" »âûÓ" ¼©ÿë" ¼âûÓ" ½ŸÕ" ½âûÓ" ¾âûÓ" ¿âûÓ" ¿ðôÌ" À°÷" ÀÏ«{" Á­Å¶" ÃÐðõ" ÃìÆL" Äªú" ÄÓ¹K" ÇØ‹" ÇüÔÖ" ÈŒÜÙ" È›—3" ÉˆÎx" Ê÷ŠÇ" ËÜŽx" ÍÄ÷w" ÍÛéÓ" Íö‡" Ï‰ˆ3" Ï¢µ¬" Ñ¢ÈÙ" Ò¢ÈÙ" Òµ±9" Õ¢µ¬" Ö¢µ¬" ×†ç’" Ø×ð" ØêØÙ" ÙêØÙ" Ú‚¾ê" ÛøÄa" Ü¢µ¬" Üª­" ÜÝÇ%" Ý‹×[" Ýßš" Þð¯™" ßð¯™" àþÖ`" áï‘" áð¯™" â—›ª" ä¸Þ" åìòã" ç¢µ¬" è¢µ¬" é’­" éÝØ\" ê¥Û" ê¼k" ëþæ’" ì§Â" ìµÙ" íµÙ" íºÜ×" î‰˜ó" î®€3" ðøË" ó›É¶" óº¯x" ôÒá" ôÿàþ" õ…ù9" ö„è" öˆ„È" ÷¹ï‘" ø¶ñ" ø¼à" ù‚È" ùñÈG" úËÚŒ" úÙÑÀ" þƒÎº" þ÷¬" ÿëÛF š/"	-¨3 t"	'°3 ú"	šÔ
+ „"	ˆž Ô
+"	Øø Ž?"	ŠÞ žE"	žˆ ¡E"	žˆ ¦E"	¤Š ¨E"	¦Š ¼E"	ªŠ ¾E"	°Ž ÂE"	¶Š ªE"	º” ¬E"	º” ­E"	º– °E"	¼œ ¹E"	²¦ ²E"	º¨ ¶E"	¾¨ ·E"	¸ª ÓE"	À† ¢E"	Â† ÕE"	Âˆ ÖE"	ÂŠ ÊE"	ÂŠ ÌE"	ÂŒ ‘E"	ÂŽ ×E"	ÂŽ ÍE"	ÂŽ ÑE"	Â ù"	”Š õ"	ü® …"	˜ˆ
+ Ï^"	€Š µ"	ìÞ ½]"	Êî Àk"	Îì Åj"	Ôì Çl"	Òì —O"	þè  "	Þ®' ¡"	ÖÐ* Æ"	äØ. ¢Z"	üŒ, Ú"	”Ž. £"	–Ž. —%"	úÌ) †"	äž( é"	èž( ûU"	®+ ß>"	Ìð- ‰="	Â	®! Ð."	´	Î" ê""	¸	Ü" à""	¼	Ø" Û"	¾	®# Ã"	àÈ! ƒ	"	Ö	¦% ö"	Ê
+¬& ò"	Ì
+²& -"	€
+Æ' †W"	‚Î  Ý"	¼ö' Ò"	âš' ‘"	â¢' ‚f"	Ð	ˆ) ˜i"	Ö	) #"	þÞ/ Œ#"	øâ/ ç#"	üâ/ I"	òæ* "	lâ1 "	\ô3 {C"	öˆ4 }("	ôŒ4 “C"	ø 4 æ#"	êü5  #"	ðø5 ¤#"	öª6 ³&"	¾Â4 ‡"	¾Æ4 ˜d"	>È8 äM"	@È8 áe"	LØ8 ‡"	Ôæ: “"	Öœ: ž"	Æè>  R"	Àì> |"	Âð> Ù*"	˜
+Š3 –!"	öü3 ‰a"	ú	ö4 Ë"	‚
+ò4 ’)"	‚
+ú4 ÜJ"	ìö3 É;"	°Ö4 ø"	ê‚4 ~3"	¾	Ô: î7"	ì	”: ¯6"	˜
+À< ˆ0"	à
+¶= íg"	¼¨% ì["	¾ª% þ_"	¬œ& •N"	’²! ‹n"	Œ¼  ÄQ"	œþ$ ¿p"	ü¦' È<"	ôÀ* ´H"	ˆº* ›L"	š¶* »h"	À* "	žŠ, ‹"	œ, "	ø¶/ ™"	ú¸/ "	üº/ §"	üº/ Ÿ"	þ¼/ x"	þ¼/ ”"	¾ì+ œT"	†–$ q"	Îð' ±o"	Êô' €r"	Ðð' ®,"	Òê' ©G"	Æ . ÎF"	Æ . ¥"	Æ . Á"	È . ›V"	Ì¢. •c"	æ´6 uS"	ì¾6 v4"	ØÜ4 „"	àÞ4 …"	Úâ4 ÿ9"	ˆè0 œ"	ˆò0 yB"	ŽÖ2 «8"	ŠÞ2 èK"	Žæ2 ï"	®Ö3 ð"	¬Ü3 Ÿ"	®â3 ÷"	®æ3 ëm"	®‚4 ñD"	Ö¾7 š:"	Ø¸7 Š2"	ÚÄ7 ¸"	œœ> å@"	’à1 €s"	ž¼1 ý5"	¦Î1 ü'"	¨Ð1 –$"	²Ú1 wb"	²Ú1 ”`"	âÈ6 ‚1"	ü-Ê X"	Ô6¨ Ø\"	–"Î& zY"	Ö$Â. Œ"	€#²0 ã"	¾ ˆ: ó "	¤ ®: ôA"	¤ °: ˆ"	Ô Þ? º"	Ì î? ’+"	ö*ö2 â"	Ò-¬3 Š"	Ô>š; Ž"	Ö>œ; ƒ"	Ü>¤; ÞP"	ø¸@ ™"	†@ª

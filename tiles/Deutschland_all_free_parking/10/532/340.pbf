@@ -1,0 +1,49 @@
+¨Hx
+Deutschland_all_free_parking(€ idtags"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"74","fee":"no","park_ride":"yes","parking":"surface"}"m
+k{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","surface":"paved"}"m
+k{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"compacted"}"n
+l{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"o
+m{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"pebblestone"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ƒ
+€{"access":"yes","amenity":"parking","capacity":"15","fee":"no","name":"P&R,Dortmund-Kley","park_ride":"yes","parking":"surface"}"†
+ƒ{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","operator":"Stadt Essen","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"‰
+†{"access":"private","amenity":"parking","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"Š
+‡{"access":"yes","amenity":"parking","capacity":"27","fee":"no","name":"P&R,Gelsenkirchen-Hassel","park_ride":"yes","parking":"surface"}"Œ
+‰{"access":"yes","amenity":"parking","capacity":"20","fee":"no","name":"P&R, Essen-Zollverein Nord","park_ride":"yes","parking":"surface"}"
+‹{"access":"yes","amenity":"parking","capacity":"50","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"
+‹{"access":"yes","amenity":"parking","capacity:disabled":"2","check_date:fee":"2024-05-09","fee":"no","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","fee":"no","name":"Bochum Langendreer West","park_ride":"yes","parking":"surface","surface":"paving_stones"}"“
+{"access":"yes","addr:city":"Castrop-Rauxel","addr:postcode":"44579","amenity":"parking","capacity":"316","capacity:disabled":"2","fee":"no","name":"Park & Ride Hauptbahnhof Castrop-Rauxel","park_ride":"yes","parking":"surface","source":"Der Merklinder","supervised":"no"}"•
+’{"amenity":"parking","capacity":"30","fee":"no","name":"P&R, Recklinghausen SÃ¼d,2","park_ride":"yes","parking":"street_side","surface":"asphalt"}"–
+“{"access":"yes","amenity":"parking","capacity":"87","capacity:charging":"2","capacity:disabled":"3","fee":"no","lit":"yes","name":"Bochum-Dahlhausen","opening_hours":"24/7","operator":"Stadt Bochum","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"—
+”{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"2","fee":"no","level":"2","lit":"yes","name":"Bahnhof Essen-Eiberg","name:en":"P&R,Essen-Eiberg","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"
+š{"access":"yes","amenity":"parking","capacity":"24","capacity:disabled":"2","fee":"no","name":"P&R,Essen-Kray Nord","park_ride":"yes","parking":"surface"}"
+›{"access":"permissive","amenity":"parking","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","maxstay":"no","operator":"LWL-Industriemuseum Zeche Zollern","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"grass_paver","wheelchair":"yes"}" 
+{"access":"yes","amenity":"parking","capacity":"120","capacity:disabled":"3","fee":"no","name":"P&R, Bochum Ehrenfeld","park_ride":"yes","parking":"surface"}"¡
+{"access":"yes","amenity":"parking","capacity":"15","capacity:disabled":"1","fee":"no","name":"P&R,Castrop-Rauxel SÃ¼d","park_ride":"yes","parking":"surface"}"¢
+Ÿ{"access":"private","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"£
+ {"access":"yes","amenity":"parking","capacity":"10","fee":"no","name":"P&R, Recklinghausen SÃ¼d, 1","park_ride":"yes","parking":"street_side","surface":"paved"}"§
+¤{"access":"yes","amenity":"parking","capacity":"69","capacity:disabled":"6","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","name":"P&R,Essen-Holthausen","operator":"Stadt Essen","operator:type":"government","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ª
+§{"access":"yes","amenity":"parking","capacity":"71","capacity:disabled":"3","fee":"no","name":"P&R, Gelsenkirchen-Buer Nord","park_ride":"yes","parking":"street_side"}"°
+­{"access":"yes","amenity":"parking","capacity":"33","capacity:disabled":"2","fee":"no","name":"P&R,Dortmund-Oespel","park_ride":"yes","parking":"surface","wheelchair":"yes"}"²
+¯{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"´
+±{"access":"yes","amenity":"parking","capacity":"260","capacity:disabled":"4","fee":"no","name":"P&R, Wanne-Eickel Hbf","park_ride":"yes","parking":"surface","surface":"asphalt"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"37","fee":"no","name":"P&R,Gelsenkirchen Zoo","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"2","fee":"no","name":"Bochum Wattenscheid Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"»
+¸{"access":"yes","amenity":"parking","capacity":"36","capacity:charging":"1","capacity:disabled":"2","fee":"no","name":"P&R, Dortmund-Westerfilde","park_ride":"yes","parking":"surface"}"»
+¸{"access":"yes","amenity":"parking","capacity":"50","fee":"no","name":"Bochum Wattenscheid Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"limited","wheelchair:description":"Kein Behindertenparplatz verfÃ¼gbar, Autos parken teilweise auf dem BÃ¼rgersteig"}"¿
+¼{"access":"yes","amenity":"parking","fee":"no","name":"Bochum Langendreer West","operator":"27","park_ride":"yes","parking":"surface","smoothness":"intermediate","surface":"paving_stones"}"Å
+Â{"access":"yes","amenity":"parking","capacity":"70","fee":"no","name":"Bochum HÃ¶ntrop","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"Ë
+È{"access":"yes","amenity":"parking","capacity":"48","fee":"no","name":"Bochum Wattenscheid Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Ô
+Ñ{"access":"yes","amenity":"parking","capacity":"18","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Õ
+Ò{"access":"yes","amenity":"parking","capacity":"172","fee":"no","lit":"yes","name":"Bochum Langendreer","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"İ
+Ú{"access":"yes","amenity":"parking","capacity":"110","capacity:disabled":"3","fee":"no","lit":"yes","name":"P&R, Essen-Steele Ost","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"å
+â{"access":"yes","amenity":"parking","capacity":"124","capacity:disabled":"4","covered":"no","fee":"no","name":"Park and Ride Area","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"ø
+õ{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","name":"Bahnhof Essen-Eiberg","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ú
+÷{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"2","fee":"no","lit":"yes","name":"P+R Bahnhof Hattingen","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}" †ÓØÈ" ‡È„" ˆ‚ê" ‰¶Ë" ‰úÿú" ï½J" Æ;" ÿú-" ’°›#" ”ï½J" •ç„$" –ï½J" ™Ğ‹" šşè#" ¡Û‰¡" ¢”²" ¬æÖÄ" ¬õŒ4" ·°Ñ0" ¸åY" ¸øÚ" ¹Šç" ºœ±£" ¼øÈL" ½ƒ™" ½ŸÑ0" ¾ı‡" Ã¿ " Ç£˜" Èø" É¯Õ" Ëƒ™" Ğ´" ĞÁ±*" ÔåŒ¥" Ø¤Öß" ØĞÁä" æÀÅ" îÆÅ4" ò–ğs" õÂƒ½" ûÖ‡." ûı’½" üÖ‡." ş×G F"	®” /"	Äê X"	îÚ P&"	´Ü T "	š‚ R"	Îª 0"	è¦ ?"	ì¨ V"	â´ <"	´† C"	€¸$ 6"	îÖ+ 4"	ğâ: I	"	¦š1 N "	È
+ò2 8("	â
+‚3 ;"	úŞ3 -*"	¤´3 O"	¸ª: G "	”¬* W""	Ö”* U%"	Ü* L$"	š. A"	öì7 5"	 ¾? 1+"	¸¶? 7"	¸À? B"	®Ä? 2)"	Ò"Ö 3"	¬1„ ="	â>¦ S"	ğ2ğ H"	î6– Q"	š<Â @!"	Î?² ,"	Ê'ö& ."	Ì Ü* M
+"	”'Ä* J"	È5æ" :"	Ê1æ( >"	€2’) E#"	˜2) 9'"	¾5†) D"	ä<à% K"	¬@ü%

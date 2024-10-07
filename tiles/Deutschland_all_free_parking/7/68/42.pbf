@@ -1,0 +1,200 @@
+ï¾x
+Deutschland_all_free_parking(€ idtags"4
+2{"amenity":"parking","fee":"no","park_ride":"yes"}"C
+A{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes"}"F
+D{"amenity":"parking","fee":"no","park_ride":"yes","wheelchair":"no"}"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"Z
+X{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"a
+_{"amenity":"parking","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"surface"}"c
+a{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"32","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"64","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"j
+h{"amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"j
+h{"amenity":"parking","capacity":"65","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"unpaved"}"m
+k{"access":"yes","amenity":"parking","fee":"no","maxstay":"unlimited","park_ride":"yes","parking":"surface"}"m
+k{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"compacted"}"n
+l{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"unpaved"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"o
+m{"amenity":"parking","fee":"no","park_ride":"yes","parking":"lane","supervised":"no","surface":"cobblestone"}"p
+n{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","smoothness":"excellent"}"q
+o{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"q
+o{"amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"sett"}"r
+p{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof Marquardt","park_ride":"yes","parking":"surface"}"s
+q{"access":"private","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"s
+q{"amenity":"parking","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface","surface":"paving_stones"}"t
+r{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"u
+s{"access":"customers","amenity":"parking","capacity:disabled":"6","fee":"no","park_ride":"yes","surface":"asphalt"}"x
+v{"access":"yes","amenity":"parking","capacity":"1","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"3","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"7","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"x
+v{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"y
+w{"access":"yes","amenity":"parking","capacity":"21","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"y
+w{"access":"yes","amenity":"parking","capacity":"25","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"z
+x{"access":"customers","amenity":"parking","fee":"no","name":"P+R Dresden Gompitz","park_ride":"yes","parking":"surface"}"z
+x{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"z
+x{"access":"yes","amenity":"parking","capacity":"26","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"{
+y{"access":"yes","amenity":"parking","capacity":"200","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"|
+z{"access":"yes","amenity":"parking","capacity":"40","fee":"no","park_ride":"yes","parking":"surface","surface":"concrete"}"|
+z{"access":"yes","amenity":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"}
+{{"access":"private","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"}
+{{"access":"yes","amenity":"parking","fee":"no","name":"P+R S-Bahn","park_ride":"yes","parking":"surface","supervised":"no"}"}
+{{"amenity":"parking","capacity":"101","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"~
+|{"access":"yes","amenity":"parking","capacity":"9","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"customers","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"
+}{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"22","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"24","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"34","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"47","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"59","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"78","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"amenity":"parking","fee":"no","maxweight":"12","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"€
+~{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+{"access":"yes","amenity":"parking","capacity":"25","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+{"access":"yes","amenity":"parking","capacity":"36","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+{"access":"yes","amenity":"parking","fee":"no","operator":"Stadt Burg","park_ride":"yes","parking":"surface","supervised":"no"}"ƒ
+€{"access":"customers","amenity":"parking","fee":"no","maxstay":"2 hours","operator":"ksj","park_ride":"yes","parking":"surface"}"ƒ
+€{"access":"yes","amenity":"parking","capacity":"48","capacity:disabled":"0","fee":"no","park_ride":"yes","wheelchair":"limited"}"ƒ
+€{"access":"yes","amenity":"parking","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ƒ
+€{"access":"yes","amenity":"parking","fee":"no","goods":"no","hgv":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"„
+{"access":"yes","amenity":"parking","capacity":"31","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"street_side"}"„
+{"access":"yes","amenity":"parking","capacity":"90","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"street_side"}"„
+{"access":"yes","amenity":"parking","capacity:disabled":"30","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"…
+‚{"access":"yes","amenity":"parking","capacity":"8","check_date:fee":"2021-05-02","fee":"no","park_ride":"yes","parking":"surface"}"†
+ƒ{"access":"yes","amenity":"parking","capacity":"10","check_date:fee":"2021-11-10","fee":"no","park_ride":"yes","parking":"surface"}"†
+ƒ{"access":"yes","amenity":"parking","fee":"no","name":"P+R S GrÃ¼nau","park_ride":"yes","parking":"surface","wheelchair":"limited"}"†
+ƒ{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"concrete:plates"}"‡
+„{"access":"yes","amenity":"parking","capacity":"31","fee":"no","name":"P+R Bahnhof Klotzsche","park_ride":"yes","parking":"surface"}"ˆ
+…{"access":"yes","amenity":"parking","fee":"no","level":"0","maxheight":"3.4","maxweight":"3.5","park_ride":"yes","parking":"surface"}"ˆ
+…{"access":"yes","addr:city":"Leipzig","addr:postcode":"04319","addr:street":"Hans-Weigel-StraÃŸe","amenity":"parking","capacity":"50","fee":"no","name":"P+R Engelsdorf","note":"kein direkter Link auf die P+R-Seite der Stadt Leipzig, im Stadtplan aber explizit als P+R ausgewiesen","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"limited"}"‹
+ˆ{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"‹
+ˆ{"access":"yes","amenity":"parking","check_date":"2024-03-09","fee":"no","name":"P&R Schichauweg","park_ride":"yes","parking":"surface"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","name":"P+R BurgstÃ¤dt, Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ž
+‹{"access":"yes","amenity":"parking","capacity":"103","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"
+Œ{"access":"yes","addr:city":"FÃ¼rstenwalde/Spree","addr:postcode":"15517","addr:street":"Trebuser StraÃŸe","amenity":"parking","capacity":"230","capacity:disabled":"2","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"
+{"access":"yes","amenity":"parking","capacity":"50","fee":"no","name":"Fontaneplatz","park_ride":"yes","parking":"surface","supervised":"no"}"
+{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Storkower StraÃŸe","park_ride":"yes","parking":"surface","wheelchair":"yes"}"’
+{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"“
+{"access":"permissive","amenity":"parking","fee":"no","name":"Forum Gesundheit Dresden","park_ride":"yes","parking":"surface","supervised":"no"}"“
+{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"6","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"“
+{"TMC:cid_58:tabcd_1:Class":"Point","TMC:cid_58:tabcd_1:LCLversion":"9.00","TMC:cid_58:tabcd_1:LocationCode":"57108","access":"yes","amenity":"parking","capacity":"190","fee":"no","lit":"yes","name":"P+R Dresden-Kaditz","park_ride":"yes","parking":"surface","surface":"grass_paver","toilets:wheelchair":"no","website":"https://www.dresden.de/apps_ext/ParkplatzApp/detail?1&id=427","wheelchair":"yes"}"”
+‘{"access":"yes","amenity":"parking","capacity":"10","fee":"no","name":"Parkplatz am Bahnhof GrÃ¼nhainichen","park_ride":"yes","surface":"gravel"}"”
+‘{"access":"yes","amenity":"parking","capacity":"102","capacity:disabled":"50","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"”
+‘{"access":"yes","amenity":"parking","capacity":"116","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"•
+’{"access":"yes","amenity":"parking","fee":"no","name":"Pendlerparkplatz","park_ride":"yes","parking":"surface","supervised":"no","surface":"dirt"}"•
+’{"amenity":"parking","capacity":"10","fee":"no","lit":"yes","park_ride":"yes","parking":"street_side","supervised":"no","surface":"paving_stones"}"•
+’{"amenity":"parking","capacity":"11","fee":"no","lit":"yes","park_ride":"yes","parking":"street_side","supervised":"no","surface":"paving_stones"}"–
+“{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Bahnhof Friedrichshagen","park_ride":"yes","parking":"surface","wheelchair":"yes"}"–
+“{"access":"yes","amenity":"parking","capacity":"40","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","name":"Pendlerparkplatz","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"—
+”{"access":"yes","amenity":"parking","capacity":"80","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"—
+”{"access":"yes","amenity":"parking","capacity":"97","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"˜
+•{"access":"yes","amenity":"parking","fee":"no","fixme":"Da ist kein Parkplatz an diesem Platz! Am 21.11.2020 sah ich Beschilderung mit folgendem Text: \"Bahnanlage - Unfallgefahr! Befahren und Betreten fÃ¼r Unbefugte verboten! Bei Schnee und Eis wird nicht gerÃ¤umt und nicht gestreut.\". Dieser wilde \"Parkplatz\" s","name":"Bahnhof GÃ¶schwitz","park_ride":"yes","parking":"surface","surface":"asphalt"}"š
+—{"access":"customers","amenity":"parking","capacity":"6","capacity:disabled":"5","fee":"no","park_ride":"yes","parking":"street_side","surface":"sett"}"š
+—{"access":"yes","amenity":"parking","capacity":"200","fee":"no","name":"Parkplatz OststraÃŸe","park_ride":"yes","parking":"surface","wheelchair":"yes"}"š
+—{"access":"yes","amenity":"parking","fee":"no","name":"P+R Bhf. RehbrÃ¼cke","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"š
+—{"access":"yes","addr:city":"Leipzig","addr:housenumber":"4","addr:postcode":"04158","addr:street":"Georg-Herwegh-StraÃŸe","amenity":"parking","capacity":"1200","fee":"no","name":"P+R Leipziger Messe","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c60986","wheelchair":"yes"}"›
+˜{"access":"yes","amenity":"parking","capacity":"425","capacity:disabled":"4","fee":"no","name":"P+R Altglienicke","park_ride":"yes","parking":"surface"}"›
+˜{"access":"yes","amenity":"parking","fee":"no","name":"Mitfahrerparkplatz","park_ride":"yes","parking":"surface","supervised":"no","surface":"concrete"}"œ
+™{"access":"yes","addr:city":"Leipzig","addr:housenumber":"130","addr:postcode":"04157","addr:street":"Landsberger StraÃŸe","amenity":"parking","fee":"no","name":"P+R Landsberger StraÃŸe","note":"inoffizieller P+R v.a. zu Spielen von RB Leipzig \"erstreckt\" sich der Parkplatz um das Haus herum","operator":"Leipziger Verkehrsbetriebe (LVB) GmbH","park_ride":"yes","parking":"surface","surface":"cobblestone"}"
+š{"access":"yes","amenity":"parking","capacity":"200","fee":"no","park_ride":"yes","parking":"surface","parking:condition:both":"free","surface":"asphalt"}"
+š{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"yes"}"
+š{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"ž
+›{"access":"yes","amenity":"parking","fee":"no","name":"P+R Berlin-Lichtenberg","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"ž
+›{"addr:city":"Sangerhausen","addr:postcode":"06526","addr:street":"Lengefelder StraÃŸe","amenity":"parking","fee":"no","park_ride":"yes","supervised":"no"}"ž
+›{"access":"yes","addr:city":"Zeuthen","addr:housenumber":"10","addr:postcode":"15738","addr:street":"BahnstraÃŸe","amenity":"parking","capacity":"126","covered":"no","fee":"no","lit":"yes","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Ÿ
+œ{"access":"yes","amenity":"parking","capacity":"27","capacity:disabled":"1","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ÿ
+œ{"access":"yes","amenity":"parking","capacity":"62","capacity:disabled":"2","fee":"no","name":"P+R Narsdorf, Bahnhof","park_ride":"yes","parking":"surface"}" 
+{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"yes","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no"}" 
+{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","maxstay":"unlimited","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"2","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"grass_paver"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"3","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"grass_paver"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"6","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"grass_paver"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"7","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"grass_paver"}"¢
+Ÿ{"access":"yes","amenity":"parking","capacity":"12","capacity:disabled":"2","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"£
+ {"amenity":"parking","capacity":"300","fee":"no","name":"P+R Plovdiver StraÃŸe","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"concrete","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c61123"}"¤
+¡{"access":"yes","amenity":"parking","capacity":"48","fee":"no","lit":"yes","name":"Parkplatz Busbahnhof","park_ride":"yes","parking":"surface","supervised":"no"}"¤
+¡{"amenity":"parking","capacity":"25","fee":"no","lit":"yes","name":"Parken und Reisen","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"¦
+£{"access":"yes","addr:city":"Ludwigsfelde","addr:postcode":"14974","addr:street":"Am Bahnhof","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"¦
+£{"access":"yes","addr:city":"Leipzig","addr:postcode":"04205","addr:street":"Jenaer StraÃŸe","amenity":"parking","capacity":"154","fee":"no","name":"P+R SchÃ¶nauer Ring","operator":"Stadt Leipzig","operator:type":"public","park_ride":"yes","parking":"surface","supervised":"no","surface":"ground","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c59916"}"¨
+¥{"access":"yes","amenity":"parking","capacity":"20","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"limited"}"¨
+¥{"access":"customers","amenity":"parking","capacity:disabled":"unknown","fee":"no","name":"Markt- und Parkplatz Britz-SÃ¼d","note":"Mo, Do und Sa ist Markt, an allen anderen Tagen dient es als Parkplatz.","opening_hours":"Mo,Th,Sa off","park_ride":"yes","parking":"surface","wheelchair":"yes"}"©
+¦{"access":"yes","amenity":"parking","capacity":"4","capacity:disabled":"1","fee":"no","operator":"Stadt Burg","park_ride":"yes","parking":"surface","supervised":"no"}"©
+¦{"amenity":"parking","capacity":"7","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","toilets:wheelchair":"no","wheelchair":"yes"}"ª
+§{"amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","toilets:wheelchair":"no","wheelchair":"yes"}"«
+¨{"amenity":"parking","capacity":"15","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"«
+¨{"access":"yes","addr:city":"Leipzig","addr:housenumber":"3","addr:postcode":"04299","addr:street":"Friedhofsweg","amenity":"parking","capacity":"500","fee":"no","name":"P+R VÃ¶lkerschlachtdenkmal","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"asphalt","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c60996","wheelchair":"yes"}"­
+ª{"access":"yes","amenity":"parking","capacity":"31","fee":"no","name":"P+R Unterer Bahnhof 3","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"­
+ª{"access":"yes","amenity":"parking","capacity":"61","fee":"no","name":"P+R Unterer Bahnhof 2","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"­
+ª{"access":"yes","amenity":"parking","capacity":"63","capacity:disabled":"2","fee":"no","lit":"yes","maxheight":"2.0","name":"P&R Ortrand","operator":"Landesbetrieb StraÃŸenwesen Brandenburg","operator:type":"public","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"40","check_date:fee":"2022-08-27","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","ref":"P1","surface":"paved"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"50","check_date:fee":"2022-08-27","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","ref":"P2","surface":"paved"}"°
+­{"access":"yes","amenity":"parking","capacity":"100","fee":"no","name":"Am GÃ¼terbahnhof","operator":"Stadt Oschatz","park_ride":"yes","parking":"surface","supervised":"no"}"°
+­{"access":"yes","addr:city":"Apolda","addr:postcode":"99510","addr:street":"Hugo-Ruppe-Platz","amenity":"parking","capacity":"139","capacity:disabled":"5","description":"Ã–PNV-VerknÃ¼pfungsstelle mit Bushaltestellen, einer \u000aPark+Ride- und einer Bike+Ride-Anlage sowie City-WC-Anlage","fee":"no","name":"Hugo-Ruppe-Platz","note":"https://www.apolda.de/stadt-apolda/stadtinformationen/geschichte - in 2015 Namensgebung fÃ¼r den P&R-Parkplatz","operator":"Stadtverwaltung Apolda","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"±
+®{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"2","fee":"no","name":"P+R Unterer Bahnhof 1","park_ride":"yes","parking":"surface","supervised":"no"}"±
+®{"access":"yes","amenity":"parking","capacity":"18","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"paving_stones","toilets:wheelchair":"no","wheelchair":"yes","wheelchair:description":"WC befindet sich am Busbahnhof"}"±
+®{"access":"yes","addr:city":"Leipzig","addr:housenumber":"3","addr:postcode":"04299","addr:street":"Friedhofsweg","amenity":"parking","capacity":"100","fee":"no","name":"P+R VÃ¶lkerschlachtdenkmal","operator":"Stadt Leipzig","operator:type":"public","park_ride":"yes","parking":"surface","surface":"asphalt","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c60996"}"²
+¯{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","maxstay":"unlimited","name":"Park + Ride","park_ride":"yes","parking":"surface","wheelchair":"limited"}"µ
+²{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"·
+´{"access":"yes","amenity":"parking","capacity":"40","capacity:disabled":"1","fee":"no","name":"Parkplatz Gasthof WeiÃŸig","park_ride":"yes","parking":"surface","surface":"asphalt"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","toilets:wheelchair":"no","wheelchair":"yes"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","toilets:wheelchair":"no","wheelchair":"yes"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"7","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","toilets:wheelchair":"no","wheelchair":"yes"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","toilets:wheelchair":"no","wheelchair":"yes"}"¸
+µ{"amenity":"parking","capacity:disabled":"5","covered":"no","fee":"no","lit":"yes","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"»
+¸{"access":"yes","amenity":"parking","building":"parking","building:levels":"4","capacity":"110","fee":"no","maxheight":"2","park_ride":"yes","parking":"multi-storey","wheelchair":"no"}"¾
+»{"access":"yes","addr:street":"WolfsbrÃ¼cke","amenity":"parking","capacity":"50","fee":"no","name":"Parkplatz an der Schwimmhalle","park_ride":"yes","parking":"surface","supervised":"no"}"¾
+»{"access":"yes","amenity":"parking","capacity":"82","capacity:disabled":"no","fee":"no","name":"P+R Klingenberg-Collmnitz","park_ride":"yes","parking":"surface","surface":"paving_stones"}"À
+½{"access":"yes","amenity":"parking","capacity":"56","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"À
+½{"access":"yes","amenity":"parking","capacity":"58","capacity:charging":"2","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","smoothness":"good","surface":"asphalt"}"Â
+¿{"access":"yes","amenity":"parking","capacity":"20","fee":"no","name":"Parkplatz am Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Å
+Â{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"Æ
+Ã{"access":"yes","amenity":"parking","fee":"no","maxstay":"0","name":"Parken Am GÃ¼terbahnhof","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"Æ
+Ã{"access":"yes","amenity":"parking","capacity":"400","fee":"no","lit":"no","name":"P+R Lausen","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","smoothness":"bad","surface":"compacted","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c61123"}"Ç
+Ä{"access":"yes","amenity":"parking","capacity":"43","capacity:disabled":"2","fee":"no","lit":"yes","maxstay":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"È
+Å{"access":"permissive","amenity":"parking","capacity:parent":"no","capacity:women":"no","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"È
+Å{"access":"yes","amenity":"parking","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","check_date:fee":"2024-04-22","fee":"no","name":"P&R","park_ride":"yes","parking":"surface"}"Ì
+É{"access":"permissive","amenity":"parking","fee":"no","name":"Elbkai","operator":"Stadt MeiÃŸen","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes","winter_service":"limited"}"Ð
+Í{"access":"permissive","amenity":"parking","capacity":"15","fee":"no","name":"Parkplatz UferstraÃŸe","operator":"Stadt MeiÃŸen","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Ñ
+Î{"access":"yes","amenity":"parking","capacity":"18","capacity:disabled":"2","capacity:motorcycles":"3","fee":"no","lit":"yes","operator":"Stadt Burg","park_ride":"yes","parking":"surface","supervised":"no"}"Ñ
+Î{"access":"yes","amenity":"parking","capacity":"90","capacity:disabled":"1","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"paving_stones"}"Ò
+Ï{"access":"yes","amenity":"parking","capacity":"25","fee":"no","name":"Weixdorf Bad","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"paved"}"Ò
+Ï{"access":"yes","amenity":"parking","capacity":"34","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Ô
+Ñ{"access":"customers","amenity":"parking","capacity":"312","capacity:disabled":"5","fee":"no","lit":"yes","maxstay":"12 hours","name":"S WaÃŸmannsdorf","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ö
+Ó{"access":"yes","amenity":"parking","capacity":"52","capacity:disabled":"2","fee":"no","note":"mit ParkÃ¼berwachungssystem zur Angabe der Freien PlÃ¤tze Ã¼ber eine website","park_ride":"yes","parking":"surface"}"Ö
+Ó{"access":"yes","amenity":"parking","capacity":"74","fee":"no","maxstay":"0","name":"Parken Am GÃ¼terbahnhof","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"38","fee":"no","name":"P+R","opening_hours":"24/7","park_ride":"yes","parking":"surface","website":"https://www.dresden.de/freie-parkplaetze/parken/detail?id=PR05"}"Ù
+Ö{"TMC:cid_58:tabcd_1:Class":"Point","TMC:cid_58:tabcd_1:LCLversion":"9.00","TMC:cid_58:tabcd_1:LocationCode":"57109","access":"yes","amenity":"parking","capacity":"67","fee":"no","name":"Park&Ride Prohlis","opening_hours":"24/7","park_ride":"yes","parking":"surface","website":"https://www.dresden.de/freie-parkplaetze/parken/detail?id=PR02"}"Þ
+Û{"access":"yes","amenity":"parking","capacity:disabled":"unknown","capacity:parent":"no","capacity:women":"no","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"â
+ß{"access":"yes","addr:city":"Leipzig","addr:housenumber":"174","addr:postcode":"04157","addr:street":"Max-Liebermann-StraÃŸe","amenity":"parking","capacity":"75","fee":"no","name":"P+R Gohlis-Nord","note":"inoffizieller P+R","operator":"Leipziger Verkehrsbetriebe (LVB) GmbH","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"ã
+à{"access":"yes","amenity":"parking","capacity":"125","fee":"no","name":"P+R Parkplatz am ZOB","operator":"Stadtverwaltung Pirna","operator:type":"public","park_ride":"yes","parking":"surface","ref":"P14","surface":"asphalt"}"ã
+à{"access":"yes","amenity":"parking","capacity":"50","fee":"no","name":"P+R Bhf LangebrÃ¼ck","opening_hours":"24/7","park_ride":"yes","parking":"surface","website":"https://www.dresden.de/apps_ext/ParkplatzApp/detail?id=439"}"ä
+á{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"2","fee":"no","lit":"no","name":"Parkplatz am Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"å
+â{"access":"yes","amenity":"parking","capacity":"85","fee":"no","name":"P+R Parkplatz am Bahnhof","operator":"Stadtverwaltung Pirna","operator:type":"public","park_ride":"yes","parking":"surface","ref":"P9","surface":"asphalt"}"ì
+é{"access":"yes","amenity":"parking","capacity":"11","fee":"no","orientation":"diagonal","park_ride":"yes","parking":"street_side","parking:street_side:of":"service","parking:street_side:of:name":"OberfeldstraÃŸe","surface":"asphalt"}"ì
+é{"access":"yes","amenity":"parking","capacity":"80","fee":"no","name":"Parkplatz ehemaliger GÃ¼terumschlagplatz","operator":"Stadtverwaltung Oelsnitz/Erzgeb.","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"÷
+ô{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"2","fee":"no","lit":"no","name":"Parkplatz am Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","wheelchair":"yes"}"ù
+ö{"access":"private","amenity":"parking","capacity":"2","fee":"no","name":"Behinderten-Parkplatz","park_ride":"yes","parking":"surface","supervised":"no","surface":"concrete","wheelchair":"yes","wheelchair:description":"2 Behinderten-ParkplÃ¤tze"}"ü
+ù{"access":"yes","addr:city":"Leipzig","addr:postcode":"04205","addr:street":"Jenaer StraÃŸe","amenity":"parking","capacity":"196","fee":"no","name":"P+R SchÃ¶nauer Ring","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","surface":"asphalt","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c59916"}"þ
+û{"access":"yes","amenity":"parking","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","covered":"no","fee":"no","lit":"yes","maxstay":"60 minutes","name":"Geithain, Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","parking:condition":"disc @ (1 h)","service":"parking_aisle","smoothness":"good","supervised":"no","surface":"paving_stones"}"‚
+ÿ{"access":"yes","addr:city":"Leipzig","addr:housenumber":"2","addr:postcode":"04207","addr:street":"Krakauer StraÃŸe","amenity":"parking","capacity":"250","fee":"no","name":"P+R Krakauer StraÃŸe","operator":"Stadt Leipzig","park_ride":"yes","parking":"surface","website":"http://www.leipzig.de/umwelt-und-verkehr/unterwegs-in-leipzig/auto-motorrad-und-reisemobile/park-ride/#c61123"}" €Éò;" €Ëû÷" ˆý" ‚…¿–" ‚ø'" ƒÉž†" ƒËû÷" ƒÖ›Š" ƒèÚ´" „Žú" „¨ø " „×ÍŠ" „ïÆ—" …ƒåŸ" †´­n" †À½é" ‡Ž†~" ‰äüT" Ù†o" õË" Žß³d" ÒÃ¬" ÒÃ¬" ‘æ@" ‘°°g" ‘ºý." ‘Ñøk" ‘Û˜" ‘á±:" ’Í¾" ’ç‚" “§•ª" ”üÌë" –ŒÀO" –»Û[" —Ó•" —ëüP" ˜êõ." ™÷ÂN" š²Ï" œì«6" žÓÌŽ" ž×‡à" ŸŒ©‡" ŸìžÒ" ŸîÜá"  Õ´" ¡±Ÿ{" ¡Ù©È" ¡àËG" ¢±Ÿ{" £‹àL" £¤‡c" £ÃÆ6" £ÒË?" ¥¤õì" ¥«ü–" ¥±Ÿ{" ¥½Ò4" ¦±î0" ¦ðÔ" ¨êŒ" ¨˜î[" ¨ºˆ" ©µ‹Ö" ©ÔØ" ¬óô" ­×öã" ­ðê’" ¯àÖµ" ±Ýýð" ±ôñ6" ²Óèc" ³ŸÂ" ³¹—A" ³ÇÈz" ³èÝý" ´ðo" µ­‚W" ¶À©×" ¶ÒƒÐ" ¶ì¢»" ·»ôT" ¸œ" ¸¸ð¥" ¹Úú" ¹óñü" º¶ëÁ" ºîé" ºóñü" »â-" ¼ƒ‚s" ¼ìÈf" ¼óÇ" ¼óñü" ½ÅÍ" ½ÔëÁ" ¾óñü" ¿ßà€" ¿óñü" ¿ø°˜" À…“" ÂÝÒ0" ÂÝäÚ" Âü„" Ã®“Y" ÄŽÑC" ÄÂ½ä" ÄÝäÚ" ÄàO" Äè§" ÅÂ½ä" ÆÂ½ä" Æ×µd" ÇÂ½ä" Çà†á" Ç÷ŠÖ" ÈÂ½ä" ÈÛíª" ÈîŸ" É‰Œi" É’ž" Éœ®ª" ÉÂ½ä" ÉÏŠ" ÊŽàx" Ê³Ç˜" Êó’³" Êõû]" Ë¤ª§" ËÂ½ä" ËÝÜS" ËãÉÇ" Ëø¹•" Ìêõ" Ì¤ª§" ÌÂ½ä" ÍŽàx" Í¤ª§" ÍÂÎÈ" ÎŽàx" Î¤ª§" Î¶×/" ÎÂ½ä" ÏŽàx" Ïª…a" ÏÂ½ä" ÏÚ•“" Ð„" ÐŸ—." Ð¢ú" ÐÂ½ä" ÐÏëÀ" Òµ¬ä" ÒÂ½ä" Òç‡" Ò÷›" Óˆ’M" ÓÂ½ä" Óçü¸" Ôˆ¢" Õ–Ž" ÕÂ½ä" Ö¨ËÜ" Ö«ˆ" Ö¸Éœ" ÖÂ½ä" ÖðÏ‰" ×Â½ä" Ø©»O" ØÂ½ä" ØÙÜE" ÙÂ½ä" Ú“°R" Ú úE" Ú«äw" ÚÂ½ä" ÚðÏ‰" Û‡ÐU" Üæ" Üèßœ" Ý¨ËÜ" ÝÂ½ä" ÝÆæ" Þ“Ðÿ" Þ¡Â" ÞÂ½ä" ß‰Áê" ßÂ½ä" à‰Áê" àÂ½ä" àà‡ð" áÂ½ä" ãŽ‰" ä¡ÒÔ" ä¨ìD" äÂ½ä" å¨ìD" åÂ½ä" æÂ½ä" çè¦" èÂ½ä" é°ƒT" éÙíS" éóñü" êÂ½ä" ëóñü" ìŠ·" ì—ý" ì¸õ" ìõÙ" ìù“Q" í¤Š3" í·¢„" íÂ½ä" íóñü" îÂ½ä" îîÔ" îóñü" ïÂ½ä" ïÏÙè" ïÞÿ" ïúª" ðÂ½ä" ðãà" ðóñü" ñ›Ç¦" ñ¥Ñ¿" ñÃñ²" ñÔÁ=" ò‚èð" òÒ" ò›Ç¦" òžð=" ò£Äê" òí¼" ó‚èð" óÏ¬0" ô‚èð" ô•Ò!" õ‚èð" õ¹‚n" õù" ö¦ìÁ" öª„©" öâ¤ã" öã¾" ÷—›" ÷Éíí" øšð" ø¾ŸÎ" øÌºv" øæ‘x" ùÞÚ" ùð­" ú¸õ" úÂ¯" úÃÙ" úçÚ´" ûÚâV" ûçÚ´" ü£‡c" ýå££" þ‚" þÑ’" þÝ’¡" ÿšð ÿK"	Aä Äi"	Iô ¨"	¢.W Ãs"	ž3… ƒº"	¸4‘ Õ1"	¼4“ ‹`"	ü4 Ú"	¤4O ô0"	Î4c Œv"	–5 › "	â5‘ ¦£"	æ5 år"	Ì6Ÿ ˆ"	¸ì £“"	¶è »«"	Ôú 3"	öä °/"	¼š
+ à†"	Ì„ ×D"	Æ– ÖD"	Â  ½ "	¨– “j"	øò Â""	€Ú Ç"	€à ¾"	æÊ Í8"	Ìò Ñ"	Ðò Ê;"	Òô ¾?"	Ôô ¥ž"	Œ˜ ÝZ"	ºœ å"	Â® –´"	¦î Át"	~Š% æ§"	üœ" Ç"	®	À) !"	ä	º. ÆO"	øŽ5 µ‘"	 °5 ­,"	Z¤: ¨7"	\¢: •h"	ìÚ: x"	ÞŒ3 ¿E"	ŠÄ8 ð("	æþ: ó'"	æþ: ú&"	æþ: éa"	îô: ©S"	à
+¢; S"	à
+¢; £*"	à
+¢; Ä5"	ðŠ% î_"	¨â& 4"	Þæ& Õ"	”ò' ¡"	Ö¸+ Û¥"	ü¬+ ‚¾"	ÄÞ* Ïƒ"	Æâ* ‘"	˜‚+ äÀ"	 ž+ ð’"	ô´# Ì‹"	ö¼# ÑŒ"	ø¼# öo"	”Ô( øl"	î”( òµ"	Øð( ª”"	®ˆ+ ºŠ"	®Ž+ ÎR"	ú†* è	"	Ž¶, ò$"	Ž¶, Á"	Ž´, Ô\"	Žº, † "	ŠÜ( ´
+"	Žä* î:"	Žæ* ª"	’Æ: á"	’œ> Ë"	’˜2 ê9"	ê¢1 ‰"	ê¨1 ã~"	¾ò; Í¦"	¾Ü< ‰"	Ò!Ø Æ"	š't ÝG"	š'Ö ô„"	¾'Ž ñ¢"	’&ž þ¼"	–&š Ì¸"	Š'†	 â"	Ä$Ä ”"	Æ$Ä –"	†)ð È¡"	ˆ)ò ¦"	â*¨ èI"	¬)Ò ú<"	¬)Ô Ë+"	À(  Î'"	¾(¢ ÀF"	È(’ Â%"	Â(ž È)"	Â(ž ’g"	Æ(š Âk"	Š*Ì Ök"	Œ*Î Ê"	€.œ “H"	ô. ½"	ò.N ¸Q"	ª/ È"	ô/p á"	ô/r Þ="	Œ-– ®"	ô-ê ‘"	ö-î ·‚"	ò-ò Å"	ª.ô · "	º,Þ «#"	¸0H Ä>"	È0@ ¡…"	þ1Ø ‚T"	Ö0’ Ü•"	ð0Â ²"	’3À ‹L"	ˆ1Ê õ¨"	Š1Ì Æ"	1Ê ß"	¢1¸ µX"	Ê1ˆ ÷¯"	²2¦ ìm"	¾4ô ïN"	ð4È ¬f"	ô4Î ¶C"	ö4Ð ™d"	Š6v  {"	à5‚ œz"	à5‚ —z"	â5‚ ™|"	â5‚ Ž|"	â5„ Š|"	â5„ ˆz"	â5„ …z"	â5„ ‡{"	â5„ ÿz"	â5† {"	â5† ýz"	â5† ûz"	â5† ÷z"	â5† ñ|"	ä5† í{"	ä5ˆ é{"	ä5ˆ ç{"	ä5ˆ ëz"	ä5ˆ ã{"	ä5ˆ ßz"	ä5Š Û}"	ä5Š Ø{"	ä5Š Ó{"	ä5Š Ð{"	ä5Œ É{"	ä5Œ Ãz"	ä5Œ ¼{"	æ5Œ ¶{"	æ5Œ ³z"	æ5Œ ±z"	æ5Ž °{"	æ5Ž ¬{"	æ5Ž ±b"	ˆ6ô ´2"	ˆ6ú Ê"	Š6ô ¯c"	ˆ6ö ­c"	ˆ6ö §c"	Š6ø øœ"	6Š ×u"	6Œ Š–"	¦6’  "	œ6î ïY"	š6€ "	Â2ì ù"	¤6þ â"	ü8€ Ã"	þ8€ Å"	€9þ É"	‚9þ ë"	Æ:è š"	È:ê ²"	ä<ˆ ý"	ä<Ž æW"	ö?¦ ’½"	ö?¨ û"	Ð4ô äp"	Ô'‚" Þ"	ì!¤) ¯e"	ð&¼/ ˜"	¦)Ú! Ÿ"	š*–+ ö¬"	¸.¢+ ù¿"	ø ´4 ”w"	¦!–6 ÙB"	²&Ú0 àU"	Ä#Ì9 ž"	È#À9 †±"	’!ä= „¤"	”!æ= ç"	˜%Ð= Ú"	ü$€? ¿"	€%¦> ¼6"	´%â> ¢š"	Ò&ž= ›š"	Ò&ž= ˜˜"	Ô& = ˆ"	Ô& = ‡"	Ô&¢= ¤›"	Ö&¢= Ÿ›"	Ö&¤= ¢›"	Ö&¤= š›"	Ö&¤= —™"	Ø&¦= €q"	Ø&¬= •"	Î.®4 ‡"	È)è; Å"	ò)„? Œ"	î*ö< ¥."	†+Ô= ^"	Ä+Ì> ©@"	ö+Ü> Ž‰"	”0€+ Ð"	Œ9Ê( €"	ô>Ø/ ê©"	Î2¼0 Áª"	Ð2Ä0 ü"	¼1î7 þy"	¼1ð7 ³J"	Ì4Þ0 À"	°4’1 ¸"	â6æ2 ó²"	œ6¶3 Ø°"	 7ø2 É]"	Ä7È3 œ["	è6Þ4 ¹-"	˜6ˆ5 ®V"	°6ô6 Ò€"	Ê6Ä6 ÏŸ"	œ3˜9 ÓP"	æ9¦2 Ò­"	ˆ:¶1 õ·"	ú:ò1 ü"	„8æ6 Ô—"	þ;¤4 ƒ³"	‚:Â6 Ë"	®;˜7 ºŽ"	°;š7 ÜA"	Ð<º2 „"	Ö<¼2 ¹¶"	€=ò7 Ù¹"	‚=ì7 …"	î9¼> ¤"	¼?ì8 »»"	æ „@ §®"	ê †@ Ç"	’!Ö@ «M"	ð"¨@ ín"	¢@¬ ž"	¶@Ü ì"	Ö@Ê,

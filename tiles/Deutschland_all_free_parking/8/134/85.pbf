@@ -1,0 +1,52 @@
+İFx
+Deutschland_all_free_parking(€ idtags"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface"}"X
+V{"amenity":"parking","capacity":"22","fee":"no","park_ride":"yes","parking":"surface"}"d
+b{"access":"yes","amenity":"parking","fee":"no","name":"ZOB","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","surface":"paving_stones"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"k
+i{"amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface"}"p
+n{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"q
+o{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","fee":"no","name":"Pendlerparkplatz","park_ride":"yes","parking":"surface"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"q
+o{"amenity":"parking","check_date":"2020-06-10","fee":"no","maxstay":"no","park_ride":"yes","parking":"surface"}"u
+s{"access":"yes","amenity":"parking","check_date:fee":"2022-01-04","fee":"no","park_ride":"yes","parking":"surface"}"y
+w{"access":"yes","amenity":"parking","capacity":"40","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"y
+w{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","surface":"compacted"}"y
+w{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"z
+x{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"
+}{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"„
+{"access":"permissive","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"†
+ƒ{"amenity":"parking","capacity":"30","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","capacity":"40","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","check_date:fee":"2024-09-18","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"Œ
+‰{"access":"customers","amenity":"parking","fee":"no","name":"Brenkener StraÃŸe","park_ride":"yes","parking":"surface","surface":"gravel"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","smoothness":"intermediate","surface":"cobblestone"}"
+Š{"amenity":"parking","check_date":"2020-06-10","fee":"no","hgv":"no","maxheight":"2","maxstay":"no","park_ride":"yes","parking":"surface"}"
+Œ{"amenity":"parking","capacity":"20","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"asphalt"}"’
+{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"pebblestone"}"•
+’{"access":"yes","amenity":"parking","fee":"no","lit":"yes","maxstay":"30 minutes","park_ride":"yes","parking":"surface","surface":"paving_stones"}"–
+“{"access":"yes","addr:city":"EdermÃ¼nde","addr:place":"Grifte","amenity":"parking","capacity":"8","capacity:disabled":"0","check_date":"2024-07-29","covered":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"™
+–{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"0","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"™
+–{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"š
+—{"access":"customers","amenity":"parking","check_date:fee":"2022-07-14","fee":"no","operator":"Deutsche Bahn AG","park_ride":"yes","parking":"surface"}"š
+—{"access":"yes","amenity":"parking","area":"yes","capacity":"20","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"š
+—{"access":"yes","amenity":"parking","description":"Park & Ride","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"Ÿ
+œ{"amenity":"parking","capacity":"20","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"¤
+¡{"amenity":"parking","capacity":"8","capacity:disabled":"1","fee":"no","name":"Bahnhof Lenglern","park_ride":"yes","parking":"surface","surface":"paving_stones"}"§
+¤{"access":"yes","amenity":"parking","fee":"no","opening_hours":"24/7","operator":"Gemeinde Weimar (Lahn)","park_ride":"yes","parking":"surface","surface":"asphalt"}"«
+¨{"access":"yes","amenity":"parking","capacity":"15","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","name":"Ederseebahn-Radweg","operator":"Gemeinde Edertal","park_ride":"yes","parking":"surface","smoothness":"bad","supervised":"no","surface":"gravel"}"¬
+©{"access":"private","amenity":"parking","capacity":"20","fee":"no","name":"SchÃ¼lerparkplatz","operator":"Europaschule Gladenbach","park_ride":"yes","parking":"surface"}"¸
+µ{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"3","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"¹
+¶{"access":"yes","amenity":"parking","capacity:charging":"2","capacity:disabled":"2","fee":"no","lit":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"¹
+¶{"addr:city":"Baunatal","addr:country":"DE","addr:postcode":"34225","addr:suburb":"Altenritte","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"È
+Å{"access":"yes","amenity":"parking","capacity":"48","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","fee":"no","lit":"no","park_ride":"yes","parking":"surface","supervised":"no"}"É
+Æ{"access":"permissive","addr:city":"Bad Wildungen","addr:country":"DE","addr:housenumber":"4","addr:postcode":"34537","addr:street":"StresemannstraÃŸe","amenity":"parking","capacity":"35","fee":"no","name":"Parkplatz Heloponte","operator":"Heloponte","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"Ó
+Ğ{"access":"yes","amenity":"parking","capacity":"114","fee":"no","maxstay":"unlimited","name":"Park & Ride","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"ô
+ñ{"access":"yes","amenity":"parking","description":"Park & Ride","fee":"no","note":"cap gelÃ¶scht da dort nie im Leben 200 KfZ draufpassen...","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"limited"}"
+ş{"access":"yes","addr:city":"Edertal","addr:housenumber":"10","addr:postcode":"34549","addr:street":"DaudenbergstraÃŸe","addr:suburb":"Bringhausen","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no"}" €Üß" ®ˆr" …îîì" †¸Çº" †éÕ¼" ‰Æä½" ‹­üá" §¾s" ó²i" ‘¶¶ " “¶¶ " •É§Y" •İËÎ" í–" ò“õ" Ÿ»Î" ò“õ" ø–…"  Ÿ»Î" ¢ÎÒ" ¢éºŠ" ¥›ş©" ¨ãØã" ªÛúe" ¯•ˆ" ±Í×" ²£ö:" ´øÊ" µ‰F" µÜú" ¹ÄòJ" ¿÷n" À²Îª" ÂÌ’" Âäét" È«Ş" É«Ş" Ê«Ş" Ëå©I" Ğ†" Ô÷­9" Õœù€-" Ö˜‰»" ÙéŠå" Û‘ü'" ÛÚ¶" Üú°¸" İ§·/" äè™" å×™" é²¿ğ" ë†ú§" ìˆ“ğ" ïáÂ¨" ò’Öø" ù‡" ş…Ô‘" ş– g"	î´ \)"	ÒŒ V"	Úü U"	Úş T"	æ† M"	¢€ ]"	¦Î ;"	ÈÚ :"	ÌÚ J*"	®¾ X	"	ğŞ ? "	òâ A"	òâ [,"	ü”) <("	¨Ü= 6&"	ÈÔ> S0"	¾È  f'"	¼€  G-"	‚Ø$ Q"	àª$ ="	€Ü9 @"	˜Ú9 C"	¢Ô9 a"	”+ú W"	Ò+Ş 4"	Ú,¾ P "	â.ş 3"	è#„ D"	°&ê F"	†*¬ B"	º+Î E "	Ğ-Œ j"	Ê/º h"	¬+Ú K+"	ş+– e"	€.Ş Z"	„.Ş ^#"	Ô7ô Y/"	Ú7ô N."	¼7ˆ O"	¨3ğ I"	ä5Â L"	¢6  8"	Ì6– R""	Ø!†# c"	æ)š  9"	ê)œ  5"	´-¾# b"	²-Ä# d"	¶-Â# H
+"	¸2ö# >"	è7Æ) i"	ì7Ü) `$"	Ğ8ø* 2!"	‚;’- 7"	ş?Â0 1%"	 Aš _"	ê@¼
